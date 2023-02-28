@@ -82,8 +82,8 @@ English, Vietnamese, Python, C++, Fortran.
 
 ### Professional
 
-``<a href="https://vllt-joint-seminar-series.github.io/2021/">2021</a>-<a href="https://vllt-joint-seminar-series.github.io/2022/">2022</a>``
- VLLT Joint Astronomy & Physics Seminar Series (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam).
+`2021-2022`
+ <a href="https://vllt-joint-seminar-series.github.io/2022/">VLLT Joint Astronomy & Physics Seminar Series</a> (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam).
 
 `2022-now`
 Cosmology Journal Club and Group Meeting (Leinweber Center for Theoretical Physics, University of Michigan).
@@ -91,7 +91,7 @@ Cosmology Journal Club and Group Meeting (Leinweber Center for Theoretical Physi
 `2020-2021`
 Cosmology Book Club (Max Planck Institute for Astrophysics).
 `2018-2020`
-Large-scale Structure Journal Club (joint between Max Planck Institute for Astrophysics and Max Planck Institute for Extraterrestrial Physics).
+<a href="https://wwwmpa.mpa-garching.mpg.de/CosmoClub/">Large-scale Structure Journal Club</a> (joint between Max Planck Institute for Astrophysics and Max Planck Institute for Extraterrestrial Physics).
 
 ### Social & Outreach
 
