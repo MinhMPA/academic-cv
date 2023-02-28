@@ -21,6 +21,7 @@ Large-scale Structure, or Cosmic Microwave Background, or both
 
 Field-level, forward-model of galaxy clustering and galaxy instrinsic shape alignment; kinematic Sunyaev-Zel'dovich effect; growth of structure
 
+
 ## Education
 
 `2016 - 2020, Dr. rer. nat.`
@@ -30,9 +31,13 @@ __Ludwig Maximmilians University of Munich__
 
 `2014-2016, MSc.`
 __Erasmus Joint Master Degree in Astronomy & Astrophysics__
-__University of G__
+__University of GU+00F6ttingen__
+__University of Rome, Tor Vergata__
+__University of Innsbruck__
 
 `2008-2013, BSc.`
+__Physics and Theoretical Physics (Honor program)__
+__Ho Chi Minh University of Science__
 
 ## Publications
 
@@ -41,7 +46,7 @@ __University of G__
 ### First, or co-first, or second author (with equal or significant contributions)
 
 `2023`
-Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories. Wen<sup>1</sup>, NM<sup>1</sup>, Huterer. In prep.
+Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories. WenU+00B9, NMU+00B9, Huterer. In prep.
 `2023`
 Evidence for suppression of structure growth in the concordance cosmological model. NM<sup>1</sup>, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>
 
@@ -67,6 +72,9 @@ A rigorous EFT-based forward model for large-scale structure. Schmidt et al. <a 
 ## Advising
 
 - Andrja Kosti&#263; (MPA), co-advising with Fabian Schmidt.
+
+## Languages
+English, Vietnamese, Python, C++, Fortran
 
 ## Activities
 
