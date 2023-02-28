@@ -24,7 +24,7 @@ Field-level, forward-model of galaxy clustering and galaxy instrinsic shape alig
 
 ## Education
 
-`2016 - 2020, PhD
+`2016 - 2020, PhD`
 __International Max Planck Research School on Astrophysics__  
 __Max Planck Institute for Astrophysics, Garching near Munich__  
 __Ludwig Maximmilians University of Munich__
@@ -95,10 +95,11 @@ Cosmology Book Club (Max Planck Institute for Astrophysics).
 
 ### Social & Outreach
 
-``2022-now``
+`2022-now`
 Institute Social Coffee (Leinweber Center for Theoretical Physics).
-``2022-now``
-<a href="https://www.skypeascientist.com/">Skype a Scientist (science outreach and interview with students of all ages and backgrounds in the US)</a>
+
+`2022-now`
+<a href="https://www.skypeascientist.com/">Skype a Scientist</a> (science outreach and interview with students of all ages and backgrounds in the US)
 
 ## Favorite things in the world
 
