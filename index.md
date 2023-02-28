@@ -24,7 +24,7 @@ Field-level, forward-model of galaxy clustering and galaxy instrinsic shape alig
 
 ## Education
 
-`2016 - 2020, PhD`  
+`2016 - 2020, PhD
 __International Max Planck Research School on Astrophysics__  
 __Max Planck Institute for Astrophysics, Garching near Munich__  
 __Ludwig Maximmilians University of Munich__
