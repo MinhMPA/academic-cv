@@ -24,18 +24,18 @@ Field-level, forward-model of galaxy clustering and galaxy instrinsic shape alig
 
 ## Education
 
-`2016 - 2020, Dr. rer. nat.`
+`2016 - 2020, PhD`  
 __International Max Planck Research School on Astrophysics__  
 __Max Planck Institute for Astrophysics, Garching near Munich__  
 __Ludwig Maximmilians University of Munich__
 
-`2014-2016, MSc.`
+`2014-2016, MSc`
 __Erasmus Joint Master Degree in Astronomy & Astrophysics__  
 __University of G&ouml;ttingen__  
 __University of Rome, Tor Vergata__  
 __University of Innsbruck__
 
-`2008-2013, BSc.`
+`2008-2013, BSc`
 __Physics and Theoretical Physics (Honor program)__  
 __Ho Chi Minh University of Science__
 
@@ -47,6 +47,7 @@ __Ho Chi Minh University of Science__
 
 `2023`
 Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories. Wen^(1), NM^(1), Huterer. In prep.
+
 `2023`
 Evidence for suppression of structure growth in the concordance cosmological model. NM^(1), Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>
 
@@ -71,7 +72,8 @@ A rigorous EFT-based forward model for large-scale structure. Schmidt et al. <a 
 
 ## Advising
 
-- Andrja Kosti&#263; (MPA), co-advising with Fabian Schmidt.
+- Andrja Kosti&#263; (PhD student, Max Planck Institute for Astrophysics), co-advising with Fabian Schmidt.
+- Madeline Fredericks (Undergraduate student, University of Michigan)
 
 ## Languages
 English, Vietnamese, Python, C++, Fortran
@@ -97,6 +99,10 @@ Large-scale Structure Journal Club (joint between Max Planck Institute for Astro
 Institute Social Coffee (Leinweber Center for Theoretical Physics)
 ``2022-now``
 <a href="https://www.skypeascientist.com/">Skype a Scientist (science outreach and interview with students of all ages and backgrounds in the US)</a>
+
+### Favorite things in the world
+
+Universe, Mountains, Cuesports, Keyboards, Travel, Street Food (or any good food), Enjoy Cherry Blossom, Drinks and Conversations with Friends
 
 <!-- ### Footer
 
