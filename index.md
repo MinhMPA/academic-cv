@@ -50,7 +50,7 @@ Ho Chi Minh University of Science
 ### First, or co-first, or second author (with equal or significant contributions)
 
 `2023`
-**Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen<img src="https://render.githubusercontent.com/render/math?math=^1">, NM<img src="https://render.githubusercontent.com/render/math?math=^1">, Huterer. In prep.
+**Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, NM^$1$, Huterer. In prep.
 
 `2023`
 **Evidence for suppression of structure growth in the concordance cosmological model**. NM$^{1}$, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>.
