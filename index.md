@@ -50,16 +50,16 @@ Ho Chi Minh University of Science
 ### First, or co-first, or second author (with equal or significant contributions)
 
 `2023`
-**Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, NM^$1$, Huterer. In prep.
+**Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, NM$^1$, Huterer. In prep.
 
 `2023`
-**Evidence for suppression of structure growth in the concordance cosmological model**. NM$^{1}$, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>.
+**Evidence for suppression of structure growth in the concordance cosmological model**. NM$^1$, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>.
 
 `2022`
-**Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;$^{1}$, NM$^{2}$, Schmidt, Reinecke. <a href="https://arxiv.org/abs/2212.07875">arxiv preprint</a>.
+**Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;$^1$, NM$^2$, Schmidt, Reinecke. <a href="https://arxiv.org/abs/2212.07875">arxiv preprint</a>.
 
 `2021`
-**Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey**. Tsaprazi$^{1}$, NM$^{1}$, et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>
+**Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey**. Tsaprazi$^1$, NM$^1$, et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>
 
 `2021`
 **Impacts of the physical data model on the forward inference of initial conditions from biased tracers**. NM et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>.
