@@ -103,7 +103,7 @@ Institute Social Coffee (Leinweber Center for Theoretical Physics).
 
 ## Favorite things in the world
 
-Thanh (Wifey!); Dogs; Universe; Mountains; Cuesports; Keyboards; Travel; Street Food (or any good food); Enjoy Cherry Blossom, Drinks and Conversations with Friends.
+Thanh (Wifey!); dogs; Universe; mountains; cuesports; keyboards; travel; street food (or any good food); enjoy cherry blossom, drinks and conversations with friends.
 
 <!-- ### Footer
 
