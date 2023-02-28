@@ -31,7 +31,7 @@ __Ludwig Maximmilians University of Munich__
 
 `2014-2016, MSc.`
 __Erasmus Joint Master Degree in Astronomy & Astrophysics__
-__University of GU+00F6ttingen__
+__University of G&ouml;ttingen__
 __University of Rome, Tor Vergata__
 __University of Innsbruck__
 
