@@ -38,35 +38,54 @@ __Ludwig Maximmilians University of Munich__
 ### First, or co-first, or second author (with equal or significant contributions)
 
 `2023`
-Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories. Wen$^1$, NM$^1$, Huterer. In prep.
+Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories. Wen^1^, NM^1^, Huterer. In prep.
 `2023`
-Evidence for suppression of structure growth in the concordance cosmological model. NM$^1$, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>
+Evidence for suppression of structure growth in the concordance cosmological model. NM^1^, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>
 
 `2022`
-Consistency tests of field level inference with the EFT likelihood. Kostic, NM$^2$, Schmidt, Reinecke. <a href="https://arxiv.org/abs/2212.07875">arxiv preprint</a>
+Consistency tests of field level inference with the EFT likelihood. Kosti`{c}^1^, NM^2^, Schmidt, Reinecke. <a href="https://arxiv.org/abs/2212.07875">arxiv preprint</a>
 
 `2021`
-Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey. Tsaprazi$^1$, NM^$1$, et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>
+Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey. Tsaprazi^1^, NM^1^, et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>
 
 `2021`
-Impacts of the physical data model on the forward inference of initial conditions from biased tracers. NM^$1$ et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>
+Impacts of the physical data model on the forward inference of initial conditions from biased tracers. NM^1^ et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>
 
 `2020`
-Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling. NM^$1$ et al. <a href="">JCAP12(2020)011</a>
+Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling. NM^1^ et al. <a href="">JCAP12(2020)011</a>
 
 ### Co-author
 
 `2019`
 Cosmology Inference from Biased Tracers using the EFT-based Likelihood. Elsner et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2020/01/029">JCAP01(2020)029</a>
+`2018`
 A rigorous EFT-based forward model for large-scale structure. Schmidt et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2019/01/042">JCAP01(2019)042</a>
 
+## Advising
 
-## Professional & Social Activies
+- Andrja Kosti`{c} (MPA), co-advising with Fabian Schmidt.
 
-- Institute Social Coffee (Leinweber Center for Theoretical Physics)
-- Cosmology Journal Club and Group Meeting (Leinweber Center for Theoretical Physics, University of Michigan)
-- Cosmology Book Club (Max Planck Institute for Astrophysics)
-- Large-scale Structure Journal Club (joint between Max Planck Institute for Astrophysics and Max Planck Institute for Extraterrestrial Physics)
+## Activities
+
+### Professional
+
+``<a href="https://vllt-joint-seminar-series.github.io/2021/">2021</a>-<a href="https://vllt-joint-seminar-series.github.io/2022/">2022</a>``
+ VLLT Joint Astronomy & Physics Seminar Series (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam).
+
+`2022-now`
+Cosmology Journal Club and Group Meeting (Leinweber Center for Theoretical Physics, University of Michigan)
+
+`2020-2021`
+Cosmology Book Club (Max Planck Institute for Astrophysics)
+`2018-2020`
+Large-scale Structure Journal Club (joint between Max Planck Institute for Astrophysics and Max Planck Institute for Extraterrestrial Physics)
+
+### Social & Outreach
+
+``2022-now``
+Institute Social Coffee (Leinweber Center for Theoretical Physics)
+``2022-now``
+<a href="https://www.skypeascientist.com/">Skype a Scientist (science outreach and interview with students of all ages and backgrounds in the US)</a>
 
 <!-- ### Footer
 
