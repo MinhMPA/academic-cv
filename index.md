@@ -7,11 +7,9 @@ Astrophycist, Cosmologist, Leinweber Research Fellow
 
 <div id="webaddress">
 <a href="https://minhmpa.github.io/">Webpage</a>
-<a href="www.linkedin.com/in/minhmpa">LinkedIn</a>
-
 <a href="https://orcid.org/0000-0002-2542-7233">ORCID</a>
 <a href="https://github.com/MinhMPA">GitHub</a>
-
+<a href="www.linkedin.com/in/minhmpa">LinkedIn</a>
 <a href="https://twitter.com/MinhNguyenAstro">Twitter</a>
 </div>
 
