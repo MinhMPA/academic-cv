@@ -73,6 +73,7 @@ Ho Chi Minh University of Science
 
 `2019`
 **Cosmology Inference from Biased Tracers using the EFT-based Likelihood**. Elsner et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2020/01/029">JCAP01(2020)029</a>.
+
 `2018`
 **A rigorous EFT-based forward model for large-scale structure**. Schmidt et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2019/01/042">JCAP01(2019)042</a>.
 
