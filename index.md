@@ -23,13 +23,16 @@ Field-level, forward-model of galaxy clustering and galaxy instrinsic shape alig
 
 ## Education
 
-`2014-2016, MSc.`
-__Erasmus Joint Master Degree in Astronomy & Astrophysics__
-
 `2016 - 2020, Dr. rer. nat.`
 __International Max Planck Research School on Astrophysics__
 __Max Planck Institute for Astrophysics, Garching near Munich__
 __Ludwig Maximmilians University of Munich__
+
+`2014-2016, MSc.`
+__Erasmus Joint Master Degree in Astronomy & Astrophysics__
+__University of G__
+
+`2008-2013, BSc.`
 
 ## Publications
 
@@ -38,21 +41,21 @@ __Ludwig Maximmilians University of Munich__
 ### First, or co-first, or second author (with equal or significant contributions)
 
 `2023`
-Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories. Wen^1^, NM^1^, Huterer. In prep.
+Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories. Wen<sup>1</sup>, NM<sup>1</sup>, Huterer. In prep.
 `2023`
-Evidence for suppression of structure growth in the concordance cosmological model. NM^1^, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>
+Evidence for suppression of structure growth in the concordance cosmological model. NM<sup>1</sup>, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>
 
 `2022`
-Consistency tests of field level inference with the EFT likelihood. Kosti`{c}^1^, NM^2^, Schmidt, Reinecke. <a href="https://arxiv.org/abs/2212.07875">arxiv preprint</a>
+Consistency tests of field level inference with the EFT likelihood. Kosti&cacute;<sup>1</sup>, NM<sup>2</sup>, Schmidt, Reinecke. <a href="https://arxiv.org/abs/2212.07875">arxiv preprint</a>
 
 `2021`
-Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey. Tsaprazi^1^, NM^1^, et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>
+Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey. Tsaprazi<sup>1</sup>, NM<sup>1</sup>, et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>
 
 `2021`
-Impacts of the physical data model on the forward inference of initial conditions from biased tracers. NM^1^ et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>
+Impacts of the physical data model on the forward inference of initial conditions from biased tracers. NM<sup>1</sup> et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>
 
 `2020`
-Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling. NM^1^ et al. <a href="">JCAP12(2020)011</a>
+Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling. NM<sup>1</sup> et al. <a href="">JCAP12(2020)011</a>
 
 ### Co-author
 
@@ -63,7 +66,7 @@ A rigorous EFT-based forward model for large-scale structure. Schmidt et al. <a 
 
 ## Advising
 
-- Andrja Kosti`{c} (MPA), co-advising with Fabian Schmidt.
+- Andrja Kosti&cacute; (MPA), co-advising with Fabian Schmidt.
 
 ## Activities
 
