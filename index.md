@@ -77,7 +77,7 @@ Ho Chi Minh University of Science
 
 ## Languages
 
-English, Vietnamese, Python, C++, Fortran.
+English, Vietnamese, Python, C++, Fortran, Bayesian
 
 ## Recent Talks & Visits
 
@@ -109,23 +109,23 @@ English, Vietnamese, Python, C++, Fortran.
 ### Professional
 
 `2021-2022`
- <a href="https://vllt-joint-seminar-series.github.io/2022/">VLLT Joint Astronomy & Physics Seminar Series</a> (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam).
+ <a href="https://vllt-joint-seminar-series.github.io/2022/">**VLLT Joint Astronomy & Physics Seminar Series**</a> (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam).
 
 `2022-now`
-Cosmology Journal Club and Group Meeting (Leinweber Center for Theoretical Physics, University of Michigan).
+**Cosmology Journal Club** and **Group Meeting** (Leinweber Center for Theoretical Physics, University of Michigan).
 
 `2020-2021`
-Cosmology Book Club (Max Planck Institute for Astrophysics).
+**Cosmology Book Club** (Max Planck Institute for Astrophysics).
 `2018-2020`
-<a href="https://wwwmpa.mpa-garching.mpg.de/CosmoClub/">Large-scale Structure Journal Club</a> (joint between Max Planck Institute for Astrophysics and Max Planck Institute for Extraterrestrial Physics).
+<a href="https://wwwmpa.mpa-garching.mpg.de/CosmoClub/">**Large-scale Structure Journal Club**</a> (joint between Max Planck Institute for Astrophysics and Max Planck Institute for Extraterrestrial Physics).
 
 ### Social & Outreach
 
 `2022-now`
-Institute Social Coffee (Leinweber Center for Theoretical Physics).
+**Institute Social Coffee** (Leinweber Center for Theoretical Physics).
 
 `2022-now`
-<a href="https://www.skypeascientist.com/">Skype a Scientist</a> (science outreach and interview with students of all ages and backgrounds in the US)
+<a href="https://www.skypeascientist.com/">**Skype a Scientist**</a> (science outreach and interview with students of all ages and backgrounds in the US)
 
 ## Personal favorites
 
