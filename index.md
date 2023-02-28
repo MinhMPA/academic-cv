@@ -17,13 +17,13 @@ Astrophycist, Cosmologist, Leinweber Research Fellow
 
 Research fellow at Leinweber Center for Theoretical Physics, Department of Physics, LSA College, University of Michigan
 
-## Broad Research Interest
+## Research Interest
 
-Large-scale Structure, or Cosmic Microwave Background, or both
+Large-scale Structure, or Cosmic Microwave Background, or both.
 
 ## Expertise
 
-Field-level, forward-model of galaxy clustering and galaxy instrinsic shape alignment; kinematic Sunyaev-Zel'dovich effect; growth of structure
+Field-level, forward-model of galaxy clustering and galaxy instrinsic shape alignment; kinematic Sunyaev-Zel'dovich effect; growth of structure; sampling methods for Bayesian inference.
 
 
 ## Education
@@ -79,7 +79,7 @@ Ho Chi Minh University of Science
 
 English, Vietnamese, Python, C++, Fortran, Bayesian
 
-## Recent Talks & Visits
+## (Post-COVID19) Talks & Visits
 
 - Future Science with CMB x LSS workshop, YITP, Kyoto, April 2023.
 - TACOS seminar, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
@@ -116,6 +116,7 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 
 `2020-2021`
 **Cosmology Book Club** (Max Planck Institute for Astrophysics).
+
 `2018-2020`
 <a href="https://wwwmpa.mpa-garching.mpg.de/CosmoClub/">**Large-scale Structure Journal Club**</a> (joint between Max Planck Institute for Astrophysics and Max Planck Institute for Extraterrestrial Physics).
 
