@@ -70,13 +70,33 @@ Cosmology Inference from Biased Tracers using the EFT-based Likelihood. Elsner e
 `2018`
 A rigorous EFT-based forward model for large-scale structure. Schmidt et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2019/01/042">JCAP01(2019)042</a>.
 
+## Languages
+
+English, Vietnamese, Python, C++, Fortran.
+
+## Talks & Visits
+
+- Future Science with CMB x LSS workshop, YITP, Kyoto, April 2023.
+- TACOS seminar, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
+- Aspen workshop on "Large-Scale Structure Cosmology beyond 2-Point Statistics", June 2022. (My first ever blackboard talk, pictured at the bottom.)
+- Astro Lunch Seminar, Kavli IPMU, May 2022.
+- KIPAC Cosmology Seminar, Stanford, May 2022.
+- Berkeley Cosmology Group Seminar, Berkeley Center for Cosmological Physics, April 2022.
+- NYU-CCA Cosmology x Data Science Meeting, New York University-Flatiron Institute (remote), March 2021.
+- OPINAS Group Meeting, Max-Planck-Institut f&#252;r extraterrestrische Physik (remote), March 2021.
+- Cosmology & Gravitation Group Meeting, Oskar Klein Centre (remote), February 2021.
+- "The Origin and Evolution of Large-Scale Structure" Science Afternoon, Excellence Cluster ORIGINS (remote), February 2021.
+- CosmoLunch Meeting, Institute of Advanced Study, Princeton (remote), January 2021.
+- Universe Journal Club, Institut d'astrophysique de Paris (remote), December 2020.
+- Cosmology Seminar, Max-Planck-Institut f&#252;r Astrophysik (remote), December 2020..
+- Astroparticle Physics Seminar, SISSA (remote), December 2020.
+- Cosmology Group Meeting, Perimeter Institute (remote), December 2020.
+- Cosmology Seminar, University of Manchester (remote), December 2020.
+
 ## Advising
 
 - Andrja Kosti&#263; (PhD student, Max Planck Institute for Astrophysics), co-advising with Fabian Schmidt.
 - Madeline Fredericks (Undergraduate student, University of Michigan).
-
-## Languages
-English, Vietnamese, Python, C++, Fortran.
 
 ## Activities
 
@@ -107,6 +127,6 @@ Universe; dogs; travel; mountains; cuesports; keyboards; street food (or any goo
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2023 -->
 
 
