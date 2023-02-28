@@ -46,7 +46,7 @@ Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modifi
 Evidence for suppression of structure growth in the concordance cosmological model. NM<sup>1</sup>, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>
 
 `2022`
-Consistency tests of field level inference with the EFT likelihood. Kosti&cacute;<sup>1</sup>, NM<sup>2</sup>, Schmidt, Reinecke. <a href="https://arxiv.org/abs/2212.07875">arxiv preprint</a>
+Consistency tests of field level inference with the EFT likelihood. Kosti&#263;<sup>1</sup>, NM<sup>2</sup>, Schmidt, Reinecke. <a href="https://arxiv.org/abs/2212.07875">arxiv preprint</a>
 
 `2021`
 Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey. Tsaprazi<sup>1</sup>, NM<sup>1</sup>, et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>
@@ -66,7 +66,7 @@ A rigorous EFT-based forward model for large-scale structure. Schmidt et al. <a 
 
 ## Advising
 
-- Andrja Kosti&cacute; (MPA), co-advising with Fabian Schmidt.
+- Andrja Kosti&#263; (MPA), co-advising with Fabian Schmidt.
 
 ## Activities
 
