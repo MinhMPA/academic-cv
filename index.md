@@ -26,18 +26,18 @@ Field-level, forward-model of galaxy clustering and galaxy instrinsic shape alig
 
 `2016 - 2020, PhD`
 __International Max Planck Research School on Astrophysics__  
-__Max Planck Institute for Astrophysics, Garching near Munich__  
-__Ludwig Maximmilians University of Munich__
+Max Planck Institute for Astrophysics, Garching near Munich  
+Ludwig Maximmilians University of Munich
 
 `2014-2016, MSc`
 __Erasmus Joint Master Degree in Astronomy & Astrophysics__  
-__University of G&ouml;ttingen__  
-__University of Rome, Tor Vergata__  
-__University of Innsbruck__
+University of G&ouml;ttingen  
+University of Rome, Tor Vergata  
+University of Innsbruck
 
 `2008-2013, BSc`
 __Physics and Theoretical Physics (Honor program)__  
-__Ho Chi Minh University of Science__
+Ho Chi Minh University of Science
 
 ## Publications
 
@@ -46,35 +46,35 @@ __Ho Chi Minh University of Science__
 ### First, or co-first, or second author (with equal or significant contributions)
 
 `2023`
-Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories. Wen$^{1}$, NM$^{1}$, Huterer. In prep.
+**Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^{1}$, NM$^{1}$, Huterer. In prep.
 
 `2023`
-Evidence for suppression of structure growth in the concordance cosmological model. NM$^{1}$, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>.
+**Evidence for suppression of structure growth in the concordance cosmological model**. NM$^{1}$, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>.
 
 `2022`
-Consistency tests of field level inference with the EFT likelihood. Kosti&#263;$^{1}$, NM^2, Schmidt, Reinecke. <a href="https://arxiv.org/abs/2212.07875">arxiv preprint</a>.
+**Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;$^{1}$, NM$^{2}$, Schmidt, Reinecke. <a href="https://arxiv.org/abs/2212.07875">arxiv preprint</a>.
 
 `2021`
-Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey. Tsaprazi$^{1}$, NM$^{1}$, et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>
+**Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey**. Tsaprazi$^{1}$, NM$^{1}$, et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>
 
 `2021`
-Impacts of the physical data model on the forward inference of initial conditions from biased tracers. NM et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>.
+**Impacts of the physical data model on the forward inference of initial conditions from biased tracers**. NM et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>.
 
 `2020`
-Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling. NM et al. <a href="">JCAP12(2020)011</a>.
+**Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling**. NM et al. <a href="">JCAP12(2020)011</a>.
 
 ### Co-author
 
 `2019`
-Cosmology Inference from Biased Tracers using the EFT-based Likelihood. Elsner et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2020/01/029">JCAP01(2020)029</a>.
+**Cosmology Inference from Biased Tracers using the EFT-based Likelihood**. Elsner et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2020/01/029">JCAP01(2020)029</a>.
 `2018`
-A rigorous EFT-based forward model for large-scale structure. Schmidt et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2019/01/042">JCAP01(2019)042</a>.
+**A rigorous EFT-based forward model for large-scale structure**. Schmidt et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2019/01/042">JCAP01(2019)042</a>.
 
 ## Languages
 
 English, Vietnamese, Python, C++, Fortran.
 
-## Talks & Visits
+## Recent Talks & Visits
 
 - Future Science with CMB x LSS workshop, YITP, Kyoto, April 2023.
 - TACOS seminar, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
@@ -93,10 +93,11 @@ English, Vietnamese, Python, C++, Fortran.
 - Cosmology Group Meeting, Perimeter Institute (remote), December 2020.
 - Cosmology Seminar, University of Manchester (remote), December 2020.
 
-## Advising
+## Supervision
 
-- Andrja Kosti&#263; (PhD student, Max Planck Institute for Astrophysics), co-advising with Fabian Schmidt.
-- Madeline Fredericks (Undergraduate student, University of Michigan).
+- **Andrja Kosti&#263;** (PhD student, Max Planck Institute for Astrophysics), co-advising with Fabian Schmidt.
+- **Madeline Fredericks** (Undergraduate student, University of Michigan).
+- **Eleni Tsaprazi** (PhD student, Stockholm University), co-advised with Jens Jasche.
 
 ## Activities
 
