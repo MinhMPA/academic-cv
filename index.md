@@ -1,88 +1,72 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nhat-Minh Nguyen - Academic Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Dr. rer. nat. Nhat-Minh Nguyen
+Astrophycist, Cosmologist, Leinweber Research Fellow
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://minhmpa.github.io/">Personal webpage</a>
 </div>
 
+## Affiliation
 
-## Currently
+Research fellow at Leinweber Center for Theoretical Physics, Department of Physics, LSA College, University of Michigan
 
-Standing on the shoulders of giants
+## Broad Research Interest
 
-### Specialized in
+Large-scale Structure, or Cosmic Microwave Background, or both
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Expertise
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Field-level, forward-model of galaxy clustering and galaxy instrinsic shape alignment; kinematic Sunyaev-Zel'dovich effect; growth of structure
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2016, MSc.`
+__Erasmus Joint Master Degree in Astronomy & Astrophysics__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+`2016 - 2020, Dr. rer. nat.`
+__International Max Planck Research School on Astrophysics__
+__Max Planck Institute for Astrophysics, Garching near Munich__
+__Ludwig Maximmilians University of Munich__
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### First, or co-first, or second author (with equal or significant contributions)
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2023`
+Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories. Wen$^1$, NM$^1$, Huterer. In prep.
+`2023`
+Evidence for suppression of structure growth in the concordance cosmological model. NM$^1$, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>
 
-`1669`
-Lectiones opticæ.
+`2022`
+Consistency tests of field level inference with the EFT likelihood. Kostic, NM$^2$, Schmidt, Reinecke. <a href="https://arxiv.org/abs/2212.07875">arxiv preprint</a>
 
-etc. etc. etc.
+`2021`
+Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey. Tsaprazi$^1$, NM^$1$, et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>
 
-### Patents
+`2021`
+Impacts of the physical data model on the forward inference of initial conditions from biased tracers. NM^$1$ et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2020`
+Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling. NM^$1$ et al. <a href="">JCAP12(2020)011</a>
 
+### Co-author
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2019`
+Cosmology Inference from Biased Tracers using the EFT-based Likelihood. Elsner et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2020/01/029">JCAP01(2020)029</a>
+A rigorous EFT-based forward model for large-scale structure. Schmidt et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2019/01/042">JCAP01(2019)042</a>
 
 
+## Professional & Social Activies
+
+- Institute Social Coffee (Leinweber Center for Theoretical Physics)
+- Cosmology Journal Club and Group Meeting (Leinweber Center for Theoretical Physics, University of Michigan)
+- Cosmology Book Club (Max Planck Institute for Astrophysics)
+- Large-scale Structure Journal Club (joint between Max Planck Institute for Astrophysics and Max Planck Institute for Extraterrestrial Physics)
 
 <!-- ### Footer
 
