@@ -135,9 +135,9 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 `2022-now`
 <a href="https://www.skypeascientist.com/">**Skype a Scientist**</a> (science outreach and interview with students of all ages and backgrounds in the US)
 
-## Personal favorites
+<!--## Personal favorites-->
 
-Universe; dogs; travel; mountains; cuesports; keyboards; street food (or any good food); enjoy cherry blossom, drinks and conversations with friends.
+<!--Universe; dogs; travel; mountains; cuesports; keyboards; street food (or any good food); enjoy cherry blossom, drinks and conversations with friends.-->
 
 <!-- ### Footer
 
