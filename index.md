@@ -2,7 +2,7 @@
 layout: cv
 title: Nhat-Minh Nguyen - Academic Resume
 ---
-# Dr. rer. nat. Nhat-Minh Nguyen
+# Nhat-Minh Nguyen, PhD
 Astrophycist, Cosmologist, Leinweber Research Fellow
 
 <div id="webaddress">
