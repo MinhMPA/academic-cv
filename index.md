@@ -29,12 +29,12 @@ Field-level, forward-model of galaxy clustering and galaxy instrinsic shape alig
 ## Education
 
 `2016 - 2020, PhD`
-__International Max Planck Research School on Astrophysics__  
+__<a href="https://www.imprs-astro.mpg.de/">International Max Planck Research School on Astrophysics</a>__  
 Max Planck Institute for Astrophysics, Garching near Munich  
 Ludwig Maximmilians University of Munich
 
 `2014-2016, MSc`
-__Erasmus Joint Master Degree in Astronomy & Astrophysics__  
+__<a href="https://www.uibk.ac.at/astromundus/">Erasmus Joint Master Degree in Astronomy & Astrophysics</a>__  
 University of G&ouml;ttingen  
 University of Rome, Tor Vergata  
 University of Innsbruck
@@ -50,13 +50,13 @@ Ho Chi Minh University of Science
 ### First, or co-first, or second author (with equal or significant contributions)
 
 `2023`
-**Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, NM$^1$, Huterer. In prep.
+**Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, NM$^1$, Huterer. <a href="https://arxiv.org/abs/2304.07281">arxiv preprint</a>. Accepted for publications in JCAP.
 
 `2023`
-**Evidence for suppression of structure growth in the concordance cosmological model**. NM$^1$, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>.
+**Evidence for suppression of structure growth in the concordance cosmological model**. NM$^1$, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>. Under review for publications in PRL.
 
 `2022`
-**Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;$^1$, NM$^2$, Schmidt, Reinecke. <a href="https://arxiv.org/abs/2212.07875">arxiv preprint</a>.
+**Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;$^1$, NM$^2$, Schmidt, Reinecke. <a href="https://arxiv.org/abs/2212.07875">arxiv preprint</a>. Accepted for publications in JCAP.
 
 `2021`
 **Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey**. Tsaprazi$^1$, NM$^1$, et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>
@@ -68,6 +68,9 @@ Ho Chi Minh University of Science
 **Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling**. NM et al. <a href="">JCAP12(2020)011</a>.
 
 ### Co-author
+
+`2023`
+**Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://arxiv.org/abs/2305.16865">arxiv preprint</a>. Under review for publications in PRD.
 
 `2019`
 **Cosmology Inference from Biased Tracers using the EFT-based Likelihood**. Elsner et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2020/01/029">JCAP01(2020)029</a>.
@@ -81,7 +84,10 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 
 ## (Post-COVID19) Talks & Visits
 
+- Cosmology from Home, online conference, July 2023.
+- CD3 Opening Symposium, Kavli IPMU, Kashiwa-no-ha, April 2023.
 - Future Science with CMB x LSS workshop, YITP, Kyoto, April 2023.
+- Cosmology Talks, <a href="https://youtu.be/Tov5KahGEVQ">Youtube</a>, Mar 2023.
 - TACOS seminar, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
 - Aspen workshop on "Large-Scale Structure Cosmology beyond 2-Point Statistics", June 2022. (My first ever blackboard talk, pictured at the bottom.)
 - Astro Lunch Seminar, Kavli IPMU, May 2022.
@@ -100,8 +106,9 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 
 ## Supervision
 
-- **Andrja Kosti&#263;** (PhD student, Max Planck Institute for Astrophysics), co-advising with Fabian Schmidt.
+- **Carter Matties** (Undergraduate student, University of Michigan).
 - **Madeline Fredericks** (Undergraduate student, University of Michigan).
+- **Andrja Kosti&#263;** (PhD student, Max Planck Institute for Astrophysics), co-advising with Fabian Schmidt.
 - **Eleni Tsaprazi** (PhD student, Stockholm University), co-advised with Jens Jasche.
 
 ## Activities
