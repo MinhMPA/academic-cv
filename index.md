@@ -70,6 +70,9 @@ Ho Chi Minh University of Science
 ### Co-author
 
 `2023`
+**A mock data friendly discussion for beyond-2pt statistics**, aka the <a href="https://github.com/ANSalcedo/Beyond2ptMock">Beyond-2pt blind data challenge</a>. Alphabetical order. In prep.
+
+`2023`
 **Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://arxiv.org/abs/2305.16865">arxiv preprint</a>. Under review for publications in PRD.
 
 `2019`
