@@ -84,12 +84,12 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 
 ## (Post-COVID19) Talks & Visits
 
-- Cosmology from Home, online conference, July 2023.
+- Cosmology from Home, online conference and <a href="https://youtu.be/4r_NAUTn7HI">Youtube</a>, July 2023.
 - CD3 Opening Symposium, Kavli IPMU, Kashiwa-no-ha, April 2023.
 - Future Science with CMB x LSS workshop, YITP, Kyoto, April 2023.
 - Cosmology Talks, <a href="https://youtu.be/Tov5KahGEVQ">Youtube</a>, Mar 2023.
 - TACOS seminar, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
-- Aspen workshop on "Large-Scale Structure Cosmology beyond 2-Point Statistics", June 2022. (My first ever blackboard talk, pictured at the bottom.)
+- Aspen workshop on "Large-Scale Structure Cosmology beyond 2-Point Statistics", June 2022. (My first-ever invited blackboard talk!)
 - Astro Lunch Seminar, Kavli IPMU, May 2022.
 - KIPAC Cosmology Seminar, Stanford, May 2022.
 - Berkeley Cosmology Group Seminar, Berkeley Center for Cosmological Physics, April 2022.
@@ -104,36 +104,53 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 - Cosmology Group Meeting, Perimeter Institute (remote), December 2020.
 - Cosmology Seminar, University of Manchester (remote), December 2020.
 
-## Supervision
+## Mentoring & Advising
+
+### Mentoring
 
 - **Carter Matties** (Undergraduate student, University of Michigan).
 - **Madeline Fredericks** (Undergraduate student, University of Michigan).
-- **Andrja Kosti&#263;** (PhD student, Max Planck Institute for Astrophysics), co-advising with Fabian Schmidt.
-- **Eleni Tsaprazi** (PhD student, Stockholm University), co-advised with Jens Jasche.
+- **Andrja Kosti&#263;** (PhD student, Max Planck Institute for Astrophysics), co-mentored.
+
+### Advising on a research project
+
+- **Eleni Tsaprazi** (PhD student, Stockholm University).
 
 ## Activities
 
-### Professional
+### Professional Community Service
+
+`2023`
+<a href="https://johannesulf.github.io/cosmology-school-2023/">**Michigan Cosmology Summer School 2023**</a>, Local Organizing Committee member.
+
+`2021-now`
+Active referee for JCAP & PRD.
+
+### Professional Institute and Group Service
 
 `2021-2022`
- <a href="https://vllt-joint-seminar-series.github.io/2022/">**VLLT Joint Astronomy & Physics Seminar Series**</a> (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam).
+ <a href="https://vllt-joint-seminar-series.github.io/2022/">**VLLT Joint Astronomy & Physics Seminar Series**</a> (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam), event founder and co-organizer.
 
 `2022-now`
-**Cosmology Journal Club** and **Group Meeting** (Leinweber Center for Theoretical Physics, University of Michigan).
+**Cosmology Journal Club** and **Group Meeting** (University of Michigan), main organizer.
+**Cosmology Book Club** (University of Michigan), co-organizer.
 
 `2020-2021`
-**Cosmology Book Club** (Max Planck Institute for Astrophysics).
+**Cosmology Book Club** (Max Planck Institute for Astrophysics), event founder & main organizer.
 
 `2018-2020`
-<a href="https://wwwmpa.mpa-garching.mpg.de/CosmoClub/">**Large-scale Structure Journal Club**</a> (joint between Max Planck Institute for Astrophysics and Max Planck Institute for Extraterrestrial Physics).
+<a href="https://wwwmpa.mpa-garching.mpg.de/CosmoClub/">**Large-scale Structure Journal Club**</a> (joint between Max Planck Institute for Astrophysics and Max Planck Institute for Extraterrestrial Physics), co-organizer.
 
 ### Social & Outreach
 
-`2022-now`
-**Institute Social Coffee** (Leinweber Center for Theoretical Physics).
+`2023`
+<a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, guest lecturer.
 
 `2022-now`
-<a href="https://www.skypeascientist.com/">**Skype a Scientist**</a> (science outreach and interview with students of all ages and backgrounds in the US)
+**Institute Social Coffee** (Leinweber Center for Theoretical Physics), event founder & co-organizer.
+
+`2022-now`
+<a href="https://www.skypeascientist.com/">**Skype a Scientist**</a> (science outreach and interview with students of all ages and backgrounds in the US), scientist participant.
 
 <!--## Personal favorites-->
 
