@@ -15,11 +15,11 @@ Astrophycist, Cosmologist, Leinweber Research Fellow
 
 ## Affiliation
 
-Research fellow at Leinweber Center for Theoretical Physics, Department of Physics, LSA College, University of Michigan
+Research fellow at Leinweber Center for Theoretical Physics, Department of Physics, LSA College, University of Michigan.
 
 ## Research Interest
 
-Large-scale Structure, or Cosmic Microwave Background, or both.
+Large-scale Structure and Cosmic Microwave Background.
 
 ## Expertise
 
