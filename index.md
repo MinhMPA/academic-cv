@@ -147,6 +147,9 @@ Active referee for JCAP & PRD.
 ### Social & Outreach
 
 `2023`
+Ask-Me-Anything on Reddit <a href="https://www.reddit.com/r/askscience/comments/14zdckv/askscience_ama_series_we_are_cosmologists_experts/">r/askscience</a> and <a href="https://www.youtube.com/live/Wqod1s8LvNY">Youtube</a>, Cosmology from Home 2023, panelist.
+
+`2023`
 <a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, guest lecturer.
 
 `2022-now`
