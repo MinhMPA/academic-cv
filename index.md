@@ -57,7 +57,7 @@ Ho Chi Minh University of Science
 
 `2022`
 **Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;$^1$, NM$^2$, Schmidt, Reinecke. <a href="
-https://doi.org/10.1088/1475-7516/2023/07/063">JCAP07(2023)063</a>. Accepted for publications in JCAP.
+https://doi.org/10.1088/1475-7516/2023/07/063">JCAP07(2023)063</a>.
 
 `2021`
 **Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey**. Tsaprazi$^1$, NM$^1$, et al. <a href="
