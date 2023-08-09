@@ -53,7 +53,7 @@ Ho Chi Minh University of Science
 **Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, NM$^1$, Huterer. <a href="https://arxiv.org/abs/2304.07281">arxiv preprint</a>. Accepted for publications in JCAP.
 
 `2023`
-**Evidence for suppression of structure growth in the concordance cosmological model**. NM$^1$, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>. **Accepted for publications in Physical Review Letters**.
+**Evidence for suppression of structure growth in the concordance cosmological model**. NM$^1$, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>. Under final review for publications in Physical Review Letters.
 
 `2022`
 **Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;$^1$, NM$^2$, Schmidt, Reinecke. <a href="
