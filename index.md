@@ -50,10 +50,10 @@ Ho Chi Minh University of Science
 ### First, or co-first, or second author (with equal or significant contributions)
 
 `2023`
-**Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, NM$^1$, Huterer. <a href="https://arxiv.org/abs/2304.07281">arxiv preprint</a>. Accepted for publications in JCAP.
+**Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, NM$^1$, Huterer. <a href="https://arxiv.org/abs/2304.07281">arxiv preprint</a>. Accepted for publications in Journal of Cosmology and Astroparticle Physics (JCAP).
 
 `2023`
-**Evidence for suppression of structure growth in the concordance cosmological model**. NM$^1$, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>. Under final review for publications in Physical Review Letters.
+**Evidence for suppression of structure growth in the concordance cosmological model**. NM$^1$, Huterer, Wen. <a href="https://arxiv.org/abs/2302.01331">arxiv preprint</a>. Accepted for publications in Physical Review Letters.
 
 `2022`
 **Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;$^1$, NM$^2$, Schmidt, Reinecke. <a href="
@@ -77,7 +77,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>.
 **A mock data friendly discussion for beyond-2pt statistics**, aka the <a href="https://github.com/ANSalcedo/Beyond2ptMock">Beyond-2pt blind data challenge</a>. Alphabetical order. In prep.
 
 `2023`
-**Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://arxiv.org/abs/2305.16865">arxiv preprint</a>. Under review for publications in PRD.
+**Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://arxiv.org/abs/2305.16865">arxiv preprint</a>. Under review for publications in Physical Review D (PRD).
 
 `2019`
 **Cosmology Inference from Biased Tracers using the EFT-based Likelihood**. Elsner et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2020/01/029">JCAP01(2020)029</a>.
