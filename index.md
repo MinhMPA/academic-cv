@@ -47,7 +47,7 @@ Ho Chi Minh University of Science
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### First, or co-first, or second author (with equal or significant contributions)
+### First, co-first, or second author (with equal or significant contributions)
 
 `2023`
 **Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, NM$^1$, Huterer. <a href="https://arxiv.org/abs/2304.07281">arxiv preprint</a>. Accepted for publications in Journal of Cosmology and Astroparticle Physics (JCAP).
