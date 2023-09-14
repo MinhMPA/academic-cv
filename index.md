@@ -50,10 +50,10 @@ Ho Chi Minh University of Science
 ### First, co-first, or second author (with equal or significant contributions)
 
 `2023`
-**Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, NM$^1$, Huterer. <a href="https://arxiv.org/abs/2304.07281">arxiv preprint</a>. Accepted for publications in Journal of Cosmology and Astroparticle Physics (JCAP).
+**Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, NM$^1$, Huterer. <a href="https://doi.org/10.1088/1475-7516/2023/09/028">JCAP09(2023)028</a>.
 
 `2023`
-**Evidence for suppression of structure growth in the concordance cosmological model**. NM$^1$, Huterer, Wen.<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.111001">Phys. Rev. Lett. 131, 111001</a>. <a href="https://drive.google.com/file/d/1IRPuo9XLeOXeCcimqh63ZLEVlmJye4iP/view?usp=sharing">**Editor's Suggestion**</a>. APS' outreach to the press.
+**Evidence for suppression of structure growth in the concordance cosmological model**. NM$^1$, Huterer, Wen.<a href="https://doi.org/10.1103/PhysRevLett.131.111001">Phys. Rev. Lett. 131, 111001</a>. <a href="https://drive.google.com/file/d/1IRPuo9XLeOXeCcimqh63ZLEVlmJye4iP/view?usp=sharing">**Editor's Suggestion**</a>. APS' outreach to the press.
 
 `2022`
 **Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;$^1$, NM$^2$, Schmidt, Reinecke. <a href="
