@@ -123,6 +123,14 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 
 - **Eleni Tsaprazi** (PhD student, Stockholm University).
 
+## Popular Science Writings
+
+`2023`
+<a href="https://phys.org/news/2023-10-molasses-cosmic-large-scale-caught-slower.html">Growing in molasses: Cosmic large-scale structure caught growing slower than expected</a>, Science X Dialog, Phys.org.
+
+`2023`
+<a href="">Đi tìm những tín hiệu mới từ vũ trụ</a>, Tia Sang Magazine.
+
 ## Activities
 
 ### Professional Community Service
@@ -131,7 +139,7 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 <a href="https://johannesulf.github.io/cosmology-school-2023/">**Michigan Cosmology Summer School 2023**</a>, Local Organizing Committee member.
 
 `2021-now`
-Active referee for JCAP & PRD.
+Active referee for Journal of Cosmology and Astroparticle Physics (IOP) & Physical Review D (APS).
 
 ### Professional Institute and Group Service
 
@@ -139,8 +147,7 @@ Active referee for JCAP & PRD.
  <a href="https://vllt-joint-seminar-series.github.io/2022/">**VLLT Joint Astronomy & Physics Seminar Series**</a> (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam), event founder and co-organizer.
 
 `2022-now`
-**Cosmology Journal Club** and **Group Meeting** (University of Michigan), main organizer.
-**Cosmology Book Club** (University of Michigan), co-organizer.
+**Cosmology Journal Club** and **Cosmology & Astrophysics Seminar** (University of Michigan), founder & main organizer.
 
 `2020-2021`
 **Cosmology Book Club** (Max Planck Institute for Astrophysics), event founder & main organizer.
