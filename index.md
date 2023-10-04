@@ -115,13 +115,17 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 
 ### Mentoring
 
-- **Carter Matties** (Undergraduate student, University of Michigan).
-- **Madeline Fredericks** (Undergraduate student, University of Michigan).
-- **Andrja Kosti&#263;** (PhD student, Max Planck Institute for Astrophysics), co-mentored.
+- <a href="https://www.linkedin.com/in/carter-matties-a96143217/">**Carter Matties**</a> (Undergraduate student, University of Michigan).
+- <a href="https://www.linkedin.com/in/madeline-fredericks-48968928a/">**Madeline Fredericks**</a> (Undergraduate student, University of Michigan).
+- <a href="https://cosmicstring.github.io/">**Andrja Kosti&#263;**</a> (PhD student, Max Planck Institute for Astrophysics), co-mentored.
 
 ### Advising on a research project
 
-- **Eleni Tsaprazi** (PhD student, Stockholm University).
+- <a href="https://tsaprazi.eu/">**Eleni Tsaprazi**</a> (PhD student, Stockholm University).
+- <a href="https://www.linkedin.com/in/andrew-hope-6a752527b/">**Andrewe Hope**</a> (UROP student, University of Michigan).
+- **Kyle Lee** (UROP student, University of Michigan).
+- <a href="https://www.linkedin.com/in/disha-saxena-a95a09264/">**Disha Saxena**</a> (UROP student, University of Michigan).
+- **Kasey Thai** (UROP student, University of Michigan).
 
 ## Popular Science Writings
 
