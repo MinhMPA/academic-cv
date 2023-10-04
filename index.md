@@ -144,13 +144,13 @@ Active referee for Journal of Cosmology and Astroparticle Physics (IOP) & Physic
 ### Professional Institute and Group Service
 
 `2021-2022`
- <a href="https://vllt-joint-seminar-series.github.io/2022/">**VLLT Joint Astronomy & Physics Seminar Series**</a> (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam), event founder and co-organizer.
+ <a href="https://vllt-joint-seminar-series.github.io/2022/">**VLLT Joint Astronomy & Physics Seminar Series**</a> (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam), founder and co-organizer.
 
 `2022-now`
 **Cosmology Journal Club** and **Cosmology & Astrophysics Seminar** (University of Michigan), founder & main organizer.
 
 `2020-2021`
-**Cosmology Book Club** (Max Planck Institute for Astrophysics), event founder & main organizer.
+**Cosmology Book Club** (Max Planck Institute for Astrophysics), founder & main organizer.
 
 `2018-2020`
 <a href="https://wwwmpa.mpa-garching.mpg.de/CosmoClub/">**Large-scale Structure Journal Club**</a> (joint between Max Planck Institute for Astrophysics and Max Planck Institute for Extraterrestrial Physics), co-organizer.
@@ -164,7 +164,7 @@ Ask-Me-Anything on Reddit <a href="https://www.reddit.com/r/askscience/comments/
 <a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, guest lecturer.
 
 `2022-now`
-**Institute Social Coffee** (Leinweber Center for Theoretical Physics), event founder & co-organizer.
+**Institute Social Coffee** (Leinweber Center for Theoretical Physics), founder & co-organizer.
 
 `2022-now`
 <a href="https://www.skypeascientist.com/">**Skype a Scientist**</a> (science outreach and interview with students of all ages and backgrounds in the US), scientist participant.
