@@ -133,7 +133,7 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 <a href="https://phys.org/news/2023-10-molasses-cosmic-large-scale-caught-slower.html">Growing in molasses: Cosmic large-scale structure caught growing slower than expected</a>, Science X Dialog, Phys.org.
 
 `2023`
-<a href="">Đi tìm những tín hiệu mới từ vũ trụ</a>, Tia Sang Magazine.
+<a href="">**Đi tìm những tín hiệu mới từ vũ trụ**</a>, Tia Sang Magazine.
 
 ## Activities
 
@@ -162,7 +162,7 @@ Active referee for Journal of Cosmology and Astroparticle Physics (IOP) & Physic
 ### Social & Outreach
 
 `2023`
-Ask-Me-Anything on Reddit <a href="https://www.reddit.com/r/askscience/comments/14zdckv/askscience_ama_series_we_are_cosmologists_experts/">r/askscience</a> and <a href="https://www.youtube.com/live/Wqod1s8LvNY">Youtube</a>, Cosmology from Home 2023, panelist.
+**Ask-Me-Anything** (Reddit), <a href="https://www.reddit.com/r/askscience/comments/14zdckv/askscience_ama_series_we_are_cosmologists_experts/">r/askscience</a> and <a href="https://www.youtube.com/live/Wqod1s8LvNY">Youtube</a>, Cosmology from Home 2023, panelist.
 
 `2023`
 <a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, guest lecturer.
