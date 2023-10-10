@@ -151,7 +151,7 @@ Active referee for Journal of Cosmology and Astroparticle Physics (IOP) & Physic
  <a href="https://vllt-joint-seminar-series.github.io/2022/">**VLLT Joint Astronomy & Physics Seminar Series**</a> (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam), founder and co-organizer.
 
 `2022-now`
-**Cosmology Journal Club** and **Cosmology & Astrophysics Seminar** (University of Michigan), founder & main organizer.
+**Cosmology Journal Club** and <a href="https://lsa.umich.edu/lctp/news-events/all-events/seminars/cosmology---astrophysics-seminars.html#q=&filter=&start=&end=12/10/2023&tags=">**Cosmology & Astrophysics Seminar** </a>(University of Michigan), founder & main organizer.
 
 `2020-2021`
 **Cosmology Book Club** (Max Planck Institute for Astrophysics), founder & main organizer.
