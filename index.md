@@ -130,7 +130,7 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 ## Popular Science Writings
 
 `2023`
-<a href="https://phys.org/news/2023-10-molasses-cosmic-large-scale-caught-slower.html">Growing in molasses: Cosmic large-scale structure caught growing slower than expected</a>, Science X Dialog, Phys.org.
+<a href="https://phys.org/news/2023-10-molasses-cosmic-large-scale-caught-slower.html">**Growing in molasses: Cosmic large-scale structure caught growing slower than expected**</a>, Science X Dialog, Phys.org.
 
 `2023`
 <a href="">**Đi tìm những tín hiệu mới từ vũ trụ**</a>, Tia Sang Magazine.
