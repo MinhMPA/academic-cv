@@ -161,10 +161,10 @@ Active referee for Journal of Cosmology and Astroparticle Physics (IOP) & Physic
 
 ### Social & Outreach
 
-`2023`
+`Summer 2023`
 **Ask-Me-Anything** (Reddit), <a href="https://www.reddit.com/r/askscience/comments/14zdckv/askscience_ama_series_we_are_cosmologists_experts/">r/askscience</a> and <a href="https://www.youtube.com/live/Wqod1s8LvNY">Youtube</a>, Cosmology from Home 2023, panelist.
 
-`2023`
+`Summer 2023`
 <a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, guest lecturer.
 
 `2022-now`
@@ -172,6 +172,14 @@ Active referee for Journal of Cosmology and Astroparticle Physics (IOP) & Physic
 
 `2022-now`
 <a href="https://www.skypeascientist.com/">**Skype a Scientist**</a> (science outreach and interview with students of all ages and backgrounds in the US), scientist participant.
+
+`Fall 2023`
+<a href="https://www.aps.org/programs/outreach/physiciststogo.cfm">**Physicists To-Go**</a> (similar to Skype-a-Scientist but organized by APS), scientist participant.
+
+`Fall 2023`
+<a href="https://lsa.umich.edu/ummnh/u-m-community/u-m-faculty/science-communication-fellows.html">**Science Communication Fellows**</a> (science outreach demonstrations and presentations at Michigan local museums and libraries), scientist participant.
+
+
 
 <!--## Personal favorites-->
 
