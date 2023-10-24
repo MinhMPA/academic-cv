@@ -112,7 +112,7 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 - Cosmology Group Meeting, Perimeter Institute (remote), December 2020.
 - Cosmology Seminar, University of Manchester (remote), December 2020.
 
-## Mentoring & Advising
+## Mentoring, Advising and Teaching
 
 ### Mentoring
 
@@ -127,6 +127,15 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 - **Kyle Lee** (UROP student, University of Michigan).
 - <a href="https://www.linkedin.com/in/disha-saxena-a95a09264/">**Disha Saxena**</a> (UROP student, University of Michigan).
 - **Kasey Thai** (UROP student, University of Michigan).
+
+### Teaching
+
+`Summer 2023`
+<a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, guest lecturer.
+
+`Summer 2024`
+<a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, course lecturer, "Climbing the Distance Ladder to the Big Bang: How astronomers survey the Universe."
+
 
 ## Popular Science Writings
 
@@ -164,9 +173,6 @@ Active referee for Journal of Cosmology and Astroparticle Physics (IOP) & Physic
 
 `Summer 2023`
 **Ask-Me-Anything** (Reddit), <a href="https://www.reddit.com/r/askscience/comments/14zdckv/askscience_ama_series_we_are_cosmologists_experts/">r/askscience</a> and <a href="https://www.youtube.com/live/Wqod1s8LvNY">Youtube</a>, Cosmology from Home 2023, panelist.
-
-`Summer 2023`
-<a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, guest lecturer.
 
 `2022-now`
 **Institute Social Coffee** (Leinweber Center for Theoretical Physics), founder & co-organizer.
