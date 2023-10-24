@@ -32,6 +32,7 @@ Field-level, forward-model of galaxy clustering and galaxy instrinsic shape alig
 __<a href="https://www.imprs-astro.mpg.de/">International Max Planck Research School on Astrophysics</a>__  
 Max Planck Institute for Astrophysics, Garching near Munich  
 Ludwig Maximmilians University of Munich
+Magna cum Laude
 
 `2014-2016, MSc`
 __<a href="https://www.uibk.ac.at/astromundus/">Erasmus Joint Master Degree in Astronomy & Astrophysics</a>__  
@@ -46,7 +47,7 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 10 publications (total citations: 143; h-index of 7).
+I have authored 10 publications (total citations: 143; h-index: 7).
 
 ### First, co-first, or second author (with equal or significant contributions)
 
