@@ -46,6 +46,7 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+I have authored 10 publications (total citations: 143; h-index of 7).
 
 ### First, co-first, or second author (with equal or significant contributions)
 
