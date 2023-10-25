@@ -31,8 +31,8 @@ Field-level, forward-model of galaxy clustering and galaxy instrinsic shape alig
 `2016 - 2020, PhD`
 __<a href="https://www.imprs-astro.mpg.de/">International Max Planck Research School on Astrophysics</a>__  
 Max Planck Institute for Astrophysics, Garching near Munich  
-Ludwig Maximmilians University of Munich
-Magna cum Laude
+Ludwig Maximmilians University of Munich  
+Magna Cum Laude
 
 `2014-2016, MSc`
 __<a href="https://www.uibk.ac.at/astromundus/">Erasmus Joint Master Degree in Astronomy & Astrophysics</a>__  
