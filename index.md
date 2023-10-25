@@ -119,11 +119,11 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 
 - <a href="https://www.linkedin.com/in/carter-matties-a96143217/">**Carter Matties**</a> (Undergraduate student, University of Michigan).
 - <a href="https://www.linkedin.com/in/madeline-fredericks-48968928a/">**Madeline Fredericks**</a> (Undergraduate student, University of Michigan).
-- <a href="https://cosmicstring.github.io/">**Andrja Kosti&#263;**</a> (PhD student, Max Planck Institute for Astrophysics), co-mentored.
+- <a href="https://cosmicstring.github.io/">**Andrja Kosti&#263;**</a> (Research Scientist, DeepL), co-mentored.
 
 ### Advising on a research project
 
-- <a href="https://tsaprazi.eu/">**Eleni Tsaprazi**</a> (PhD student, Stockholm University).
+- <a href="https://tsaprazi.eu/">**Eleni Tsaprazi**</a> (Postdoc, Imperial College London).
 - <a href="https://www.linkedin.com/in/andrew-hope-6a752527b/">**Andrewe Hope**</a> (UROP student, University of Michigan).
 - **Kyle Lee** (UROP student, University of Michigan).
 - <a href="https://www.linkedin.com/in/disha-saxena-a95a09264/">**Disha Saxena**</a> (UROP student, University of Michigan).
