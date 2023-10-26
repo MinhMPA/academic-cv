@@ -183,17 +183,14 @@ Active referee for Journal of Cosmology and Astroparticle Physics (IOP) & Physic
 
 `2022-now`
 <a href="https://www.skypeascientist.com/">**Skype a Scientist**</a> (science outreach and interview with students of all ages and backgrounds in the US), scientist participant.
-
-`Fall 2023`
-<a href="https://www.aps.org/programs/outreach/physiciststogo.cfm">**Physicists To-Go**</a> (similar to Skype-a-Scientist but organized by APS), scientist participant.
-
+`Fall 2023` <a href="https://www.aps.org/programs/outreach/physiciststogo.cfm">**Physicists To-Go**</a> (similar to Skype-a-Scientist but organized by APS), scientist participant.
 `Fall 2023`
 <a href="https://lsa.umich.edu/ummnh/u-m-community/u-m-faculty/science-communication-fellows.html">**Science Communication Fellows**</a> (science outreach demonstrations and presentations at Michigan local museums and libraries), scientist participant.
 
 
 ## Diversity Statement
 
-As Astronomy & Astrophysics in <a href="https://www.nature.com/articles/s41550-021-01358-4">Vietnam are still in their infancy</a> with severely limited access, I view it as our generation's mission to "Climb the Distance Ladder": walk the first walk, make the first leap, and bridge the gap between Vietnam's and the world's A&A. Specifically, I hope first to inspire younger generations of space-minded students to study astronomy and astrophysics, and second to provide them with direct access to research opportunities and experiences that I did not have. More broadly, having experienced astrophysics research in Vietnam, Austria, Italy, Germany and the USA, at various academic stages, I realized inclusivity would grow neither from the top nor branch of the academic tree, but rather from the root. Therefore, I try to encourage the under-represented communities at earlier stages of education, such as school and college levels.
+As Astronomy & Astrophysics in <a href="https://www.nature.com/articles/s41550-021-01358-4">Vietnam are still in their infancy</a> with severely limited access, I view it as our generation's mission to "Climb the Distance Ladder": walk the first walk, make the first leap, and bridge the gap between Vietnam and the world in A&A. Specifically, I hope first to inspire younger space-minded generations to study astronomy and astrophysics, and second to provide them with direct access to research opportunities and experiences that I did not have. More broadly, having experienced A&A research in Vietnam, Austria, Italy, Germany and the USA, at various academic stages, I realized inclusivity would grow neither from the top nor branch of the academic tree, but rather from the root. Therefore, I try to encourage the under-represented communities at earlier stages of education, such as school and college levels.
 
 <!--## Personal favorites-->
 
