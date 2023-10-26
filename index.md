@@ -47,13 +47,12 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 9 publications (total citations: 143; h-index: 7).
+I have authored 9 publications (excluding 2 drafts in preparation; total citations: 143; h-index: 7).
 
 ### First, co-first, or second author (with equal or significant contributions)
 
 `2023`
 **Fisher Forecast and Sensitivity Analysis of Growth of Structure Constraints from Large-scale Structure Surveys**. **Nguyen$^1$**, Matties, Huterer. In prep.
-
 
 `2023`
 **Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, **Nguyen$^1$**, Huterer. <a href="https://doi.org/10.1088/1475-7516/2023/09/028">JCAP09(2023)028</a>.
