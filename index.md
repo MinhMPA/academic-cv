@@ -52,7 +52,7 @@ I have authored 9 publications (excluding 2 drafts in preparation; total citatio
 ### First, co-first, or second author (with equal or significant contributions)
 
 `2023`
-**Fisher Forecast and Sensitivity Analysis of Growth of Structure Constraints from Large-scale Structure Surveys**. **Nguyen$^1$**, Matties, Huterer. In prep.
+**Fisher Forecast and Sensitivity Analysis of Growth of Structure Constraints from Large-scale Structure Surveys**. **Nguyen$^1$**, Matties, Huterer. In prep. To be submitted to PRD.
 
 `2023`
 **Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, **Nguyen$^1$**, Huterer. <a href="https://doi.org/10.1088/1475-7516/2023/09/028">JCAP09(2023)028</a>.
@@ -79,7 +79,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>.
 ### Co-author
 
 `2023`
-**A mock data friendly discussion for beyond-2pt statistics**, aka the <a href="https://github.com/ANSalcedo/Beyond2ptMock">Beyond-2pt blind data challenge</a>. Alphabetical order. In prep.
+**A mock data friendly discussion for beyond-2pt statistics**, aka the <a href="https://github.com/ANSalcedo/Beyond2ptMock">Beyond-2pt blind data challenge</a>. Alphabetical order. In prep. To be submitted to JCAP.
 
 `2023`
 **Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://arxiv.org/abs/2305.16865">arxiv preprint</a>. Under review for publications in Physical Review D (PRD).
