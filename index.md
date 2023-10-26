@@ -191,7 +191,7 @@ Active referee for Journal of Cosmology and Astroparticle Physics (IOP) & Physic
 <a href="https://lsa.umich.edu/ummnh/u-m-community/u-m-faculty/science-communication-fellows.html">**Science Communication Fellows**</a> (science outreach demonstrations and presentations at Michigan local museums and libraries), scientist participant.
 
 
-### Diversity Statement
+## Diversity Statement
 
 As Astronomy & Astrophysics in <a href="https://www.nature.com/articles/s41550-021-01358-4">Vietnam are still in their infancy</a> with severely limited access, I view it as our generation's mission to "Climb the Distance Ladder": walk the first walk, make the first leap, and bridge the gap between Vietnam's and the world's A&A. Specifically, I hope first to inspire younger generations of space-minded students to study astronomy and astrophysics, and second to provide them with direct access to research opportunities and experiences that I did not have. More broadly, having experienced astrophysics research in Vietnam, Austria, Italy, Germany and the USA, at various academic stages, I realized inclusivity would grow neither from the top nor branch of the academic tree, but rather from the root. Therefore, I try to encourage the under-represented communities at earlier stages of education, such as school and college levels.
 
