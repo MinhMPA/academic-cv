@@ -134,12 +134,14 @@ English, Vietnamese, Python, C++, Fortran, Bayesian
 
 ### Teaching
 
-`Summer 2023`
-<a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, guest lecturer.
-
 `Summer 2024`
 <a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, course lecturer, "Climbing the Distance Ladder to the Big Bang: How astronomers survey the Universe."
 
+`Summer 2023`
+<a href="https://ifirse.icise.vn/2022/12/03/2023-sagi-observational-astronomy-school/">**2023 SAGI Observational Astronomy School**</a>, invited lecturer, not able to attend due to US visa renew process (to re-enter the US afterwards).
+
+`Summer 2023`
+<a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, guest lecturer.
 
 ## Popular Science Writings
 
