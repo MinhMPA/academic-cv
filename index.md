@@ -79,7 +79,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>.
 ### Co-author
 
 `2023`
-**A mock data friendly discussion for beyond-2pt statistics**, aka the <a href="https://github.com/ANSalcedo/Beyond2ptMock">Beyond-2pt blind data challenge</a>. Alphabetical order. In prep. To be submitted to JCAP.
+**A mock data friendly discussion for beyond-2pt statistics**, aka the <a href="https://github.com/ANSalcedo/Beyond2ptMock">Beyond-2pt blind data challenge</a>. Alphabetical order. In prep. To be submitted to The Astrophysical Journal Supplement Series.
 
 `2023`
 **Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://arxiv.org/abs/2305.16865">arxiv preprint</a>. Under review for publications in Physical Review D (PRD).
