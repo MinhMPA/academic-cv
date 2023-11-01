@@ -47,9 +47,12 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 9 publications (excluding 2 drafts in preparation; total citations: 145; h-index: 7).
+I have authored 9 publications (excluding 3 drafts in preparation; total citations: 145; h-index: 7).
 
 ### First, co-first, or second author (with equal or significant contributions)
+
+`2023`
+**Late-universe Suppressed Growth of Structure and Early-universe Massive Galaxies**. *Nguyen$^1$* and Huterer. In prep. To be submitted to ApJL.
 
 `2023`
 **Fisher Forecast and Sensitivity Analysis of Growth of Structure Constraints from Large-scale Structure Surveys**. **Nguyen$^1$**, Matties, Huterer. In prep. To be submitted to PRD.
@@ -79,7 +82,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>.
 ### Co-author
 
 `2023`
-**A mock data for beyond-2pt galaxy clustering statistics**, aka the <a href="https://github.com/ANSalcedo/Beyond2ptMock">Beyond-2pt blind data challenge</a>. The Beyond-2pt Collaboration. In prep. To be submitted to The Astrophysical Journal Supplement Series.
+**A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**, aka the <a href="https://github.com/ANSalcedo/Beyond2ptMock">Beyond-2pt blind data challenge</a>. The Beyond-2pt Collaboration. In prep. To be submitted to The Astrophysical Journal Supplement Series.
 
 `2023`
 **Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://arxiv.org/abs/2305.16865">arxiv preprint</a>. Under review for publications in Physical Review D (PRD).
