@@ -47,7 +47,7 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 9 publications (excluding 3 drafts in preparation; total citations counted on <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat-Minh%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat%20Minh%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat-Minh%22%20OR%20author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat%20Minh%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=((%20author%3A%22Nguyen%2C%20Nhat-Minh%22)%20AND%20citation_count%3A%5B0%20TO%209999999%5D)&sort=date%20desc%2C%20bibcode%20desc)">NASA/ADS record</a>: 153; h-index: 7).
+I have authored 9 publications (excluding 2 drafts in preparation; total citations counted on <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat-Minh%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat%20Minh%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat-Minh%22%20OR%20author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat%20Minh%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=((%20author%3A%22Nguyen%2C%20Nhat-Minh%22)%20AND%20citation_count%3A%5B0%20TO%209999999%5D)&sort=date%20desc%2C%20bibcode%20desc)">NASA/ADS record</a>: 153; h-index: 7).
 
 ### First, co-first, or second author (with equal or significant contributions)
 
@@ -55,7 +55,7 @@ I have authored 9 publications (excluding 3 drafts in preparation; total citatio
 <!--**Late-universe Suppressed Growth of Structure and Early-universe Massive Galaxies**. *Nguyen$^1$* and Huterer. In prep. To be submitted to ApJL.-->
 
 `2023`
-**Fisher Forecast and Sensitivity Analysis of Growth of Structure Constraints from Large-scale Structure Surveys**. **Nguyen$^1$**, Matties, Huterer. In prep. To be submitted to PRD.
+**Sensitivity Analysis of Constraints on Growth of Structure from Large-scale Structure**. **Nguyen$^1$**, Matties, Huterer. In prep. To be submitted to PRD.
 
 `2023`
 **Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, **Nguyen$^1$**, Huterer. <a href="https://doi.org/10.1088/1475-7516/2023/09/028">JCAP09(2023)028</a>.
