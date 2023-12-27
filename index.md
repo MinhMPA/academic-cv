@@ -194,6 +194,25 @@ Active referee for Journal of Cosmology and Astroparticle Physics (IOP) & Physic
 `Fall 2023`
 <a href="https://lsa.umich.edu/ummnh/u-m-community/u-m-faculty/science-communication-fellows.html">**Science Communication Fellows**</a> (science outreach demonstrations and presentations at Michigan local museums and libraries), scientist participant.
 
+## References
+
+**Dr. Fabian Schmidt, Max Planck Institute for Astrophysics** (PhD advisor)
+<a href="mailto:fabians@MPA-Garching.MPG.DE">Email</a>
+
+**Prof. Dragan Huterer, University of Michigan** (postdoc advisor)
+<a href="mailto:huterer@umich.edu">Email</a>
+
+**Prof. Elisabeth Krause, University of Arizona** (external collaborator)
+<a href="krausee@arizona.edu">Email</a>
+
+**Prof. Jens Jasche, University of Stockholm** (external collaborator)
+<a href="jens.jasche@fysik.su.se">Email</a>
+
+**Prof. Elisa G. M. Ferreira, Kavli IPMU, University of Tokyo** (previous colleague)
+<a href="elisa.ferreira@ipmu.jp">Email</a>
+
+**Prof. Eiichiro Komatsu, Max Planck Institute for Astrophysics** (MPA director, formal PhD advisor)
+<a href="komatsu@MPA-Garching.MPG.DE">Email</a>
 
 <!--## Diversity Statement-->
 
