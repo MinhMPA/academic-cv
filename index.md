@@ -19,11 +19,11 @@ Research fellow at Leinweber Center for Theoretical Physics, Department of Physi
 
 ## Research Interest
 
-Large-scale Structure and Cosmic Microwave Background.
+Growth of Structure.
 
 ## Expertise
 
-Field-level, forward-model of galaxy clustering and galaxy instrinsic shape alignment; kinematic Sunyaev-Zel'dovich effect; growth of structure; sampling methods for Bayesian inference.
+Field-level, forward-modeling; galaxy clustering; galaxy intrinsic shape alignment; kinematic Sunyaev-Zel'dovich effect; Bayesian inference with explicit likelihood and MCMC sampling; Simulation-based inference with implicit likelihood
 
 
 ## Education
@@ -95,7 +95,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>.
 
 ## Languages
 
-English, Vietnamese, Python, C++, Fortran, Bayesian
+English, Vietnamese, Python, C++, Fortran, Differentiable Programming
 
 ## (Post-COVID19) Talks & Visits
 
