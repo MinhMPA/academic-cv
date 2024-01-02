@@ -162,7 +162,7 @@ English, Vietnamese, Python, C++, Fortran, Differentiable Programming
 <a href="https://johannesulf.github.io/cosmology-school-2023/">**Michigan Cosmology Summer School 2023**</a>, Local Organizing Committee member.
 
 `2021-now`
-Active referee for Journal of Cosmology and Astroparticle Physics (IOP) & Physical Review D (APS).
+Active referee for Astronomy & Astrophysics (A&A, EDP Sciences), Journal of Cosmology and Astroparticle Physics (JCAP, IOP) & Physical Review D (PRD, APS).
 
 ### Professional Institute and Group Service
 
