@@ -30,8 +30,8 @@ Field-level, forward-modeling; galaxy redshift surveys (galaxy clustering, galax
 
 `2016 - 2020, PhD`
 __<a href="https://www.imprs-astro.mpg.de/">International Max Planck Research School on Astrophysics</a>__  
-Max Planck Institute for Astrophysics, Garching near Munich  
-Ludwig Maximmilians University of Munich  
+<a href="https://www.mpa-garching.mpg.de/">Max Planck Institute for Astrophysics</a>, Garching near Munich  
+<a href="https://www.physik.lmu.de/en/research/astronomy-and-astrophysics-cosmology/index.html">Ludwig Maximilians University of Munich</a>  
 Magna Cum Laude
 
 `2014-2016, MSc`
