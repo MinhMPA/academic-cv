@@ -73,7 +73,7 @@ https://doi.org/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>. <a href="htt
 
 `2021`
 **Impacts of the physical data model on the forward inference of initial conditions from biased tracers**. **Nguyen** et al. <a href="
-https://doi.org/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>. <a href=""https://ui.adsabs.harvard.edu/abs/2021JCAP...03..058N/abstract>[NASA/ADS]</a>
+https://doi.org/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>. <a href="https://ui.adsabs.harvard.edu/abs/2021JCAP...03..058N/abstract">[NASA/ADS]</a>
 
 `2020`
 **Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling**. **Nguyen** et al. <a href="
