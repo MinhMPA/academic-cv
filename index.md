@@ -35,13 +35,13 @@ Ludwig Maximmilians University of Munich
 Magna Cum Laude
 
 `2014-2016, MSc`
-__<a href="https://www.uibk.ac.at/astromundus/">Erasmus Joint Master Degree in Astronomy & Astrophysics</a>__  
+__<a href="https://www.uibk.ac.at/astromundus/">Erasmus Joint Master Degree in Astronomy & Astrophysics (Full-ride Scholarships)</a>__  
 University of G&ouml;ttingen  
 University of Rome, Tor Vergata  
 University of Innsbruck
 
 `2008-2013, BSc`
-__Physics and Theoretical Physics (Honor program)__  
+__Physics and Theoretical Physics (Honor Program with Scholarships)__  
 Ho Chi Minh University of Science
 
 ## Publications
