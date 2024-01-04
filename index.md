@@ -23,7 +23,7 @@ Growth of Structure.
 
 ## Expertise
 
-Field-level, forward-modeling; galaxy clustering; galaxy intrinsic shape alignment; kinematic Sunyaev-Zel'dovich effect; Bayesian inference with explicit likelihood and MCMC sampling; Simulation-based inference with implicit likelihood
+Field-level, forward-modeling; galaxy redshift surveys (galaxy clustering, galaxy intrinsic shape alignment); cosmic microwave background radiation (gravitational lensing, Sunyaev-Zel'dovich effects); Bayesian inference with explicit likelihood (hierachical models, advanced sampling methods); Simulation-based inference with implicit likelihood (AI/ML methods for density estimation)
 
 
 ## Education
@@ -47,37 +47,37 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 9 publications (excluding 2 drafts in preparation; total citations counted on <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat-Minh%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat%20Minh%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat-Minh%22%20OR%20author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat%20Minh%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=((%20author%3A%22Nguyen%2C%20Nhat-Minh%22)%20AND%20citation_count%3A%5B0%20TO%209999999%5D)&sort=date%20desc%2C%20bibcode%20desc)">NASA/ADS record</a>: 165; h-index: 8).
+I have authored 9 publications (excluding a draft in preparation; total citations counted on <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat-Minh%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat%20Minh%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat-Minh%22%20OR%20author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat%20Minh%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=((%20author%3A%22Nguyen%2C%20Nhat-Minh%22)%20AND%20citation_count%3A%5B0%20TO%209999999%5D)&sort=date%20desc%2C%20bibcode%20desc)">NASA/ADS record</a>: 165; h-index: 8).
 
 ### First, co-first, or second author (with equal or significant contributions)
 
 <!--`2023`-->
 <!--**Late-universe Suppressed Growth of Structure and Early-universe Massive Galaxies**. *Nguyen$^1$* and Huterer. In prep. To be submitted to ApJL.-->
 
-`2023`
-**Sensitivity Analysis of Constraints on Growth of Structure from Large-scale Structure**. **Nguyen$^1$**, Matties, Huterer. In prep. To be submitted to PRD.
+<!--`2024`-->
+<!--**Sensitivity Analysis of Constraints on Growth of Structure from Large-scale Structure**. **Nguyen$^1$**, Matties, Huterer. In prep. To be submitted to PRD.-->
 
 `2023`
-**Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, **Nguyen$^1$**, Huterer. <a href="https://doi.org/10.1088/1475-7516/2023/09/028">JCAP09(2023)028</a>.
+**Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, **Nguyen$^1$**, Huterer. <a href="https://doi.org/10.1088/1475-7516/2023/09/028">JCAP09(2023)028</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...09..028W/abstract">[NASA/ADS]</a>
 
 `2023`
-**Evidence for suppression of structure growth in the concordance cosmological model**. **Nguyen$^1$**, Huterer, Wen.<a href="https://doi.org/10.1103/PhysRevLett.131.111001">Phys. Rev. Lett. 131, 111001</a>. <a href="https://drive.google.com/file/d/1IRPuo9XLeOXeCcimqh63ZLEVlmJye4iP/view?usp=sharing">**Editor's Suggestion**</a>. APS' outreach to the press.
+**Evidence for suppression of structure growth in the concordance cosmological model**. **Nguyen$^1$**, Huterer, Wen.<a href="https://doi.org/10.1103/PhysRevLett.131.111001">Phys. Rev. Lett. 131, 111001</a>. <a href="https://drive.google.com/file/d/1IRPuo9XLeOXeCcimqh63ZLEVlmJye4iP/view?usp=sharing">**Editor's Suggestion**</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023PhRvL.131k1001N/abstract">[NASA/ADS]</a>
 
 `2022`
 **Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;$^1$, **Nguyen$^1$**, Schmidt, Reinecke. <a href="
-https://doi.org/10.1088/1475-7516/2023/07/063">JCAP07(2023)063</a>.
+https://doi.org/10.1088/1475-7516/2023/07/063">JCAP07(2023)063</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...07..063K/abstract">[NASA/ADS]</a>
 
 `2021`
 **Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey**. Tsaprazi$^1$, **Nguyen$^1$**, et al. <a href="
-https://doi.org/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>
+https://doi.org/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>. <a href="https://ui.adsabs.harvard.edu/abs/2022JCAP...08..003T/abstract">[NASA/ADS]</a>
 
 `2021`
 **Impacts of the physical data model on the forward inference of initial conditions from biased tracers**. **Nguyen** et al. <a href="
-https://doi.org/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>.
+https://doi.org/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>. <a href=""https://ui.adsabs.harvard.edu/abs/2021JCAP...03..058N/abstract>[NASA/ADS]</a>
 
 `2020`
 **Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling**. **Nguyen** et al. <a href="
-https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>.
+https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="https://ui.adsabs.harvard.edu/abs/2020JCAP...12..011N/abstract">[NASA/ADS]</a>
 
 ### Co-author
 
@@ -85,13 +85,13 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>.
 **A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**, aka the <a href="https://github.com/ANSalcedo/Beyond2ptMock">Beyond-2pt blind data challenge</a>. The Beyond-2pt Collaboration. In prep. To be submitted to The Astrophysical Journal Supplement Series.
 
 `2023`
-**Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://arxiv.org/abs/2305.16865">arxiv preprint</a>. Under review for publications in Physical Review D (PRD).
+**Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://arxiv.org/abs/2305.16865">arxiv preprint</a>. Under review for publications in Physical Review D (PRD). <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230516865S/abstract">[NASA/ADS]</a>
 
 `2019`
-**Cosmology Inference from Biased Tracers using the EFT-based Likelihood**. Elsner et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2020/01/029">JCAP01(2020)029</a>.
+**Cosmology Inference from Biased Tracers using the EFT-based Likelihood**. Elsner et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2020/01/029">JCAP01(2020)029</a>. <a href="https://ui.adsabs.harvard.edu/abs/2020JCAP...01..029E/abstract">[NASA/ADS]</a>
 
 `2018`
-**A rigorous EFT-based forward model for large-scale structure**. Schmidt et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2019/01/042">JCAP01(2019)042</a>.
+**A rigorous EFT-based forward model for large-scale structure**. Schmidt et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2019/01/042">JCAP01(2019)042</a>. <a href="https://ui.adsabs.harvard.edu/abs/2019JCAP...01..042S/abstract">[NASA/ADS]</a>
 
 ## Languages
 
