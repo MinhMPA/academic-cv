@@ -95,7 +95,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="htt
 
 ## Languages
 
-English, Vietnamese, Python, C++, Fortran, Differentiable Programming
+English, Vietnamese, Python, C++, Fortran, ROOT, High-performance & Differentiable Programming
 
 ## (Post-COVID19) Talks & Visits
 
