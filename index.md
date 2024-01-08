@@ -23,7 +23,7 @@ Growth of Structure.
 
 ## Expertise
 
-Field-level, forward-modeling; galaxy redshift surveys (galaxy clustering, galaxy intrinsic shape alignment); cosmic microwave background radiation (gravitational lensing, Sunyaev-Zel'dovich effects); Bayesian inference with explicit likelihood (hierachical models, advanced sampling methods); Simulation-based inference with implicit likelihood (AI/ML methods for density estimation)
+Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clustering, galaxy intrinsic shape alignment); Cosmic microwave background radiation (gravitational lensing, Sunyaev-Zel'dovich effects); Bayesian inference with explicit likelihood (hierachical models, advanced sampling methods); Simulation-based inference with implicit likelihood (AI/ML methods for density estimation); Large-scale, high-performance computing; Big-data analysis
 
 
 ## Education
@@ -47,7 +47,7 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 9 publications (excluding a draft in preparation; total citations counted on <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat-Minh%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat%20Minh%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat-Minh%22%20OR%20author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat%20Minh%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=((%20author%3A%22Nguyen%2C%20Nhat-Minh%22)%20AND%20citation_count%3A%5B0%20TO%209999999%5D)&sort=date%20desc%2C%20bibcode%20desc)">NASA/ADS record</a>: 165; h-index: 8).
+I have authored 9 publications (excluding a draft in preparation; total citations counted on <a href="https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat-Minh%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat%20Minh%22&filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat-Minh%22%20OR%20author_facet_hier%3A%221%2FNguyen%2C%20N%2FNguyen%2C%20Nhat%20Minh%22)&fq_database=(database%3A%22astronomy%22)&p_=0&q=((%20author%3A%22Nguyen%2C%20Nhat-Minh%22)%20AND%20citation_count%3A%5B0%20TO%209999999%5D)&sort=date%20desc%2C%20bibcode%20desc)">NASA/ADS record</a>: 166; h-index: 8).
 
 ### First, co-first, or second author (with equal or significant contributions)
 
@@ -95,7 +95,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="htt
 
 ## Languages
 
-English, Vietnamese, Python, C++, Fortran, ROOT, High-performance & Differentiable Programming
+English, Vietnamese, Python, C++, Fortran, ROOT, High-performance, Distributed & Differentiable Programming
 
 ## (Post-COVID19) Talks & Visits
 
