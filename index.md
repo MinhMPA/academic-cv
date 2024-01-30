@@ -99,6 +99,7 @@ English, Vietnamese, Python, C++, Fortran, ROOT, High-performance, Distributed &
 
 ## (Post-COVID19) Talks & Visits
 
+- University of Michigan, <a href="https://lsa.umich.edu/physics/news-events/all-events.detail.html/117263-21839054.html">HEP-Astro seminar</a>, January 2024.
 - Cosmology from Home, online conference and <a href="https://youtu.be/4r_NAUTn7HI">Youtube</a>, July 2023.
 - CD3 Opening Symposium, Kavli IPMU, Kashiwa-no-ha, April 2023.
 - Future Science with CMB x LSS workshop, YITP, Kyoto, April 2023.
