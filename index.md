@@ -23,7 +23,7 @@ Growth of Structure.
 
 ## Expertise
 
-Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clustering, galaxy intrinsic shape alignment); Cosmic microwave background radiation (gravitational lensing, Sunyaev-Zel'dovich effects); Bayesian inference with explicit likelihood (hierachical models, advanced sampling methods); Simulation-based inference with implicit likelihood (AI/ML methods for density estimation); Large-scale, high-performance computing; Big-data analysis
+Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clustering, galaxy intrinsic shape alignment); Cosmic microwave background radiation (gravitational lensing, Sunyaev-Zel'dovich effects); **Bayesian inference with explicit likelihood (hierachical models, advanced sampling methods); Simulation-based inference with implicit likelihood (AI/ML methods for density estimation); Large-scale, high-performance computing; Big-data analysis**
 
 
 ## Education
@@ -95,7 +95,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="htt
 
 ## Languages
 
-English, Vietnamese, Python, C++, Fortran, ROOT, High-performance, Distributed & Differentiable Programming
+English [fluent], Vietnamese [Native], **Python (e.g. Numpy, Scipy, TensorFlow, JAX, PyTorch, Dask), C++**, Fortran, ROOT [pyROOT], **Parallel (e.g. OpenMP), Distributed (e.g. MPI) & Differentiable Programming [Python,C++,Fortran]**
 
 ## (Post-COVID19) Talks & Visits
 
