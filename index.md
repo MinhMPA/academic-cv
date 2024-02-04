@@ -33,7 +33,7 @@ Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clu
 
 ### Experience
 
-**Python (e.g. Numpy, Scipy, TensorFlow, JAX, PyTorch, Dask), C++, Fortran, ROOT [pyROOT], **Parallel (e.g. OpenMP), Distributed (e.g. MPI) & Differentiable Programming [Python,C++,Fortran]**
+**Python (e.g. Numpy, Scipy, TensorFlow, JAX, PyTorch, Dask), C++, Fortran, ROOT [pyROOT], Parallel (e.g. OpenMP), Distributed (e.g. MPI) & Differentiable Programming [Python,C++,Fortran]**
 
 ## Education
 
@@ -104,7 +104,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="htt
 
 ## Languages
 
-English [fluent], Vietnamese [Native]
+English [Fluent], Vietnamese [Native]
 
 ## (Post-COVID19) Talks & Visits
 
