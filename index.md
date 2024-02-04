@@ -19,7 +19,7 @@ Research fellow at Leinweber Center for Theoretical Physics, Department of Physi
 
 ## Research Interest
 
-Growth of Structure.
+Growth of Large-scale Structure in the Universe.
 
 ## Scientific Expertise
 
