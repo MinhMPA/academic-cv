@@ -106,15 +106,17 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="htt
 
 English [Fluent], Vietnamese [Native]
 
-## (Post-COVID19) Talks & Visits
+## Recent Talks & Visits
 
+- **PASCOS 2024, Plenary Session**, Quy Nhon, Vietnam, July 2024.
+- University of Virginia, Particle Physics Seminar, February 2024.
 - University of Michigan, <a href="https://lsa.umich.edu/physics/news-events/all-events.detail.html/117263-21839054.html">HEP-Astro seminar</a>, January 2024.
 - Cosmology from Home, online conference and <a href="https://youtu.be/4r_NAUTn7HI">Youtube</a>, July 2023.
 - CD3 Opening Symposium, Kavli IPMU, Kashiwa-no-ha, April 2023.
 - Future Science with CMB x LSS workshop, YITP, Kyoto, April 2023.
-- Cosmology Talks, <a href="https://youtu.be/Tov5KahGEVQ">Youtube</a>, Mar 2023.
+- **Cosmology Talks**, <a href="https://youtu.be/Tov5KahGEVQ">Youtube</a>, Mar 2023.
 - TACOS seminar, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
-- Aspen workshop on "Large-Scale Structure Cosmology beyond 2-Point Statistics", June 2022. (My first-ever invited blackboard talk!)
+- **Aspen workshop, "Large-Scale Structure Cosmology beyond 2-Point Statistics"**, June 2022. (My first-ever invited blackboard talk!)
 - Astro Lunch Seminar, Kavli IPMU, May 2022.
 - KIPAC Cosmology Seminar, Stanford, May 2022.
 - Berkeley Cosmology Group Seminar, Berkeley Center for Cosmological Physics, April 2022.
