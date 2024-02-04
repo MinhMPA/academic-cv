@@ -21,10 +21,19 @@ Research fellow at Leinweber Center for Theoretical Physics, Department of Physi
 
 Growth of Structure.
 
-## Expertise
+## Scientific Expertise
 
-Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clustering, galaxy intrinsic shape alignment); Cosmic microwave background radiation (gravitational lensing, Sunyaev-Zel'dovich effects); **Bayesian inference with explicit likelihood (hierachical models, advanced sampling methods); Simulation-based inference with implicit likelihood (AI/ML methods for density estimation); Large-scale, high-performance computing; Big-data analysis**
+Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clustering, galaxy intrinsic shape alignment); Cosmic microwave background radiation (gravitational lensing, Sunyaev-Zel'dovich effects)
 
+## Domain Knowledge
+
+### Skills
+
+**Bayesian inference with explicit likelihood (hierachical models, advanced sampling methods); Simulation-based inference with implicit likelihood (AI/ML methods for density estimation); Large-scale, high-performance computing; Big-data analysis**
+
+### Experience
+
+**Python (e.g. Numpy, Scipy, TensorFlow, JAX, PyTorch, Dask), C++, Fortran, ROOT [pyROOT], **Parallel (e.g. OpenMP), Distributed (e.g. MPI) & Differentiable Programming [Python,C++,Fortran]**
 
 ## Education
 
@@ -85,7 +94,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="htt
 **A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**, aka the <a href="https://github.com/ANSalcedo/Beyond2ptMock">Beyond-2pt blind data challenge</a>. The Beyond-2pt Collaboration. In prep. To be submitted to The Astrophysical Journal Supplement Series.
 
 `2023`
-**Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://arxiv.org/abs/2305.16865">arxiv preprint</a>. Accepted for publications in Physical Review D (PRD). <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230516865S/abstract">[NASA/ADS]</a>
+**Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://journals.aps.org/prd/accepted/0b07aQ1bS8f1393f92127ee6b2a6bbf27462713a6">Phys. Rev. D (2024)</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230516865S/abstract">[NASA/ADS]</a>
 
 `2019`
 **Cosmology Inference from Biased Tracers using the EFT-based Likelihood**. Elsner et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2020/01/029">JCAP01(2020)029</a>. <a href="https://ui.adsabs.harvard.edu/abs/2020JCAP...01..029E/abstract">[NASA/ADS]</a>
@@ -95,7 +104,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="htt
 
 ## Languages
 
-English [fluent], Vietnamese [Native], **Python (e.g. Numpy, Scipy, TensorFlow, JAX, PyTorch, Dask), C++**, Fortran, ROOT [pyROOT], **Parallel (e.g. OpenMP), Distributed (e.g. MPI) & Differentiable Programming [Python,C++,Fortran]**
+English [fluent], Vietnamese [Native]
 
 ## (Post-COVID19) Talks & Visits
 
