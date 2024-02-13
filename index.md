@@ -38,24 +38,23 @@ Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clu
 ## Affiliation
 
 `2022-now` 
-Postdoctoral Research Fellow, Leinweber Prize Fellowship
-<a href="https://lsa.umich.edu/lctp">Leinweber Center for Theoretical Physics</a>, Physics Department, College of Literature, Science and the Arts, University of Michigan
+**Postdoctoral Research Fellow, Leinweber Prize Fellowship** 
+<a href="https://lsa.umich.edu/lctp">Leinweber Center for Theoretical Physics</a>, Physics Department, University of Michigan
 
 `2020-2021` 
-Postdoctoral Research Associate
-<a href="https://www.mpa-garching.mpg.de/cosmology">Physical Cosmology Group</a>, Max Planck Institute for Astrophysics, Garching near Munich
+**Postdoctoral Research Associate** 
+<a href="https://www.mpa-garching.mpg.de/cosmology">Physical Cosmology Group</a>, Max Planck Institute for Astrophysics
 
 `2016-2020`
-PhD Candidate
-<a href="https://www.mpa-garching.mpg.de/cosmology">Physical Cosmology Group</a>, Max Planck Institute for Astrophysics, Garching near Munich
+**PhD Candidate** 
+<a href="https://www.mpa-garching.mpg.de/cosmology">Physical Cosmology Group</a>, Max Planck Institute for Astrophysics
 
 ## Education
 
 `2016 - 2020, PhD`
-__<a href="https://www.imprs-astro.mpg.de/">International Max Planck Research School on Astrophysics</a>__  
+__<a href="https://www.imprs-astro.mpg.de/">International Max Planck Research School on Astrophysics</a> (Magna Cum Laude)__  
 <a href="https://www.mpa-garching.mpg.de/">Max Planck Institute for Astrophysics</a>, Garching near Munich  
 <a href="https://www.physik.lmu.de/en/research/astronomy-and-astrophysics-cosmology/index.html">Ludwig Maximilians University of Munich</a>  
-Magna Cum Laude
 
 `2014-2016, MSc`
 __<a href="https://www.uibk.ac.at/astromundus/">Erasmus Joint Master Degree in Astronomy & Astrophysics (with full-ride Scholarships)</a>__  
