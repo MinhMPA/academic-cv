@@ -33,15 +33,15 @@ Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clu
 
 ## Affiliation
 
-`2022-now` 
+`Jan 2022 - now` 
 __Postdoctoral Research Fellow, Leinweber Prize Fellowship__   
 Physics Department, University of Michigan
 
-`2020-2021` 
+`Jul 2020 - Dec 2021` 
 __Postdoctoral Research Associate__  
 <a href="https://www.mpa-garching.mpg.de/cosmology">Physical Cosmology Group</a>, Max Planck Institute for Astrophysics
 
-`2016-2020`
+`Oct 2016 - Jun 2020`
 __PhD Candidate__  
 <a href="https://www.mpa-garching.mpg.de/cosmology">Physical Cosmology Group</a>, Max Planck Institute for Astrophysics
 
@@ -52,13 +52,13 @@ __<a href="https://www.imprs-astro.mpg.de/">International Max Planck Research Sc
 <a href="https://www.mpa-garching.mpg.de/">Max Planck Institute for Astrophysics</a>, Garching near Munich  
 <a href="https://www.physik.lmu.de/en/research/astronomy-and-astrophysics-cosmology/index.html">Ludwig Maximilians University of Munich</a>  
 
-`2014-2016, MSc`
+`2014 - 2016, MSc`
 __<a href="https://www.uibk.ac.at/astromundus/">Erasmus Joint Master Degree in Astronomy & Astrophysics (with full-ride Scholarships)</a>__  
 University of G&ouml;ttingen  
 University of Rome, Tor Vergata  
 University of Innsbruck
 
-`2008-2013, BSc`
+`2008 - 2013, BSc`
 __Physics and Theoretical Physics (with Honors and Scholarships)__  
 Ho Chi Minh University of Science
 
