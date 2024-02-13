@@ -35,6 +35,17 @@ Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clu
 
 **Python (e.g. Numpy, Scipy, TensorFlow, JAX, PyTorch, Dask), C++, Fortran, ROOT [pyROOT], Parallel (e.g. OpenMP), Distributed (e.g. MPI) & Differentiable Programming [Python,C++,Fortran]**
 
+## Affiliation
+
+`2022-2024, Leinweber Postodoctoral Research Fellow`
+<a href="https://lsa.umich.edu/lctp">Leinweber Center for Theoretical Physics</a>, Physics Department, College of Literature, Science and the Arts, University of Michigan
+
+`2020-2021, Postdoctoral Research Associate`
+<a href="https://www.mpa-garching.mpg.de/cosmology">Physical Cosmology Group</a>, Max Planck Institute for Astrophysics, Garching near Munich
+
+`2016-2020, PhD Candidate`
+<a href="https://www.mpa-garching.mpg.de/cosmology">Physical Cosmology Group</a>, Max Planck Institute for Astrophysics, Garching near Munich
+
 ## Education
 
 `2016 - 2020, PhD`
