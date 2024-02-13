@@ -38,15 +38,15 @@ Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clu
 ## Affiliation
 
 `2022-now` 
-**Postdoctoral Research Fellow, Leinweber Prize Fellowship** 
-<a href="https://lsa.umich.edu/lctp">Leinweber Center for Theoretical Physics</a>, Physics Department, University of Michigan
+__Postdoctoral Research Fellow, Leinweber Prize Fellowship__   
+Physics Department, University of Michigan
 
 `2020-2021` 
-**Postdoctoral Research Associate** 
+__Postdoctoral Research Associate__  
 <a href="https://www.mpa-garching.mpg.de/cosmology">Physical Cosmology Group</a>, Max Planck Institute for Astrophysics
 
 `2016-2020`
-**PhD Candidate** 
+__PhD Candidate__  
 <a href="https://www.mpa-garching.mpg.de/cosmology">Physical Cosmology Group</a>, Max Planck Institute for Astrophysics
 
 ## Education
