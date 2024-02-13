@@ -37,13 +37,16 @@ Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clu
 
 ## Affiliation
 
-`2022-now, Leinweber Postodoctoral Research Fellow`
+`2022-now` 
+Postdoctoral Research Fellow, Leinweber Prize Fellowship
 <a href="https://lsa.umich.edu/lctp">Leinweber Center for Theoretical Physics</a>, Physics Department, College of Literature, Science and the Arts, University of Michigan
 
-`2020-2021, Postdoctoral Research Associate`
+`2020-2021` 
+Postdoctoral Research Associate
 <a href="https://www.mpa-garching.mpg.de/cosmology">Physical Cosmology Group</a>, Max Planck Institute for Astrophysics, Garching near Munich
 
-`2016-2020, PhD Candidate`
+`2016-2020`
+PhD Candidate
 <a href="https://www.mpa-garching.mpg.de/cosmology">Physical Cosmology Group</a>, Max Planck Institute for Astrophysics, Garching near Munich
 
 ## Education
@@ -55,13 +58,13 @@ __<a href="https://www.imprs-astro.mpg.de/">International Max Planck Research Sc
 Magna Cum Laude
 
 `2014-2016, MSc`
-__<a href="https://www.uibk.ac.at/astromundus/">Erasmus Joint Master Degree in Astronomy & Astrophysics (Full-ride Scholarships)</a>__  
+__<a href="https://www.uibk.ac.at/astromundus/">Erasmus Joint Master Degree in Astronomy & Astrophysics (with full-ride Scholarships)</a>__  
 University of G&ouml;ttingen  
 University of Rome, Tor Vergata  
 University of Innsbruck
 
 `2008-2013, BSc`
-__Physics and Theoretical Physics (Honor Program with Scholarships)__  
+__Physics and Theoretical Physics (with Honors and Scholarships)__  
 Ho Chi Minh University of Science
 
 ## Publications
@@ -212,7 +215,7 @@ Active referee for Astronomy & Astrophysics (A&A, EDP Sciences), Journal of Cosm
 `2022-now`
 <a href="https://www.skypeascientist.com/">**Skype a Scientist**</a> (science outreach and interview with students of all ages and backgrounds in the US), scientist participant.
 
-`Fall 2023` <a href="https://www.aps.org/programs/outreach/physiciststogo.cfm">**Physicists To-Go**</a> (similar to Skype-a-Scientist but organized by APS), scientist participant.
+`Fall 2023` <a href="https://www.aps.org/programs/outreach/physiciststogo.cfm">**Physicists To-Go**</a> (similar to Skype-a-Scientist and organized by APS), scientist participant.
 
 `Fall 2023`
 <a href="https://lsa.umich.edu/ummnh/u-m-community/u-m-faculty/science-communication-fellows.html">**Science Communication Fellows**</a> (science outreach demonstrations and presentations at Michigan local museums and libraries), scientist participant.
