@@ -13,10 +13,6 @@ Astrophysicist, Cosmologist, Leinweber Research Fellow
 <a href="https://twitter.com/MinhNguyenAstro">Twitter</a>
 </div>
 
-## Affiliation
-
-Research fellow at Leinweber Center for Theoretical Physics, Department of Physics, LSA College, University of Michigan.
-
 ## Research Interest
 
 Growth of Large-scale Structure in the Universe.
