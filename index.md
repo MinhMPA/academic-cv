@@ -103,7 +103,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="htt
 **A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**, aka the <a href="https://github.com/ANSalcedo/Beyond2ptMock">Beyond-2pt blind data challenge</a>. The Beyond-2pt Collaboration. In prep. To be submitted to The Astrophysical Journal Supplement Series.
 
 `2023`
-**Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://journals.aps.org/prd/accepted/0b07aQ1bS8f1393f92127ee6b2a6bbf27462713a6">Phys. Rev. D (2024)</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230516865S/abstract">[NASA/ADS]</a>
+**Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.043528">Phys. Rev. D 109, 043528</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230516865S/abstract">[NASA/ADS]</a>
 
 `2019`
 **Cosmology Inference from Biased Tracers using the EFT-based Likelihood**. Elsner et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2020/01/029">JCAP01(2020)029</a>. <a href="https://ui.adsabs.harvard.edu/abs/2020JCAP...01..029E/abstract">[NASA/ADS]</a>
