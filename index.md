@@ -76,7 +76,7 @@ I have authored 10 publications (citation count: 181; h-index: 8) <a href="https
 <!--**Late-universe Suppressed Growth of Structure and Early-universe Massive Galaxies**. *Nguyen$^1$* and Huterer. In prep. To be submitted to ApJL.-->
 
 `2024`
-**How much information can be extracted from galaxy clustering at the field level?**. **Nguyen$^1$**, Schmidt, Tucci, Reinecke, Kosti&#263;$^1$. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. To be submitted to PRL. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a>
+**How much information can be extracted from galaxy clustering at the field level?**. **Nguyen$^1$**, Schmidt, Tucci, Reinecke, Kosti&#263;$. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. To be submitted to PRL. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a>
 
 `2023`
 **Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, **Nguyen$^1$**, Huterer. <a href="https://doi.org/10.1088/1475-7516/2023/09/028">JCAP09(2023)028</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...09..028W/abstract">[NASA/ADS]</a>
@@ -103,7 +103,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="htt
 ### Co-author
 
 `2023`
-**A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**, aka the <a href="https://github.com/ANSalcedo/Beyond2ptMock">Beyond-2pt blind data challenge</a>. The Beyond-2pt Collaboration. In prep. To be submitted to The Astrophysical Journal Supplement Series.
+**A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**, aka the <a href="https://github.com/ANSalcedo/Beyond2ptMock">Beyond-2pt blind data challenge</a>. Beyond-2pt Collaboration. In prep. To be submitted to The Astrophysical Journal Supplement Series.
 
 `2023`
 **Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.043528">Phys. Rev. D 109, 043528</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230516865S/abstract">[NASA/ADS]</a>
