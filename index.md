@@ -68,7 +68,7 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 10 publications (citation count: 184; h-index: 8) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>
+I have authored 10 publications (citation count: 185; h-index: 8) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>
 
 ### First, co-first, or second author (with equal or significant contributions)
 
@@ -121,14 +121,16 @@ English (Fluent), Vietnamese (Native)
 ## Recent Talks & Visits
 
 - **PASCOS 2024, Plenary Session**, Quy Nhon, Vietnam, July 2024.
-- University of Virginia, Particle Physics Seminar, February 2024.
+- **Aspen workshop, "Fundamental Physics in the Era of Big Data and Machine Learning"**, May-June 2024.
+- University of Virginia, Particle Physics Seminar, April 2024.
+- Cosmolunch, CCAPP, University of Ohio, March 2024.
 - University of Michigan, <a href="https://lsa.umich.edu/physics/news-events/all-events.detail.html/117263-21839054.html">HEP-Astro seminar</a>, January 2024.
 - Cosmology from Home, online conference and <a href="https://youtu.be/4r_NAUTn7HI">Youtube</a>, July 2023.
 - CD3 Opening Symposium, Kavli IPMU, Kashiwa-no-ha, April 2023.
 - Future Science with CMB x LSS workshop, YITP, Kyoto, April 2023.
 - **Cosmology Talks**, <a href="https://youtu.be/Tov5KahGEVQ">Youtube</a>, Mar 2023.
 - TACOS seminar, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
-- **Aspen workshop, "Large-Scale Structure Cosmology beyond 2-Point Statistics"**, June 2022. (My first-ever invited blackboard talk!)
+- **Aspen workshop, "Large-Scale Structure Cosmology beyond 2-Point Statistics"**, May-June 2022. (My first-ever invited blackboard talk!)
 - Astro Lunch Seminar, Kavli IPMU, May 2022.
 - KIPAC Cosmology Seminar, Stanford, May 2022.
 - Berkeley Cosmology Group Seminar, Berkeley Center for Cosmological Physics, April 2022.
