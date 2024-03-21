@@ -126,7 +126,8 @@ English (Fluent), Vietnamese (Native)
 
 - **PASCOS 2024, Plenary Session**, Quy Nhon, Vietnam, July 2024.
 - **Aspen workshop, "Fundamental Physics in the Era of Big Data and Machine Learning"**, May-June 2024.
-- University of Virginia, Particle Physics Seminar, April 2024.
+- Perimeter Cosmology Seminar, Perimeter Institute (remote), April 2024.
+- Midwest Cosmology Network Seminar, Midwest Cosmology Network (remote), April 2024.
 - Cosmolunch, CCAPP, University of Ohio, March 2024.
 - University of Michigan, <a href="https://lsa.umich.edu/physics/news-events/all-events.detail.html/117263-21839054.html">HEP-Astro seminar</a>, January 2024.
 - Cosmology from Home, online conference and <a href="https://youtu.be/4r_NAUTn7HI">Youtube</a>, July 2023.
