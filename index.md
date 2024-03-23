@@ -68,7 +68,7 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 10 publications (citation count: 186; h-index: 8) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>
+I have authored 10 publications (citation count: 188; h-index: 8) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>
 
 ### First, co-first, or second author (with equal or significant contributions)
 
@@ -125,6 +125,7 @@ English (Fluent), Vietnamese (Native)
 ## Recent Talks & Visits
 
 - **PASCOS 2024, Plenary Session**, Quy Nhon, Vietnam, July 2024.
+- DESI Research Forum, remote, June 2024.
 - **Aspen workshop, "Fundamental Physics in the Era of Big Data and Machine Learning"**, May-June 2024.
 - Perimeter Cosmology Seminar, Perimeter Institute (remote), April 2024.
 - Midwest Cosmology Network Seminar, Midwest Cosmology Network (remote), April 2024.
