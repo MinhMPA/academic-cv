@@ -108,6 +108,8 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="htt
 `2024`
 **DESI 2024 VI:  Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations**
 DESI Collaboration. <a href="https://arxiv.org/abs/2404.XXXX">arXiv preprint</a>. To be submitted to JCAP.
+**DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars**
+DESI Collaboration. <a href="https://arxiv.org/abs/2404.XXXX">arXiv preprint</a>. To be submitted to JCAP.
 
 `2023`
 **Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.043528">Phys. Rev. D 109, 043528</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230516865S/abstract">[NASA/ADS]</a>
