@@ -131,8 +131,8 @@ English (Fluent), Vietnamese (Native)
 - **PASCOS 2024, Plenary Session**, Quy Nhon, Vietnam, July 2024.
 - DESI Research Forum, remote, June 2024.
 - **Aspen workshop, "Fundamental Physics in the Era of Big Data and Machine Learning"**, May-June 2024.
-- Perimeter Cosmology Seminar, Perimeter Institute (remote), April 2024.
-- Midwest Cosmology Network Seminar, Midwest Cosmology Network (remote), April 2024.
+- Perimeter Cosmology seminar, Perimeter Institute (remote), April 2024.
+- Midwest Cosmology Network meeting, US Midwest (remote), April 2024.
 - Cosmolunch, CCAPP, University of Ohio, March 2024.
 - University of Michigan, <a href="https://lsa.umich.edu/physics/news-events/all-events.detail.html/117263-21839054.html">HEP-Astro seminar</a>, January 2024.
 - Cosmology from Home, online conference and <a href="https://youtu.be/4r_NAUTn7HI">Youtube</a>, July 2023.
@@ -141,19 +141,19 @@ English (Fluent), Vietnamese (Native)
 - **Cosmology Talks**, <a href="https://youtu.be/Tov5KahGEVQ">Youtube</a>, Mar 2023.
 - TACOS seminar, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
 - **Aspen workshop, "Large-Scale Structure Cosmology beyond 2-Point Statistics"**, May-June 2022. (My first-ever invited blackboard talk!)
-- Astro Lunch Seminar, Kavli IPMU, May 2022.
-- KIPAC Cosmology Seminar, Stanford, May 2022.
-- Berkeley Cosmology Group Seminar, Berkeley Center for Cosmological Physics, April 2022.
+- Astro Lunch seminar, Kavli IPMU, May 2022.
+- KIPAC Cosmology seminar, Stanford, May 2022.
+- Berkeley Cosmology Group seminar, Berkeley Center for Cosmological Physics, April 2022.
 - NYU-CCA Cosmology x Data Science Meeting, New York University-Flatiron Institute (remote), March 2021.
 - OPINAS Group Meeting, Max-Planck-Institut f&#252;r extraterrestrische Physik (remote), March 2021.
 - Cosmology & Gravitation Group Meeting, Oskar Klein Centre (remote), February 2021.
 - "The Origin and Evolution of Large-Scale Structure" Science Afternoon, Excellence Cluster ORIGINS (remote), February 2021.
 - CosmoLunch Meeting, Institute of Advanced Study, Princeton (remote), January 2021.
 - Universe Journal Club, Institut d'astrophysique de Paris (remote), December 2020.
-- Cosmology Seminar, Max-Planck-Institut f&#252;r Astrophysik (remote), December 2020..
-- Astroparticle Physics Seminar, SISSA (remote), December 2020.
+- Cosmology seminar, Max-Planck-Institut f&#252;r Astrophysik (remote), December 2020..
+- Astroparticle Physics seminar, SISSA (remote), December 2020.
 - Cosmology Group Meeting, Perimeter Institute (remote), December 2020.
-- Cosmology Seminar, University of Manchester (remote), December 2020.
+- Cosmology seminar, University of Manchester (remote), December 2020.
 
 ## Mentoring, Advising and Teaching
 
@@ -203,10 +203,10 @@ Active referee for Astronomy & Astrophysics (A&A, EDP Sciences), Journal of Cosm
 ### Professional Institute and Group Service
 
 `2021-2022`
- <a href="https://vllt-joint-seminar-series.github.io/2022/">**VLLT Joint Astronomy & Physics Seminar Series**</a> (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam), founder and co-organizer.
+ <a href="https://vllt-joint-seminar-series.github.io/2022/">**VLLT Joint Astronomy & Physics seminar series**</a> (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam), founder and co-organizer.
 
 `2022-now`
-**Cosmology Journal Club** and <a href="https://lsa.umich.edu/lctp/news-events/all-events/seminars/cosmology---astrophysics-seminars.html#q=&filter=&start=&end=12/10/2023&tags=">**Cosmology & Astrophysics Seminar** </a>(University of Michigan), founder & main organizer.
+**Cosmology Journal Club** and <a href="https://lsa.umich.edu/lctp/news-events/all-events/seminars/cosmology---astrophysics-seminars.html#q=&filter=&start=&end=12/10/2023&tags=">**Cosmology & Astrophysics seminar** </a>(University of Michigan), founder & main organizer.
 
 `2020-2021`
 **Cosmology Book Club** (Max Planck Institute for Astrophysics), founder & main organizer.
