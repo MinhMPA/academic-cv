@@ -168,7 +168,7 @@ English (Fluent), Vietnamese (Native)
 ### Advising on a research project
 
 - <a href="https://tsaprazi.eu/">**Eleni Tsaprazi**</a> (Postdoc, Imperial College London).
-- <a href="https://www.linkedin.com/in/andrew-hope-6a752527b/">**Andrew Hope**</a> (UROP student, University of Michigan).
+- <a href="https://www.linkedin.com/in/andrew-hope-6a752527b/">**Andrew Hope**</a> (UROP student, University of Michigan). Otho Lyle Tiffany & Mary Lois Tiffany Fellow 2024 (with my nomination).
 - **Kyle Lee** (UROP student, University of Michigan).
 - <a href="https://www.linkedin.com/in/disha-saxena-a95a09264/">**Disha Saxena**</a> (UROP student, University of Michigan).
 - **Kasey Thai** (UROP student, University of Michigan).
