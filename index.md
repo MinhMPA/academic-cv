@@ -140,7 +140,7 @@ English (Fluent), Vietnamese (Native)
 - Future Science with CMB x LSS workshop, YITP, Kyoto, April 2023.
 - **Cosmology Talks**, <a href="https://youtu.be/Tov5KahGEVQ">Youtube</a>, Mar 2023.
 - TACOS seminar, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
-- **Aspen workshop, "Large-Scale Structure Cosmology beyond 2-Point Statistics"**, May-June 2022. (My first-ever invited blackboard talk!)
+- **Aspen workshop, "Large-Scale Structure Cosmology beyond 2-Point Statistics"**, May-June 2022. (Blackboard talk)
 - Astro Lunch seminar, Kavli IPMU, May 2022.
 - KIPAC Cosmology seminar, Stanford, May 2022.
 - Berkeley Cosmology Group seminar, Berkeley Center for Cosmological Physics, April 2022.
