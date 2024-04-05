@@ -76,7 +76,7 @@ I have authored 10 publications, excluding big-collaboration papers (citation co
 <!--**Late-universe Suppressed Growth of Structure and Early-universe Massive Galaxies**. *Nguyen$^1$* and Huterer. In prep. To be submitted to ApJL.-->
 
 `2024`
-**How much information can be extracted from galaxy clustering at the field level?**. **Nguyen$^1$**, Schmidt, Tucci, Reinecke, Kosti&#263;. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. To be submitted to PRL. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a>
+**How much information can be extracted from galaxy clustering at the field level?**. **Nguyen$^1$**, Schmidt, Tucci, Reinecke, Kosti&#263;. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. Submitted to PRL. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a>
 
 `2023`
 **Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, **Nguyen$^1$**, Huterer. <a href="https://doi.org/10.1088/1475-7516/2023/09/028">JCAP09(2023)028</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...09..028W/abstract">[NASA/ADS]</a>
@@ -107,15 +107,15 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="htt
 
 `2024`
 **DESI 2024 VI:  Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations**.
-DESI Collaboration. <a href="https://arxiv.org/abs/2404.03002">arXiv preprint</a>. To be submitted to JCAP.
+DESI Collaboration. <a href="https://arxiv.org/abs/2404.03002">arXiv preprint</a>. Submitted to JCAP.
 
 `2024`
 **DESI 2024 IV: Baryon Acoustic Oscillations from the Lyman Alpha Forest**.
-DESI Collaboration. <a href="https://arxiv.org/abs/2404.03001">arXiv preprint</a>. To be submitted to JCAP.
+DESI Collaboration. <a href="https://arxiv.org/abs/2404.03001">arXiv preprint</a>. Submitted to JCAP.
 
 `2024`
 **DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars**.
-DESI Collaboration. <a href="https://arxiv.org/abs/2404.03000">arXiv preprint</a>. To be submitted to JCAP.
+DESI Collaboration. <a href="https://arxiv.org/abs/2404.03000">arXiv preprint</a>. Submitted to JCAP.
 
 `2023`
 **Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.043528">Phys. Rev. D 109, 043528</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230516865S/abstract">[NASA/ADS]</a>
