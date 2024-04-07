@@ -137,7 +137,7 @@ English (Fluent), Vietnamese (Native)
 - **Aspen workshop, "Fundamental Physics in the Era of Big Data and Machine Learning"**, May-June 2024.
 - CCA, Flatiron, New York, April 2024.
 - Newcastle Journal club, Newcastle University (remote), April 2024.
-- Perimeter Cosmology Seminar, Perimeter Institute (remote), April 2024.
+- Perimeter Cosmology Seminar, Perimeter Institute (remote, <a href="https://pirsa.org/24040073">recording</a>), April 2024.
 - Midwest Cosmology Network Meeting, US Midwest (remote), April 2024.
 - Cosmolunch, CCAPP, University of Ohio, March 2024.
 - University of Michigan, <a href="https://lsa.umich.edu/physics/news-events/all-events.detail.html/117263-21839054.html">HEP-Astro Seminar</a>, January 2024.
@@ -172,7 +172,7 @@ English (Fluent), Vietnamese (Native)
 ### Advising on a research project
 
 - <a href="https://tsaprazi.eu/">**Eleni Tsaprazi**</a> (Postdoc, Imperial College London).
-- <a href="https://www.linkedin.com/in/andrew-hope-6a752527b/">**Andrew Hope**</a> (UROP student, University of Michigan). Otho Lyle Tiffany & Mary Lois Tiffany Fellow 2024 (with my nomination).
+- <a href="https://www.linkedin.com/in/andrew-hope-6a752527b/">**Andrew Hope**</a> (UROP student, University of Michigan). Otho Lyle Tiffany & Mary Lois Tiffany Fellow 2024.
 - **Kyle Lee** (UROP student, University of Michigan).
 - <a href="https://www.linkedin.com/in/disha-saxena-a95a09264/">**Disha Saxena**</a> (UROP student, University of Michigan).
 - **Kasey Thai** (UROP student, University of Michigan).
