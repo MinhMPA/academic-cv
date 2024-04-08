@@ -190,6 +190,9 @@ English (Fluent), Vietnamese (Native)
 
 ## Popular Science Writings
 
+`2024`
+<a href="https://tiasang.com.vn/khoa-hoc-cong-nghe/tin-hieu-moi-tu-vu-tru-desi-va-manh-moi-moi-ve-nang-luong-toi/">**Tín hiệu mới từ vũ trụ? DESI và manh mối mới về năng lượng tối**</a>, Tia Sang Magazine.
+
 `2023`
 <a href="https://phys.org/news/2023-10-molasses-cosmic-large-scale-caught-slower.html">**Growing in molasses: Cosmic large-scale structure caught growing slower than expected**</a>, Science X Dialog, Phys.org.
 
