@@ -135,7 +135,9 @@ English (Fluent), Vietnamese (Native)
 - **PASCOS 2024, Plenary Session**, Quy Nhon, Vietnam, July 2024.
 - DESI Research Forum, remote, June 2024.
 - **Aspen workshop, "Fundamental Physics in the Era of Big Data and Machine Learning"**, May-June 2024.
+- Fundamental Physics from Future Spectroscopic Surveys, Lawrence Berkeley National Laboratory, May 2024.
 - CCA, Flatiron, New York, April 2024.
+- **Cosmology Talks** (ft. <a href="https://wwwmpa.mpa-garching.mpg.de/~tucci/">Beatriz Tucci</a>), <a href="">Youtube</a>, April 2023.
 - Newcastle Journal club, Newcastle University (remote), April 2024.
 - Perimeter Cosmology Seminar, Perimeter Institute (remote, <a href="https://pirsa.org/24040073">recording</a>), April 2024.
 - Midwest Cosmology Network Meeting, US Midwest (remote), April 2024.
