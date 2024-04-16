@@ -132,22 +132,22 @@ English (Fluent), Vietnamese (Native)
 
 ## Recent Talks & Visits
 
-- **PASCOS 2024, Plenary Session**, Quy Nhon, Vietnam, July 2024.
+- <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">**PASCOS 2024, Plenary Session**</a>, Quy Nhon, Vietnam, July 2024.
 - DESI Research Forum, remote, June 2024.
 - **Aspen workshop, "Fundamental Physics in the Era of Big Data and Machine Learning"**, May-June 2024.
-- Fundamental Physics from Future Spectroscopic Surveys, Lawrence Berkeley National Laboratory, May 2024.
+- <a href="https://indico.physics.lbl.gov/event/2769/#:~:text=The%20goal%20of%20this%20conference,ongoing%20and%20future%20spectroscopic%20surveys.">Fundamental Physics from Future Spectroscopic Surveys</a>, Lawrence Berkeley National Laboratory, May 2024.
 - CCA, Flatiron, New York, April 2024.
 - **Cosmology Talks** (ft. <a href="https://wwwmpa.mpa-garching.mpg.de/~tucci/">Beatriz Tucci</a>), <a href="">Youtube</a>, April 2023.
-- Newcastle Journal club, Newcastle University (remote), April 2024.
-- Perimeter Cosmology Seminar, Perimeter Institute (remote, <a href="https://pirsa.org/24040073">recording</a>), April 2024.
+- Newcastle Journal club, Newcastle University (remote, <a href="https://www.canva.com/design/DAGCWt0tU8s/Bbk8orzLjOpBLSqg93_Wbw/edit?utm_content=DAGCWt0tU8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), April 2024.
+- <a href="https://pirsa.org/S004?__hstc=261081490.d6b29b8af5d0a7be4e8614089397a893.1710113073610.1710113073610.1713237916725.2&__hssc=261081490.1.1713237916725&__hsfp=3891864333">Perimeter Cosmology Seminar</a>, Perimeter Institute (remote, <a href="https://pirsa.org/24040073">recording</a>), April 2024.
 - Midwest Cosmology Network Meeting, US Midwest (remote), April 2024.
-- Cosmolunch, CCAPP, University of Ohio, March 2024.
+- Cosmolunch, CCAPP, University of Ohio (<a href="https://gitlab.mpcdf.mpg.de/leftfield/plotting-library/-/blob/9e22b0b3987ff170c926b078401d5e5905c063e7/presentations/OSU_CosmoLunch-Seminar-2024Mar20.pdf">slides</a>), March 2024.
 - University of Michigan, <a href="https://lsa.umich.edu/physics/news-events/all-events.detail.html/117263-21839054.html">HEP-Astro Seminar</a>, January 2024.
 - Cosmology from Home, online conference and <a href="https://youtu.be/4r_NAUTn7HI">Youtube</a>, July 2023.
 - CD3 Opening Symposium, Kavli IPMU, Kashiwa-no-ha, April 2023.
-- Future Science with CMB x LSS workshop, YITP, Kyoto, April 2023.
+- <a href="https://www2.yukawa.kyoto-u.ac.jp/~cmb-lss/index.php#:~:text=Objective%20of%20this%20workshop&text=This%20workshop%20will%20bring%20together,fields%20and%20foster%20future%20collaborations.">Future Science with CMB x LSS workshop</a>, YITP (<a href="https://www2.yukawa.kyoto-u.ac.jp/~cmb-lss/webinars/20230411.mp4">session recording</a>, <a href="https://www.dropbox.com/s/p326yrdkqz3d8c7/MinhNguyen_Future_Science_with_CMBxLSS_YITP_Kyoto.pdf?dl=0">slides</a>), Kyoto, April 2023.
 - **Cosmology Talks**, <a href="https://youtu.be/Tov5KahGEVQ">Youtube</a>, Mar 2023.
-- TACOS Seminar, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
+- <a href="https://azcosmolab.org/events_weekly.html#header5-9q">TACOS Seminar</a>, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
 - **Aspen workshop, "Large-Scale Structure Cosmology beyond 2-Point Statistics"**, May-June 2022. (Blackboard talk)
 - Astro Lunch Seminar, Kavli IPMU, May 2022.
 - KIPAC Cosmology Seminar, Stanford, May 2022.
