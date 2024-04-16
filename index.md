@@ -142,7 +142,7 @@ English (Fluent), Vietnamese (Native)
 - <a href="https://pirsa.org/S004?__hstc=261081490.d6b29b8af5d0a7be4e8614089397a893.1710113073610.1710113073610.1713237916725.2&__hssc=261081490.1.1713237916725&__hsfp=3891864333">Perimeter Cosmology Seminar</a>, Perimeter Institute (remote, <a href="https://pirsa.org/24040073">recording</a>), April 2024.
 - Midwest Cosmology Network Meeting, US Midwest (remote), April 2024.
 - Cosmolunch, CCAPP, University of Ohio (<a href="https://gitlab.mpcdf.mpg.de/leftfield/plotting-library/-/blob/9e22b0b3987ff170c926b078401d5e5905c063e7/presentations/OSU_CosmoLunch-Seminar-2024Mar20.pdf">slides</a>), March 2024.
-- University of Michigan, <a href="https://lsa.umich.edu/physics/news-events/all-events.detail.html/117263-21839054.html">HEP-Astro Seminar</a>, January 2024.
+- <a href="https://lsa.umich.edu/physics/news-events/all-events.detail.html/117263-21839054.html">HEP-Astro Seminar</a>, University of Michigan, Michigan, January 2024.
 - Cosmology from Home, online conference and <a href="https://youtu.be/4r_NAUTn7HI">Youtube</a>, July 2023.
 - CD3 Opening Symposium, Kavli IPMU, Kashiwa-no-ha, April 2023.
 - <a href="https://www2.yukawa.kyoto-u.ac.jp/~cmb-lss/index.php#:~:text=Objective%20of%20this%20workshop&text=This%20workshop%20will%20bring%20together,fields%20and%20foster%20future%20collaborations.">Future Science with CMB x LSS workshop</a>, YITP (<a href="https://www2.yukawa.kyoto-u.ac.jp/~cmb-lss/webinars/20230411.mp4">session recording</a>, <a href="https://www.dropbox.com/s/p326yrdkqz3d8c7/MinhNguyen_Future_Science_with_CMBxLSS_YITP_Kyoto.pdf?dl=0">slides</a>), Kyoto, April 2023.
@@ -151,7 +151,7 @@ English (Fluent), Vietnamese (Native)
 - **Aspen workshop, "Large-Scale Structure Cosmology beyond 2-Point Statistics"**, May-June 2022. (Blackboard talk)
 - Astro Lunch Seminar, Kavli IPMU, May 2022.
 - KIPAC Cosmology Seminar, Stanford, May 2022.
-- Berkeley Cosmology Group Seminar, Berkeley Center for Cosmological Physics, April 2022.
+- <a href="https://cosmology.lbl.gov/bcg_seminars_21_22.html">Berkeley Cosmology Group Seminar</a>, BCCP, Berkeley, April 2022.
 - NYU-CCA Cosmology x Data Science Meeting, New York University-Flatiron Institute (remote), March 2021.
 - OPINAS Group Meeting, Max-Planck-Institut f&#252;r extraterrestrische Physik (remote), March 2021.
 - Cosmology & Gravitation Group Meeting, Oskar Klein Centre (remote), February 2021.
