@@ -168,7 +168,7 @@ English (Fluent), Vietnamese (Native)
 ### Mentoring
 
 - <a href="https://www.linkedin.com/in/carter-matties-a96143217/">**Carter Matties**</a> (Undergraduate student, University of Michigan).
-- <a href="https://www.linkedin.com/in/madeline-fredericks-48968928a/">**Madeline Fredericks**</a> (Undergraduate student, University of Michigan).
+<!--- <a href="https://www.linkedin.com/in/madeline-fredericks-48968928a/">**Madeline Fredericks**</a> (Undergraduate student, University of Michigan).-->
 - <a href="https://cosmicstring.github.io/">**Andrja Kosti&#263;**</a> (Research Scientist, DeepL), co-mentored.
 
 ### Advising on a research project
