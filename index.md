@@ -182,7 +182,7 @@ English (Fluent), Vietnamese (Native)
 ### Teaching
 
 `Summer 2024`
-<a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, course lecturer, "Climbing the Distance Ladder to the Big Bang: How astronomers survey the Universe."
+<a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, course lecturer, <a href="https://sites.lsa.umich.edu/mmss/courses-2024/">"Climbing the Distance Ladder to the Big Bang: How astronomers survey the Universe."</a>
 
 <!--`Summer 2023`-->
 <!--<a href="https://ifirse.icise.vn/2022/12/03/2023-sagi-observational-astronomy-school/">**2023 SAGI Observational Astronomy School**</a>, invited lecturer, not able to attend due to US visa renew process (to re-enter the US afterwards).-->
@@ -271,6 +271,6 @@ Active referee for Astronomy & Astrophysics (A&A, EDP Sciences), Journal of Cosm
 
 <!-- ### Footer
 
-Last updated: Feb 2023 -->
+Last updated: Apr 2024 -->
 
 
