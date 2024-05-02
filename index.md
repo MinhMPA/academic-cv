@@ -69,7 +69,7 @@ Ho Chi Minh University of Science
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 I have authored 10 publications, excluding big-collaboration papers (citations: 193; h-index: 8) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>;  
-13 publications, including big-collaboration papers (citations: 270; h-index: 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a>.
+13 publications, including big-collaboration papers (citations: 279; h-index: 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a>.
 
 ### First, co-first, or second author (with equal or significant contributions)
 
@@ -104,7 +104,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="htt
 ### Co-author
 
 `2024`
-**A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2404.XXXX">arXiv preprint</a>. To be submitted to The Astrophysical Journal Supplement Series.
+**A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.XXXX">arXiv preprint</a>. To be submitted to The Astrophysical Journal Supplement Series.
 
 `2024`
 **DESI 2024 VI:  Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations**.
