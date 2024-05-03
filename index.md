@@ -137,11 +137,11 @@ English (Fluent), Vietnamese (Native)
 - DESI Research Forum, remote, June 2024.
 - **Aspen workshop, "Fundamental Physics in the Era of Big Data and Machine Learning"**, May-June 2024.
 - KIPAC Cosmology Seminar, Stanford (remote), May 2024.
-- <a href="https://indico.physics.lbl.gov/event/2769/#:~:text=The%20goal%20of%20this%20conference,ongoing%20and%20future%20spectroscopic%20surveys.">Fundamental Physics from Future Spectroscopic Surveys</a>, Lawrence Berkeley National Laboratory, May 2024.
 - **Cosmology Talks** (with Beyond-2point Collaboration), <a href="">Youtube</a>, May 2024.
+- <a href="https://indico.physics.lbl.gov/event/2769/contributions/8883/">Fundamental Physics from Future Spectroscopic Surveys</a>, Lawrence Berkeley National Laboratory, May 2024.
 - Columbia Cosmology Group Meeting, Columbia University (remote, <a href="https://www.canva.com/design/DAGD59CJNqc/CBuCaGDNBz4HBErZkgHcWg/edit?utm_content=DAGD59CJNqc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), New York, April 2024.
 - CCA Cosmology Meeting, Flatiron Institute, New York (<a href="https://www.canva.com/design/DAGDbx7ZhYQ/sC5HFpriRcspMCXpHHzcRg/edit?utm_content=DAGDbx7ZhYQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), April 2024.
-- **Cosmology Talks** (ft. <a href="https://wwwmpa.mpa-garching.mpg.de/~tucci/">Beatriz Tucci</a>), <a href="">Youtube</a>, April 2024.
+- **Cosmology Talks** (ft. <a href="https://wwwmpa.mpa-garching.mpg.de/~tucci/">Beatriz Tucci</a>), <a href="https://youtu.be/Pxfsf89jZwI?si=dbtN2Z3yNqWdSHfv">Youtube</a>, April 2024.
 - Newcastle Journal club, Newcastle University (remote, <a href="https://www.canva.com/design/DAGCWt0tU8s/Bbk8orzLjOpBLSqg93_Wbw/edit?utm_content=DAGCWt0tU8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), April 2024.
 - <a href="https://pirsa.org/S004?__hstc=261081490.d6b29b8af5d0a7be4e8614089397a893.1710113073610.1710113073610.1713237916725.2&__hssc=261081490.1.1713237916725&__hsfp=3891864333">Perimeter Cosmology Seminar</a>, Perimeter Institute (remote, <a href="https://pirsa.org/24040073">recording</a>), April 2024.
 - Midwest Cosmology Network Meeting, US Midwest (remote), April 2024.
