@@ -69,7 +69,7 @@ Ho Chi Minh University of Science
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 I have authored 10 publications, excluding big-collaboration papers (citations: 196; h-index: 8) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>;  
-13 publications, including big-collaboration papers (citations: 286; h-index: 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a>.
+13 publications, including big-collaboration papers (citations: 296; h-index: 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a>.
 
 ### First, co-first, or second author (with equal or significant contributions)
 
