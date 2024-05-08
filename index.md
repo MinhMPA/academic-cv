@@ -138,7 +138,7 @@ English (Fluent), Vietnamese (Native)
 - **Aspen workshop, "Fundamental Physics in the Era of Big Data and Machine Learning"**, May-June 2024.
 - KIPAC Cosmology Seminar, Stanford (remote), May 2024.
 - **Cosmology Talks** (with Beyond-2point Collaboration), <a href="">Youtube</a>, May 2024.
-- <a href="https://indico.physics.lbl.gov/event/2769/contributions/8883/">Fundamental Physics from Future Spectroscopic Surveys</a>, Lawrence Berkeley National Laboratory, May 2024.
+- <a href="https://www.youtube.com/live/6JN-cKVTZYQ?si=lRd9aP5d1qej7Ym-">Fundamental Physics from Future Spectroscopic Surveys</a>, Lawrence Berkeley National Laboratory (<a href="https://indico.physics.lbl.gov/event/2769/contributions/8883/">slides</a>), May 2024.
 - Columbia Cosmology Group Meeting, Columbia University (remote, <a href="https://www.canva.com/design/DAGD59CJNqc/CBuCaGDNBz4HBErZkgHcWg/edit?utm_content=DAGD59CJNqc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), New York, April 2024.
 - CCA Cosmology Meeting, Flatiron Institute, New York (<a href="https://www.canva.com/design/DAGDbx7ZhYQ/sC5HFpriRcspMCXpHHzcRg/edit?utm_content=DAGDbx7ZhYQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), April 2024.
 - **Cosmology Talks** (ft. <a href="https://wwwmpa.mpa-garching.mpg.de/~tucci/">Beatriz Tucci</a>), <a href="https://youtu.be/Pxfsf89jZwI?si=dbtN2Z3yNqWdSHfv">Youtube</a>, April 2024.
