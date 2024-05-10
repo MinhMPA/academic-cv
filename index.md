@@ -35,7 +35,7 @@ Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clu
 
 `Jan 2022 - now` 
 __Postdoctoral Research Fellow, Leinweber Prize Fellowship__   
-Leinweber Center for Theoretical Physics, Physics Department, University of Michigan
+<a href="https://lsa.umich.edu/lctp">Leinweber Center for Theoretical Physics</a>, <a href="https://lsa.umich.edu/physics">Physics Department</a>, University of Michigan
 
 `Jul 2020 - Dec 2021` 
 __Postdoctoral Research Associate__  
