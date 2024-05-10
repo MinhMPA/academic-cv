@@ -35,7 +35,7 @@ Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clu
 
 `Jan 2022 - now` 
 __Postdoctoral Research Fellow, Leinweber Prize Fellowship__   
-Physics Department, University of Michigan
+Leinweber Center for Theoretical Physics, Physics Department, University of Michigan
 
 `Jul 2020 - Dec 2021` 
 __Postdoctoral Research Associate__  
@@ -69,7 +69,7 @@ Ho Chi Minh University of Science
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 I have authored 11 publications, excluding big-collaboration papers (citations: 201; h-index: 8) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>;  
-14 publications, including big-collaboration papers (citations: 312; h-index: 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a>.
+14 publications, including big-collaboration papers (citations: 313; h-index: 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a>.
 
 ### First, co-first, or second author (with equal or significant contributions)
 
