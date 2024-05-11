@@ -134,12 +134,14 @@ English (Fluent), Vietnamese (Native)
 ## Recent Talks & Visits
 
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">**PASCOS 2024, Plenary Session**</a>, Quy Nhon, Vietnam, July 2024.
-- DESI Research Forum, remote, June 2024.
+- <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">PASCOS 2024, Parallel Session</a> (originally invited for a Plenary but rescheduled and dedicated the Plenary to speak about DESI results), Quy Nhon, Vietnam, July 2024.
+- Cosmology from Home, online conference, June 2024.
+- DESI Research Forum (remote, slides), June 2024.
 - **Aspen workshop, "Fundamental Physics in the Era of Big Data and Machine Learning"**, May-June 2024.
-- KIPAC Cosmology Seminar, Stanford (remote), May 2024.
+- KIPAC Cosmology Seminar, Stanford (remote, slides), May 2024.
 - **Cosmology Talks** (with Beyond-2point Collaboration), <a href="">Youtube</a>, May 2024.
 - <a href="https://www.youtube.com/live/6JN-cKVTZYQ?si=lRd9aP5d1qej7Ym-">Fundamental Physics from Future Spectroscopic Surveys</a>, Lawrence Berkeley National Laboratory (<a href="https://indico.physics.lbl.gov/event/2769/contributions/8883/">slides</a>), May 2024.
-- Columbia Cosmology Group Meeting, Columbia University (remote, <a href="https://www.canva.com/design/DAGD59CJNqc/CBuCaGDNBz4HBErZkgHcWg/edit?utm_content=DAGD59CJNqc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), New York, April 2024.
+- Columbia Cosmology Group Meeting, Columbia University (<a href="https://www.canva.com/design/DAGD59CJNqc/CBuCaGDNBz4HBErZkgHcWg/edit?utm_content=DAGD59CJNqc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), New York, April 2024.
 - CCA Cosmology Meeting, Flatiron Institute, New York (<a href="https://www.canva.com/design/DAGDbx7ZhYQ/sC5HFpriRcspMCXpHHzcRg/edit?utm_content=DAGDbx7ZhYQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), April 2024.
 - **Cosmology Talks** (ft. <a href="https://wwwmpa.mpa-garching.mpg.de/~tucci/">Beatriz Tucci</a>), <a href="https://youtu.be/Pxfsf89jZwI?si=dbtN2Z3yNqWdSHfv">Youtube</a>, April 2024.
 - Newcastle Journal club, Newcastle University (remote, <a href="https://www.canva.com/design/DAGCWt0tU8s/Bbk8orzLjOpBLSqg93_Wbw/edit?utm_content=DAGCWt0tU8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), April 2024.
