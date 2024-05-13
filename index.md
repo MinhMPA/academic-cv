@@ -137,7 +137,7 @@ English (Fluent), Vietnamese (Native)
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">PASCOS 2024, Parallel Session</a> (originally invited for a Plenary but rescheduled and dedicated the Plenary for DESI-Y1 results), Quy Nhon, Vietnam, July 2024.
 - Cosmology from Home, online conference, June 2024.
 - DESI Research Forum (remote, slides), June 2024.
-- **Aspen workshop, "Fundamental Physics in the Era of Big Data and Machine Learning"**, May-June 2024.
+- **Aspen workshop, <a href=https://aspenphys.org/summer-workshops/#event2401">"Fundamental Physics in the Era of Big Data and Machine Learning"</a>**, May-June 2024.
 - KIPAC Cosmology Seminar, Stanford (remote, slides), May 2024.
 - **Cosmology Talks** (with Beyond-2point Collaboration), <a href="">Youtube</a>, May 2024.
 - <a href="https://www.youtube.com/live/6JN-cKVTZYQ?si=lRd9aP5d1qej7Ym-">Fundamental Physics from Future Spectroscopic Surveys</a>, Lawrence Berkeley National Laboratory (<a href="https://indico.physics.lbl.gov/event/2769/contributions/8883/">slides</a>), May 2024.
@@ -154,7 +154,7 @@ English (Fluent), Vietnamese (Native)
 - <a href="https://www2.yukawa.kyoto-u.ac.jp/~cmb-lss/index.php#:~:text=Objective%20of%20this%20workshop&text=This%20workshop%20will%20bring%20together,fields%20and%20foster%20future%20collaborations.">Future Science with CMB x LSS workshop</a>, YITP (<a href="https://www2.yukawa.kyoto-u.ac.jp/~cmb-lss/webinars/20230411.mp4">session recording</a>, <a href="https://www.dropbox.com/s/p326yrdkqz3d8c7/MinhNguyen_Future_Science_with_CMBxLSS_YITP_Kyoto.pdf?dl=0">slides</a>), Kyoto, April 2023.
 - **Cosmology Talks**, <a href="https://youtu.be/Tov5KahGEVQ">Youtube</a>, Mar 2023.
 - <a href="https://azcosmolab.org/events_weekly.html#header5-9q">TACOS Seminar</a>, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
-- **Aspen workshop, "Large-Scale Structure Cosmology beyond 2-Point Statistics"**, May-June 2022. (Blackboard talk)
+- **Aspen workshop, <a href="https://aspenphys.org/summer/past-workshops/">"Large-Scale Structure Cosmology beyond 2-Point Statistics"</a>**, May-June 2022. (Blackboard talk)
 - Astro Lunch Seminar, Kavli IPMU, May 2022.
 - KIPAC Cosmology Seminar, Stanford, May 2022.
 - <a href="https://cosmology.lbl.gov/bcg_seminars_21_22.html">Berkeley Cosmology Group Seminar</a>, BCCP, Berkeley, April 2022.
