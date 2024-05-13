@@ -264,8 +264,8 @@ Active referee for Astronomy & Astrophysics (A&A, EDP Sciences), Journal of Cosm
 **Prof. Elisa G. M. Ferreira, Kavli IPMU, University of Tokyo** (previous colleague)
 <a href="elisa.ferreira@ipmu.jp">Email</a>
 
-**Prof. Eiichiro Komatsu, Max Planck Institute for Astrophysics** (MPA director, formal PhD advisor)
-<a href="komatsu@MPA-Garching.MPG.DE">Email</a>
+<!--**Prof. Eiichiro Komatsu, Max Planck Institute for Astrophysics** (MPA director, formal PhD advisor)-->
+<!--<a href="komatsu@MPA-Garching.MPG.DE">Email</a>-->
 
 <!--## Diversity Statement-->
 
