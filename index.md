@@ -135,21 +135,21 @@ English (Fluent), Vietnamese (Native)
 
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">**PASCOS 2024, Plenary Session**</a>, Quy Nhon, Vietnam, July 2024.
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">PASCOS 2024, Parallel Session</a> (originally invited for a Plenary but rescheduled and dedicated the Plenary for DESI-Y1 results), Quy Nhon, Vietnam, July 2024.
-- Cosmology from Home, online conference, June 2024.
+- Cosmology from Home, online conference, Youtube, June 2024.
 - DESI Research Forum (remote, slides), June 2024.
 - **Aspen workshop, <a href="https://aspenphys.org/summer-workshops/#event2401">"Fundamental Physics in the Era of Big Data and Machine Learning"</a>**, May-June 2024.
 - KIPAC Cosmology Seminar, Stanford (<a href="https://kipac.stanford.edu/events/how-much-information-can-be-extracted-galaxy-clustering-field-level">remote</a>, slides), May 2024.
 - **Cosmology Talks** (with Beyond-2point Collaboration), <a href="">Youtube</a>, May 2024.
-- <a href="https://www.youtube.com/live/6JN-cKVTZYQ?si=lRd9aP5d1qej7Ym-">Fundamental Physics from Future Spectroscopic Surveys</a>, Lawrence Berkeley National Laboratory (<a href="https://www.youtube.com/live/6JN-cKVTZYQ?si=cDW-cfNHTLMG05GK&t=3823">recording</a>, <a href="https://indico.physics.lbl.gov/event/2769/contributions/8883/">slides</a>), May 2024.
+- <a href="https://www.youtube.com/live/6JN-cKVTZYQ?si=lRd9aP5d1qej7Ym-">Fundamental Physics from Future Spectroscopic Surveys</a>, LBNL, Berkeley (<a href="https://www.youtube.com/live/6JN-cKVTZYQ?si=cDW-cfNHTLMG05GK&t=3823">recording</a>, <a href="https://indico.physics.lbl.gov/event/2769/contributions/8883/">slides</a>), May 2024.
 - Columbia Cosmology Group Meeting, Columbia University (<a href="https://www.canva.com/design/DAGD59CJNqc/CBuCaGDNBz4HBErZkgHcWg/edit?utm_content=DAGD59CJNqc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), New York, April 2024.
 - CCA Cosmology Meeting, Flatiron Institute, New York (<a href="https://www.canva.com/design/DAGDbx7ZhYQ/sC5HFpriRcspMCXpHHzcRg/edit?utm_content=DAGDbx7ZhYQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), April 2024.
 - **Cosmology Talks** (ft. <a href="https://wwwmpa.mpa-garching.mpg.de/~tucci/">Beatriz Tucci</a>), <a href="https://youtu.be/Pxfsf89jZwI?si=dbtN2Z3yNqWdSHfv">Youtube</a>, April 2024.
-- Newcastle Journal club, Newcastle University (remote, <a href="https://www.canva.com/design/DAGCWt0tU8s/Bbk8orzLjOpBLSqg93_Wbw/edit?utm_content=DAGCWt0tU8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), April 2024.
-- <a href="https://pirsa.org/S004?__hstc=261081490.d6b29b8af5d0a7be4e8614089397a893.1710113073610.1710113073610.1713237916725.2&__hssc=261081490.1.1713237916725&__hsfp=3891864333">Perimeter Cosmology Seminar</a>, Perimeter Institute (remote, <a href="https://pirsa.org/24040073">recording</a>), April 2024.
+- Newcastle Cosmology Journal club, Newcastle University, Newcastle (remote, <a href="https://www.canva.com/design/DAGCWt0tU8s/Bbk8orzLjOpBLSqg93_Wbw/edit?utm_content=DAGCWt0tU8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), April 2024.
+- <a href="https://pirsa.org/S004?__hstc=261081490.d6b29b8af5d0a7be4e8614089397a893.1710113073610.1710113073610.1713237916725.2&__hssc=261081490.1.1713237916725&__hsfp=3891864333">Perimeter Cosmology Seminar</a>, Perimeter Institute, Waterloo (remote, <a href="https://pirsa.org/24040073">recording</a>), April 2024.
 - Midwest Cosmology Network Meeting, US Midwest (remote), April 2024.
 - Cosmolunch, CCAPP, University of Ohio (<a href="https://gitlab.mpcdf.mpg.de/leftfield/plotting-library/-/blob/9e22b0b3987ff170c926b078401d5e5905c063e7/presentations/OSU_CosmoLunch-Seminar-2024Mar20.pdf">slides</a>), March 2024.
 - <a href="https://lsa.umich.edu/physics/news-events/all-events.detail.html/117263-21839054.html">HEP-Astro Seminar</a>, University of Michigan, Michigan, January 2024.
-- Cosmology from Home, online conference (<a href="https://youtu.be/4r_NAUTn7HI">Youtube recording</a>), July 2023.
+- Cosmology from Home, online conference, YouTube (<a href="https://youtu.be/4r_NAUTn7HI">recording</a>), July 2023.
 - <a href="https://www2.yukawa.kyoto-u.ac.jp/~cmb-lss/index.php#:~:text=Objective%20of%20this%20workshop&text=This%20workshop%20will%20bring%20together,fields%20and%20foster%20future%20collaborations.">Future Science with CMB x LSS workshop</a>, YITP (<a href="https://www2.yukawa.kyoto-u.ac.jp/~cmb-lss/webinars/20230411.mp4">session recording</a>, <a href="https://www.dropbox.com/s/p326yrdkqz3d8c7/MinhNguyen_Future_Science_with_CMBxLSS_YITP_Kyoto.pdf?dl=0">slides</a>), Kyoto, April 2023.
 - **Cosmology Talks**, <a href="https://youtu.be/Tov5KahGEVQ">Youtube</a>, Mar 2023.
 - <a href="https://azcosmolab.org/events_weekly.html#header5-9q">TACOS Seminar</a>, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
