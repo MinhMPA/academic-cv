@@ -29,7 +29,7 @@ Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clu
 
 ### Experience
 
-**Python [Numpy, Scipy, TensorFlow, JAX, PyTorch, Dask], C++, Fortran, ROOT [pyROOT], OpenMP Parallel, MPI Distributed & Differentiable Programming [Python,C++,Fortran]**
+**Python [Numpy, Scipy, TensorFlow, JAX, PyTorch, Dask, sbi, optuna, wandb], C++, ROOT [pyROOT], OpenMP Parallel, MPI Distributed & Differentiable Programming (in Python, C++)**
 
 ## Affiliation
 
