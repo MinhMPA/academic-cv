@@ -68,25 +68,28 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 11 publications, excluding big-collaboration papers (citations: 201; h-index: 8) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>;  
-14 publications, including big-collaboration papers (citations: 325; h-index: 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a>.
+I have authored 11 publications, excluding big-collaboration papers (citations: 204; h-index: 8) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>;  
+14 publications, including big-collaboration papers (citations: 330; h-index: 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a> <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a>.
 
-### First, co-first, or second author (with equal or significant contributions)
+### First, co-first$^1$, or significant contributions
 
-<!--`2023`-->
-<!--**Late-universe Suppressed Growth of Structure and Early-universe Massive Galaxies**. *Nguyen$^1$* and Huterer. In prep. To be submitted to ApJL.-->
+<!--`2024`-->
+<!--**Late-universe Suppressed Growth of Structure and Early-universe Massive Galaxies**. **Nguyen** and Huterer. In prep. To be submitted to ApJL.-->
 
 `2024`
-**How much information can be extracted from galaxy clustering at the field level?**. **Nguyen$^1$**, Schmidt, Tucci, Reinecke, Kosti&#263;. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. Submitted to PRL. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a>
+**A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. To be submitted to The Astrophysical Journal Supplement Series.
+
+`2024`
+**How much information can be extracted from galaxy clustering at the field level?**. **Nguyen**, Schmidt, Tucci, Reinecke, Kosti&#263;. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. Submitted to PRL. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a>
 
 `2023`
 **Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, **Nguyen$^1$**, Huterer. <a href="https://doi.org/10.1088/1475-7516/2023/09/028">JCAP09(2023)028</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...09..028W/abstract">[NASA/ADS]</a>
 
 `2023`
-**Evidence for suppression of structure growth in the concordance cosmological model**. **Nguyen$^1$**, Huterer, Wen.<a href="https://doi.org/10.1103/PhysRevLett.131.111001">Phys. Rev. Lett. 131, 111001</a>. <a href="https://drive.google.com/file/d/1IRPuo9XLeOXeCcimqh63ZLEVlmJye4iP/view?usp=sharing">**Editor's Suggestion**</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023PhRvL.131k1001N/abstract">[NASA/ADS]</a>
+**Evidence for suppression of structure growth in the concordance cosmological model**. **Nguyen**, Huterer, Wen.<a href="https://doi.org/10.1103/PhysRevLett.131.111001">Phys. Rev. Lett. 131, 111001</a>. <a href="https://drive.google.com/file/d/1IRPuo9XLeOXeCcimqh63ZLEVlmJye4iP/view?usp=sharing">**Editor's Suggestion**</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023PhRvL.131k1001N/abstract">[NASA/ADS]</a> <a href="https://www.scientificamerican.com/article/a-possible-crisis-in-the-cosmos-could-lead-to-a-new-understanding-of-the-universe/">[SciAm]</a>
 
 `2022`
-**Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;$^1$, **Nguyen$^1$**, Schmidt, Reinecke. <a href="
+**Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;, **Nguyen**, Schmidt, Reinecke. <a href="
 https://doi.org/10.1088/1475-7516/2023/07/063">JCAP07(2023)063</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...07..063K/abstract">[NASA/ADS]</a>
 
 `2021`
@@ -102,9 +105,6 @@ https://doi.org/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>. <a href="htt
 https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="https://ui.adsabs.harvard.edu/abs/2020JCAP...12..011N/abstract">[NASA/ADS]</a>
 
 ### Co-author
-
-`2024`
-**A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. To be submitted to The Astrophysical Journal Supplement Series.
 
 `2024`
 **DESI 2024 VI:  Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations**.
@@ -131,14 +131,14 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2404.03000">arXiv preprint</a
 
 English (Fluent), Vietnamese (Native)
 
-## Recent Talks & Visits
+## Upcoming and Recent Talks
 
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">**PASCOS 2024, Plenary Session**</a>, Quy Nhon, Vietnam, July 2024.
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">PASCOS 2024, Parallel Session</a> (originally invited for a Plenary but rescheduled and dedicated the Plenary for DESI-Y1 results), Quy Nhon, Vietnam, July 2024.
 - Cosmology from Home, online conference, June 2024.
 - DESI Research Forum (remote, slides), June 2024.
 - **Aspen workshop, <a href="https://aspenphys.org/summer-workshops/#event2401">"Fundamental Physics in the Era of Big Data and Machine Learning"</a>**, May-June 2024.
-- KIPAC Cosmology Seminar, Stanford (remote, slides), May 2024.
+- KIPAC Cosmology Seminar, Stanford (<a href="https://kipac.stanford.edu/events/how-much-information-can-be-extracted-galaxy-clustering-field-level">remote</a>, slides), May 2024.
 - **Cosmology Talks** (with Beyond-2point Collaboration), <a href="">Youtube</a>, May 2024.
 - <a href="https://www.youtube.com/live/6JN-cKVTZYQ?si=lRd9aP5d1qej7Ym-">Fundamental Physics from Future Spectroscopic Surveys</a>, Lawrence Berkeley National Laboratory (<a href="https://www.youtube.com/live/6JN-cKVTZYQ?si=cDW-cfNHTLMG05GK&t=3823">recording</a>, <a href="https://indico.physics.lbl.gov/event/2769/contributions/8883/">slides</a>), May 2024.
 - Columbia Cosmology Group Meeting, Columbia University (<a href="https://www.canva.com/design/DAGD59CJNqc/CBuCaGDNBz4HBErZkgHcWg/edit?utm_content=DAGD59CJNqc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), New York, April 2024.
@@ -149,8 +149,7 @@ English (Fluent), Vietnamese (Native)
 - Midwest Cosmology Network Meeting, US Midwest (remote), April 2024.
 - Cosmolunch, CCAPP, University of Ohio (<a href="https://gitlab.mpcdf.mpg.de/leftfield/plotting-library/-/blob/9e22b0b3987ff170c926b078401d5e5905c063e7/presentations/OSU_CosmoLunch-Seminar-2024Mar20.pdf">slides</a>), March 2024.
 - <a href="https://lsa.umich.edu/physics/news-events/all-events.detail.html/117263-21839054.html">HEP-Astro Seminar</a>, University of Michigan, Michigan, January 2024.
-- Cosmology from Home, online conference and <a href="https://youtu.be/4r_NAUTn7HI">Youtube</a>, July 2023.
-- CD3 Opening Symposium, Kavli IPMU, Kashiwa-no-ha, April 2023.
+- Cosmology from Home, online conference (<a href="https://youtu.be/4r_NAUTn7HI">Youtube recording</a>), July 2023.
 - <a href="https://www2.yukawa.kyoto-u.ac.jp/~cmb-lss/index.php#:~:text=Objective%20of%20this%20workshop&text=This%20workshop%20will%20bring%20together,fields%20and%20foster%20future%20collaborations.">Future Science with CMB x LSS workshop</a>, YITP (<a href="https://www2.yukawa.kyoto-u.ac.jp/~cmb-lss/webinars/20230411.mp4">session recording</a>, <a href="https://www.dropbox.com/s/p326yrdkqz3d8c7/MinhNguyen_Future_Science_with_CMBxLSS_YITP_Kyoto.pdf?dl=0">slides</a>), Kyoto, April 2023.
 - **Cosmology Talks**, <a href="https://youtu.be/Tov5KahGEVQ">Youtube</a>, Mar 2023.
 - <a href="https://azcosmolab.org/events_weekly.html#header5-9q">TACOS Seminar</a>, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
@@ -180,10 +179,10 @@ English (Fluent), Vietnamese (Native)
 ### Advising on a research project
 
 - <a href="https://tsaprazi.eu/">**Eleni Tsaprazi**</a> (Postdoc, Imperial College London).
-- <a href="https://www.linkedin.com/in/andrew-hope-6a752527b/">**Andrew Hope**</a> (UROP student, University of Michigan). Otho Lyle Tiffany & Mary Lois Tiffany Fellow 2024.
-- **Kyle Lee** (UROP student, University of Michigan).
+- <a href="https://www.linkedin.com/in/andrew-hope-6a752527b/">**Andrew Hope**</a> (UROP <a href="https://courses.lsa.umich.edu/urop-symposium/symposium-presentati/astrophysics-and-cosmology-from-the-cross-correlation-between-cosmic-infrared-background-and-cosmic-microwave-background-2/">project</a>, University of Michigan). <a href="https://lsa.umich.edu/physics/undergraduate-students/scholarships-and-awards.html">Otho Lyle Tiffany & Mary Lois Tiffany</a> Fellow 2024.
+- **Kyle Lee** (UROP <a href="https://courses.lsa.umich.edu/urop-symposium/symposium-presentati/reconstruction-of-the-dark-universe-from-galaxy-surveys-2/">project</a>, University of Michigan).
 - <a href="https://www.linkedin.com/in/disha-saxena-a95a09264/">**Disha Saxena**</a> (UROP student, University of Michigan).
-- **Kasey Thai** (UROP student, University of Michigan).
+- **Kasey Thai** (UROP <a href="https://courses.lsa.umich.edu/urop-symposium/symposium-presentati/dark-matter-or-dust-assessing-potential-dust-contamination-in-reconstructed-map-of-dark-matter-2/">project</a>, University of Michigan).
 
 ### Teaching
 
