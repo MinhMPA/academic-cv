@@ -133,7 +133,7 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2404.03000">arXiv preprint</a
 
 English (Fluent), Vietnamese (Native)
 
-## Upcoming and Selected Talks
+## Upcoming and Recent Talks
 
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">**PASCOS 2024, Plenary Session**</a>, Quy Nhon, Vietnam, July 2024.
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">PASCOS 2024, Parallel Session</a> (originally invited for a Plenary but rescheduled and dedicated the Plenary for DESI-Y1 results), Quy Nhon, Vietnam, July 2024.
@@ -160,7 +160,7 @@ English (Fluent), Vietnamese (Native)
 - KIPAC Cosmology Seminar, Stanford, May 2022.
 - <a href="https://cosmology.lbl.gov/bcg_seminars_21_22.html">Berkeley Cosmology Group Seminar</a>, BCCP, Berkeley, April 2022.
 - NYU-CCA Cosmology x Data Science Meeting, New York University-Flatiron Institute (remote), March 2021.
-- OPINAS Group Meeting, Max-Planck-Institut f&#252;r extraterrestrische Physik (remote), March 2021.
+- <a href="https://www.mpe.mpg.de/opinas-en">OPINAS</a> Group Meeting, Max-Planck-Institut f&#252;r extraterrestrische Physik (remote), March 2021.
 - Cosmology & Gravitation Group Meeting, Oskar Klein Centre (remote), February 2021.
 - "The Origin and Evolution of Large-Scale Structure" Science Afternoon, Excellence Cluster ORIGINS (remote), February 2021.
 - CosmoLunch meeting, Institute of Advanced Study, Princeton (remote), January 2021.
@@ -168,7 +168,6 @@ English (Fluent), Vietnamese (Native)
 - Cosmology Seminar, Max-Planck-Institut f&#252;r Astrophysik (remote), December 2020..
 - Astroparticle Physics Seminar, SISSA (remote), December 2020.
 - Cosmology Group Meeting, Perimeter Institute (remote), December 2020.
-- Cosmology Seminar, University of Manchester (remote), December 2020.
 
 ## Mentoring, Advising and Teaching
 
