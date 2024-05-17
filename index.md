@@ -90,11 +90,11 @@ I have authored 11 publications, excluding big-collaboration papers (citations: 
 
 `2022`
 **Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;, **Nguyen**, Schmidt, Reinecke. <a href="
-https://doi.org/10.1088/1475-7516/2023/07/063">JCAP07(2023)063</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...07..063K/abstract">[NASA/ADS]</a>
+https://doi.org/10.1088/1475-7516/2023/07/063">JCAP07(2023)063</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...07..063K/abstract">[NASA/ADS]</a> <a href="https://www.mpa-garching.mpg.de/1095991/hl202405">[MPA Research Highlights]</a>
 
 `2021`
 **Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey**. Tsaprazi$^1$, **Nguyen$^1$**, et al. <a href="
-https://doi.org/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>. <a href="https://ui.adsabs.harvard.edu/abs/2022JCAP...08..003T/abstract">[NASA/ADS]</a>
+https://doi.org/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>. <a href="https://ui.adsabs.harvard.edu/abs/2022JCAP...08..003T/abstract">[NASA/ADS]</a> <a href="https://www.mpa-garching.mpg.de/1052846/hl202204?c=1096613">[MPA Research Highlights]</a>
 
 `2021`
 **Impacts of the physical data model on the forward inference of initial conditions from biased tracers**. **Nguyen** et al. <a href="
@@ -102,7 +102,9 @@ https://doi.org/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>. <a href="htt
 
 `2020`
 **Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling**. **Nguyen** et al. <a href="
-https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="https://ui.adsabs.harvard.edu/abs/2020JCAP...12..011N/abstract">[NASA/ADS]</a>
+https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="https://ui.adsabs.harvard.edu/abs/2020JCAP...12..011N/abstract">[NASA/ADS]</a> <a href="https://www.mpa-garching.mpg.de/926077/hl202103?c=1056316">[MPA Research Highlights]</a>
+
+`2020`
 
 ### Co-author
 
