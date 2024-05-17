@@ -133,7 +133,7 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2404.03000">arXiv preprint</a
 
 English (Fluent), Vietnamese (Native)
 
-## Upcoming and Recent Talks
+## Upcoming and Selected Talks
 
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">**PASCOS 2024, Plenary Session**</a>, Quy Nhon, Vietnam, July 2024.
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">PASCOS 2024, Parallel Session</a> (originally invited for a Plenary but rescheduled and dedicated the Plenary for DESI-Y1 results), Quy Nhon, Vietnam, July 2024.
