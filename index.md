@@ -77,7 +77,7 @@ I have authored 11 publications, excluding big-collaboration papers (citations: 
 <!--**Late-universe Suppressed Growth of Structure and Early-universe Massive Galaxies**. **Nguyen** and Huterer. In prep. To be submitted to ApJL.-->
 
 `2024`
-**A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. To be submitted to The Astrophysical Journal Supplement Series.
+**A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. Submitted to The Astrophysical Journal Supplement Series. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240502252B/abstract">[NASA/ADS]</a>
 
 `2024`
 **How much information can be extracted from galaxy clustering at the field level?**. **Nguyen**, Schmidt, Tucci, Reinecke, Kosti&#263;. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. Submitted to PRL. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a>
