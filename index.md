@@ -136,7 +136,7 @@ English (Fluent), Vietnamese (Native)
 ## Upcoming and Recent Talks
 
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">**PASCOS 2024, Plenary Session**</a>, Quy Nhon, Vietnam, July 2024.
-- <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">PASCOS 2024, Parallel Session</a> (originally invited for a Plenary but rescheduled and dedicated the Plenary for DESI-Y1 results), Quy Nhon, Vietnam, July 2024.
+- <a href="http://vietnam.in2p3.fr/2024/PASCOS/overview.php">PASCOS 2024, Parallel Session</a>, originally invited for a Plenary, rescheduled to dedicate the Plenary for DESI-Y1 results.
 - Cosmology from Home, online conference, Youtube, June 2024.
 - DESI Research Forum (remote, slides), June 2024.
 - **Aspen workshop, <a href="https://aspenphys.org/summer-workshops/#event2401">"Fundamental Physics in the Era of Big Data and Machine Learning"</a>**, May-June 2024. (Blackboard talk).
