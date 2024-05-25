@@ -140,7 +140,7 @@ English (Fluent), Vietnamese (Native)
 - Cosmology from Home, online conference, Youtube, June 2024.
 - DESI Research Forum (remote, slides), June 2024.
 - **Aspen workshop, <a href="https://aspenphys.org/summer-workshops/#event2401">"Fundamental Physics in the Era of Big Data and Machine Learning"</a>**, May-June 2024. (Blackboard talk).
-- KIPAC Cosmology Seminar, Stanford (<a href="https://kipac.stanford.edu/events/how-much-information-can-be-extracted-galaxy-clustering-field-level">remote</a>, <a href="/Users/nguyenmn/Library/Mobile\ Documents/com\~apple\~Keynote/Documents/KIPAC_CosmoSeminar_May20.pdf ">slides</a>), May 2024.
+- KIPAC Cosmology Seminar, Stanford (<a href="https://kipac.stanford.edu/events/how-much-information-can-be-extracted-galaxy-clustering-field-level">remote</a>, <a href="https://gitlab.mpcdf.mpg.de/leftfield/plotting-library/-/blob/bc904e8b9636c4ca95ee1ec66fecdf7de53b80c0/presentations/KIPAC_CosmoSeminar_May20.pdf">slides</a>), May 2024.
 - **Cosmology Talks** (with Beyond-2point Collaboration), <a href="">Youtube</a>, May 2024.
 - <a href="https://www.youtube.com/live/6JN-cKVTZYQ?si=lRd9aP5d1qej7Ym-">Fundamental Physics from Future Spectroscopic Surveys</a>, LBNL, Berkeley (<a href="https://www.youtube.com/live/6JN-cKVTZYQ?si=cDW-cfNHTLMG05GK&t=3823">recording</a>, <a href="https://indico.physics.lbl.gov/event/2769/contributions/8883/">slides</a>), May 2024.
 - Columbia Cosmology Group Meeting, Columbia University (<a href="https://www.canva.com/design/DAGD59CJNqc/CBuCaGDNBz4HBErZkgHcWg/edit?utm_content=DAGD59CJNqc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">slides</a>), New York, April 2024.
