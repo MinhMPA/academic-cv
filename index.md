@@ -3,7 +3,7 @@ layout: cv
 title: Nhat-Minh Nguyen - Academic Resume
 ---
 # Nhat-Minh Nguyen, PhD
-Cosmologist, Leinweber Research Fellow
+Cosmologist, Leinweber Postdoctoral Fellow
 
 <div id="webaddress">
 <a href="https://minhmpa.github.io/">Webpage</a>
