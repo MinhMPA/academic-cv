@@ -138,7 +138,7 @@ English (Fluent), Vietnamese (Native)
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/program.php#Thursday">**PASCOS 2024, Plenary Session**</a>, Quy Nhon, Vietnam, July 2024.
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/prg2024_schedule_Parallel_2.php#W1P5">PASCOS 2024, Parallel Session</a>, originally invited for a Plenary, rescheduled to dedicate the Plenary for DESI-Y1 results.
 - Cosmology from Home, online conference, Youtube, June 2024.
-- DESI Research Forum (remote, slides), June 2024.
+- DESI Research Forum (remote, <a href="https://github.com/MinhMPA/academic-cv/blob/master/slides/MinhNguyen_DESI_research_forum_June11.pdf">slides</a>), June 2024.
 - **Aspen workshop, <a href="https://aspenphys.org/summer-workshops/#event2401">"Fundamental Physics in the Era of Big Data and Machine Learning"</a>**, May-June 2024. (Blackboard talk).
 - KIPAC Cosmology Seminar, Stanford (<a href="https://kipac.stanford.edu/events/how-much-information-can-be-extracted-galaxy-clustering-field-level">remote</a>, <a href="https://github.com/MinhMPA/academic-cv/blob/master/slides/KIPAC_CosmoSeminar_May20.pdf">slides</a>), May 2024.
 - **Cosmology Talks** (with Beyond-2point Collaboration), <a href="">Youtube</a>, May 2024.
