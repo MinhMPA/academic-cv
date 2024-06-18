@@ -157,18 +157,18 @@ English (Fluent), Vietnamese (Native)
 - **Cosmology Talks**, <a href="https://youtu.be/Tov5KahGEVQ">Youtube</a>, Mar 2023.
 - <a href="https://azcosmolab.org/events_weekly.html#header5-9q">TACOS Seminar</a>, Arizona Cosmology Lab, University of Arizona, February 2023. (During the "Beyond 2-point data challenge" workshop.)
 - **Aspen workshop, <a href="https://aspenphys.org/summer/past-workshops/">"Large-Scale Structure Cosmology beyond 2-Point Statistics"</a>**, May-June 2022. (Blackboard talk, <a href="https://minhmpa.github.io/images/Aspen_beyond_2pt_workshop.jpg">picture</a>)
-- Astro Lunch Seminar, Kavli IPMU, May 2022.
-- KIPAC Cosmology Seminar, Stanford, May 2022.
-- <a href="https://cosmology.lbl.gov/bcg_seminars_21_22.html">Berkeley Cosmology Group Seminar</a>, BCCP, Berkeley, April 2022.
-- NYU-CCA Cosmology x Data Science Meeting, New York University-Flatiron Institute (remote), March 2021.
-- <a href="https://www.mpe.mpg.de/opinas-en">OPINAS</a> Group Meeting, Max-Planck-Institut f&#252;r extraterrestrische Physik (remote), March 2021.
-- Cosmology & Gravitation Group Meeting, Oskar Klein Centre (remote), February 2021.
-- "The Origin and Evolution of Large-Scale Structure" Science Afternoon, Excellence Cluster ORIGINS (remote), February 2021.
-- CosmoLunch meeting, Institute of Advanced Study, Princeton (remote), January 2021.
-- Universe Journal Club, Institut d'astrophysique de Paris (remote), December 2020.
-- Cosmology Seminar, Max-Planck-Institut f&#252;r Astrophysik (remote), December 2020..
-- Astroparticle Physics Seminar, SISSA (remote), December 2020.
-- Cosmology Group Meeting, Perimeter Institute (remote), December 2020.
+<!--- Astro Lunch Seminar, Kavli IPMU, May 2022.-->
+<!--- KIPAC Cosmology Seminar, Stanford, May 2022.-->
+<!--- <a href="https://cosmology.lbl.gov/bcg_seminars_21_22.html">Berkeley Cosmology Group Seminar</a>, BCCP, Berkeley, April 2022.-->
+<!--- NYU-CCA Cosmology x Data Science Meeting, New York University-Flatiron Institute (remote), March 2021.-->
+<!--- <a href="https://www.mpe.mpg.de/opinas-en">OPINAS</a> Group Meeting, Max-Planck-Institut f&#252;r extraterrestrische Physik (remote), March 2021.-->
+<!--- Cosmology & Gravitation Group Meeting, Oskar Klein Centre (remote), February 2021.-->
+<!--- "The Origin and Evolution of Large-Scale Structure" Science Afternoon, Excellence Cluster ORIGINS (remote), February 2021.-->
+<!--- CosmoLunch meeting, Institute of Advanced Study, Princeton (remote), January 2021.-->
+<!--- Universe Journal Club, Institut d'astrophysique de Paris (remote), December 2020.-->
+<!--- Cosmology Seminar, Max-Planck-Institut f&#252;r Astrophysik (remote), December 2020..-->
+<!--- Astroparticle Physics Seminar, SISSA (remote), December 2020.-->
+<!--- Cosmology Group Meeting, Perimeter Institute (remote), December 2020.-->
 
 ## Mentoring, Advising and Teaching
 
