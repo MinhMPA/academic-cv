@@ -135,6 +135,7 @@ English (Fluent), Vietnamese (Native)
 
 ## Upcoming and Recent Talks
 
+- <a href="https://sites.google.com/view/cosmo2024/home">COSMO'24</a>, Large-scale Structure Session Convener, Kyoto, Japan, October 2024.
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/program.php#Thursday">**PASCOS 2024, Plenary Session**</a>, Quy Nhon, Vietnam, July 2024.
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/prg2024_schedule_Parallel_2.php#W1P5">PASCOS 2024, Parallel Session</a>, originally invited for a Plenary, rescheduled to dedicate the Plenary for DESI-Y1 results.
 - Cosmology from Home, online conference, Youtube, June 2024.
