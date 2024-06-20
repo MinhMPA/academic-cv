@@ -191,9 +191,6 @@ English (Fluent), Vietnamese (Native)
 `Summer 2024`
 <a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, course lecturer, <a href="https://sites.lsa.umich.edu/mmss/courses-2024/">"Climbing the Distance Ladder to the Big Bang: How astronomers survey the Universe."</a>
 
-<!--`Summer 2023`-->
-<!--<a href="https://ifirse.icise.vn/2022/12/03/2023-sagi-observational-astronomy-school/">**2023 SAGI Observational Astronomy School**</a>, invited lecturer, not able to attend due to US visa renew process (to re-enter the US afterwards).-->
-
 `Summer 2023`
 <a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, guest lecturer.
 
@@ -208,9 +205,12 @@ English (Fluent), Vietnamese (Native)
 `2023`
 <a href="https://tiasang.com.vn/khoa-hoc-cong-nghe/tim-nhung-tin-hieu-moi-tu-vu-tru/">**Đi tìm những tín hiệu mới từ vũ trụ**</a>, Tia Sang Magazine.
 
-## Activities
+## Organizing and Reviewing
 
-### Professional Community Service
+### Community-wide Service 
+
+`2024`
+- <a href="https://sites.google.com/view/cosmo2024/home">COSMO'24</a>, Large-scale Structure Session Convener, Kyoto, Japan, October 2024.
 
 `2023`
 <a href="https://johannesulf.github.io/cosmology-school-2023/">**Michigan Cosmology Summer School 2023**</a>, Local Organizing Committee member.
@@ -218,7 +218,7 @@ English (Fluent), Vietnamese (Native)
 `2021-now`
 Active referee for Astronomy & Astrophysics (A&A, EDP Sciences), Journal of Cosmology and Astroparticle Physics (JCAP, IOP) & Physical Review D (PRD, APS).
 
-### Professional Institute and Group Service
+### Institute and Group Service
 
 `2021-2022`
  <a href="https://vllt-joint-Seminar-series.github.io/2022/">**VLLT Joint Astronomy & Physics Seminar Series**</a> (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam), founder and co-organizer.
@@ -232,7 +232,7 @@ Active referee for Astronomy & Astrophysics (A&A, EDP Sciences), Journal of Cosm
 `2018-2020`
 <a href="https://wwwmpa.mpa-garching.mpg.de/CosmoClub/">**Large-scale Structure Journal Club**</a> (joint between Max Planck Institute for Astrophysics and Max Planck Institute for Extraterrestrial Physics), co-organizer.
 
-### Social & Outreach
+### Social and Outreach
 
 `Summer 2023`
 **Ask-Me-Anything** (Reddit), <a href="https://www.reddit.com/r/askscience/comments/14zdckv/askscience_ama_series_we_are_cosmologists_experts/">r/askscience</a> and <a href="https://www.youtube.com/live/Wqod1s8LvNY">Youtube</a>, Cosmology from Home 2023, panelist.
@@ -259,14 +259,14 @@ Active referee for Astronomy & Astrophysics (A&A, EDP Sciences), Journal of Cosm
 **Prof. Elisabeth Krause, University of Arizona** (external collaborator)
 <a href="krausee@arizona.edu">Email</a>
 
-**Prof. Jens Jasche, University of Stockholm** (external collaborator)
-<a href="jens.jasche@fysik.su.se">Email</a>
+<!--**Prof. Jens Jasche, University of Stockholm** (external collaborator)-->
+<!--<a href="jens.jasche@fysik.su.se">Email</a>-->
 
 **Prof. Elisa G. M. Ferreira, Kavli IPMU, University of Tokyo** (previous colleague)
 <a href="elisa.ferreira@ipmu.jp">Email</a>
 
-<!--**Prof. Eiichiro Komatsu, Max Planck Institute for Astrophysics** (MPA director, formal PhD advisor)-->
-<!--<a href="komatsu@MPA-Garching.MPG.DE">Email</a>-->
+**Prof. Eiichiro Komatsu, Max Planck Institute for Astrophysics** (MPA director, formal PhD advisor)
+<a href="komatsu@MPA-Garching.MPG.DE">Email</a>
 
 <!--## Diversity Statement-->
 
