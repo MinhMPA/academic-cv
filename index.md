@@ -189,7 +189,7 @@ English (Fluent), Vietnamese (Native)
 ### Teaching
 
 `Summer 2024`
-<a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, course lecturer, <a href="https://sites.lsa.umich.edu/mmss/courses-2024/">"Climbing the Distance Ladder to the Big Bang: How astronomers survey the Universe."</a>
+<a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, course instructor, <a href="https://sites.lsa.umich.edu/mmss/courses-2024/">"Climbing the Distance Ladder to the Big Bang: How astronomers survey the Universe."</a>
 
 `Summer 2023`
 <a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, guest lecturer.
