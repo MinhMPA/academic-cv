@@ -136,8 +136,8 @@ English (Fluent), Vietnamese (Native)
 ## Upcoming and Recent Talks
 
 - <a href="https://sites.google.com/view/cosmo2024/home">**COSMO'24</a>, Kyoto, Japan, October 2024.
-- <a href="http://vietnam.in2p3.fr/2024/PASCOS/program.php#Thursday">**PASCOS 2024, Plenary Session**</a>, Quy Nhon, Vietnam, July 2024.
-- <a href="http://vietnam.in2p3.fr/2024/PASCOS/prg2024_schedule_Parallel_2.php#W1P5">PASCOS 2024, Parallel Session</a>, originally invited for a Plenary, rescheduled to dedicate the Plenary for DESI-Y1 results.
+- <a href="http://vietnam.in2p3.fr/2024/PASCOS/program.php#Thursday">**PASCOS 2024, Plenary Session**</a>, ICISE Quy Nhon, Vietnam (<a href="http://vietnam.in2p3.fr/2024/PASCOS/transparencies/4_thursday/1_morning/01_MinhNguyen.pdf">slides</a>), July 2024.
+- <a href="http://vietnam.in2p3.fr/2024/PASCOS/prg2024_schedule_Parallel_2.php#W1P5">PASCOS 2024, Parallel Session</a> (<a href="http://vietnam.in2p3.fr/2024/PASCOS/transparencies/3_wednesday/W1P5/01_Nguyen.pdf">slides</a>), originally invited for a Plenary, rescheduled to dedicate the Plenary for DESI-Y1 results.
 - Cosmology from Home, online conference, Youtube, June 2024.
 - <a href="https://desi.lbl.gov/DocDB/cgi-bin/private/RetrieveFile?docid=8326">DESI Research Forum</a> (remote, <a href="https://desi.lbl.gov/DocDB/cgi-bin/private/RetrieveFile?docid=8326;filename=video1630249220.mp4">recording</a>, <a href="https://github.com/MinhMPA/academic-cv/blob/master/slides/MinhNguyen_DESI_research_forum_June11.pdf">slides</a>), June 2024.
 - **Aspen workshop, <a href="https://aspenphys.org/summer-workshops/#event2401">"Fundamental Physics in the Era of Big Data and Machine Learning"</a>**, May-June 2024. (Blackboard talk).
