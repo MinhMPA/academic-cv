@@ -77,10 +77,10 @@ I have authored 11 publications, excluding big-collaboration papers (citations: 
 <!--**Late-universe Suppressed Growth of Structure and Early-universe Massive Galaxies**. **Nguyen** and Huterer. In prep. To be submitted to ApJL.-->
 
 `2024`
-**A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. Submitted to The Astrophysical Journal Supplement Series. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240502252B/abstract">[NASA/ADS]</a>
+**A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. Under review at The Astrophysical Journal Supplement Series. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240502252B/abstract">[NASA/ADS]</a>
 
 `2024`
-**How much information can be extracted from galaxy clustering at the field level?**. **Nguyen**, Schmidt, Tucci, Reinecke, Kosti&#263;. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. Submitted to PRL. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a>
+**How much information can be extracted from galaxy clustering at the field level?**. **Nguyen**, Schmidt, Tucci, Reinecke, Kosti&#263;. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. Under review at Phys. Rev. Lett. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a>
 
 `2023`
 **Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, **Nguyen$^1$**, Huterer. <a href="https://doi.org/10.1088/1475-7516/2023/09/028">JCAP09(2023)028</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...09..028W/abstract">[NASA/ADS]</a>
