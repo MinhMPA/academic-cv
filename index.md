@@ -68,8 +68,8 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 11 publications, excluding big-collaboration papers (citations: 242; h-index: 9) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>;  
-14 publications, including big-collaboration papers (citations: 676; h-index: 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a> <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a>.
+I have authored 11 publications, excluding big-collaboration papers (citations: 243; h-index: 9) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>;  
+14 publications, including big-collaboration papers (citations: 687; h-index: 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a> <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a>.
 
 ### First, co-first$^1$, or significant contributions
 
@@ -135,7 +135,7 @@ English (Fluent), Vietnamese (Native)
 
 ## Upcoming and Recent Talks
 
-- <a href="https://sites.google.com/view/cosmo2024/home">**COSMO'24</a>, Kyoto, Japan, October 2024.
+<!--- <a href="https://sites.google.com/view/cosmo2024/home">COSMO'24</a>, Kyoto, Japan, October 2024.-->
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/program.php#Thursday">**PASCOS 2024, Plenary Session**</a>, ICISE Quy Nhon, Vietnam (<a href="http://vietnam.in2p3.fr/2024/PASCOS/transparencies/4_thursday/1_morning/01_MinhNguyen.pdf">slides</a>), July 2024.
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/prg2024_schedule_Parallel_2.php#W1P5">PASCOS 2024, Parallel Session</a> (<a href="http://vietnam.in2p3.fr/2024/PASCOS/transparencies/3_wednesday/W1P5/01_Nguyen.pdf">slides</a>), originally invited for a Plenary, rescheduled to dedicate the Plenary for DESI-Y1 results.
 - Cosmology from Home, online conference, Youtube, June 2024.
