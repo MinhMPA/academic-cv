@@ -68,8 +68,8 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 11 publications, excluding big-collaboration papers (citations: 251; h-index: 9) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>;  
-14 publications, including big-collaboration papers (citations: 731; h-index: 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a> <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a>.
+I have authored 11 publications, excluding big-collaboration papers (citations: 261; h-index: 10) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>;  
+14 publications, including big-collaboration papers (citations: 756; h-index: 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a> <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a>.
 
 ### First, co-first$^1$, or significant contributions
 
@@ -80,7 +80,7 @@ I have authored 11 publications, excluding big-collaboration papers (citations: 
 **A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. Accepted for publication in The Astrophysical Journal Supplement Series. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240502252B/abstract">[NASA/ADS]</a>
 
 `2024`
-**How much information can be extracted from galaxy clustering at the field level?**. **Nguyen**, Schmidt, Tucci, Reinecke, Kosti&#263;. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. Accepted for publication in Phys. Rev. Lett. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a>
+**How much information can be extracted from galaxy clustering at the field level?**. **Nguyen**, Schmidt, Tucci, Reinecke, Kosti&#263;. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. <a href="https://journals.aps.org/prl/accepted/6c07eYe8Ed91e78d54448792756f666f9a2c45641">Accepted for publication in Phys. Rev. Lett.</a> <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a>
 
 `2023`
 **Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, **Nguyen$^1$**, Huterer. <a href="https://doi.org/10.1088/1475-7516/2023/09/028">JCAP09(2023)028</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...09..028W/abstract">[NASA/ADS]</a>
