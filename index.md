@@ -3,7 +3,7 @@ layout: cv
 title: Nhat-Minh Nguyen - Academic Resume
 ---
 # Nhat-Minh Nguyen, PhD
-Cosmologist, Leinweber Postdoctoral Fellow
+Cosmologist, Kavli IPMU Project Researcher
 
 <div id="webaddress">
 <a href="https://minhmpa.github.io/">Webpage</a>
@@ -33,7 +33,11 @@ Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clu
 
 ## Affiliation
 
-`Jan 2022 - now` 
+`Oct 2024 - now`
+__Project Researcher__   
+<a href="https://www.ipmu.jp/">Kavli Institute for Physics and Mathematics of the Universe</a>, University of Tokyo
+
+`Jan 2022 - July 2024` 
 __Postdoctoral Research Fellow, Leinweber Prize Fellowship__   
 <a href="https://lsa.umich.edu/lctp">Leinweber Center for Theoretical Physics</a>, <a href="https://lsa.umich.edu/physics">Physics Department</a>, University of Michigan
 
