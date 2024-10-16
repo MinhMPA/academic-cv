@@ -72,8 +72,8 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 11 publications, excluding big-collaboration papers (citations: 268; h-index: 10) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>;  
-14 publications, including big-collaboration papers (citations: 829; h-index: 12) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a> <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a>.
+I have authored 11 publications, excluding big-collaboration papers (citations: 270; h-index: 10) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>;  
+14 publications, including big-collaboration papers (citations: 837; h-index: 12) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a> <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a>.
 
 ### First, co-first$^1$, or significant contributions
 
@@ -220,7 +220,7 @@ English (Fluent), Vietnamese (Native)
 <a href="https://johannesulf.github.io/cosmology-school-2023/">**Michigan Cosmology Summer School 2023**</a>, Local Organizing Committee member.
 
 `2021-now`
-Active referee for Astronomy & Astrophysics (A&A, EDP Sciences), Journal of Cosmology and Astroparticle Physics (JCAP, IOP) & Physical Review D (PRD, APS).
+Active referee for Astronomy & Astrophysics (1), Journal of Cosmology and Astroparticle Physics (3) & Physical Review D (4).
 
 ### Institute and Group Service
 
