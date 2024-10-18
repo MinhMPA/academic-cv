@@ -7,10 +7,10 @@ Cosmologist, Kavli IPMU Fellow
 
 <div id="webaddress">
 <a href="https://minhmpa.github.io/">Webpage</a>
-<a href="https://orcid.org/0000-0002-2542-7233">ORCID</a>
-<a href="https://github.com/MinhMPA">GitHub</a>
 <a href="https://linkedin.com/in/minhmpa">LinkedIn</a>
 <a href="https://twitter.com/MinhNguyenAstro">Twitter</a>
+<a href="https://orcid.org/0000-0002-2542-7233">ORCID</a>
+<a href="https://github.com/MinhMPA">GitHub</a>
 </div>
 
 ## Research Interest
@@ -214,13 +214,13 @@ English (Fluent), Vietnamese (Native)
 ### Community-wide Service 
 
 `2024`
-- <a href="https://sites.google.com/view/cosmo2024/home">COSMO'24</a>, Large-scale Structure Session Convener, Kyoto, Japan, October 2024.
+- <a href="https://sites.google.com/view/cosmo2024/home">**COSMO'24**</a>, Large-scale Structure Session Convener, Kyoto, Japan, October 2024.
 
 `2023`
 <a href="https://johannesulf.github.io/cosmology-school-2023/">**Michigan Cosmology Summer School 2023**</a>, Local Organizing Committee member.
 
 `2021-now`
-Active referee for Astronomy & Astrophysics (1), Journal of Cosmology and Astroparticle Physics (3) & Physical Review D (4).
+Active referee for **Physical Review D** (4), **Journal of Cosmology and Astroparticle Physics** (3), and **Astronomy & Astrophysics** (1),
 
 ### Institute and Group Service
 
