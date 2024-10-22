@@ -67,7 +67,7 @@ __Physics and Theoretical Physics (with Honors and Scholarships)__
 Ho Chi Minh University of Science
 
 ## Collaboration
-<a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>, <a href="https://lsstdesc.org/">Rubin Observatory Legacy Survey of Space and Time - Dark Energy Science Collaboration (LSST-DESC)</a>, <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/cosmology-x-data-science/simulation-based-inference-of-galaxies-simbig/">SimBIG</a>, <a href="https://aquila-consortium.org/">Aquila Consortium</a>
+<a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>, <a href="https://lsstdesc.org/">Rubin Observatory Legacy Survey of Space and Time - Dark Energy Science Collaboration (LSST-DESC)</a>, <a href="https://pfs.ipmu.jp/">Prime Focus Spectrograph (PFS)</a>, <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/cosmology-x-data-science/simulation-based-inference-of-galaxies-simbig/">SimBIG</a>, <a href="https://aquila-consortium.org/">Aquila Consortium</a>
 
 ## Publications
 
