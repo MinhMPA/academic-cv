@@ -42,7 +42,7 @@ __Leinweber Fellow__
 <a href="https://lsa.umich.edu/lctp">Leinweber Center for Theoretical Physics</a>, <a href="https://lsa.umich.edu/physics">Physics Department</a>, University of Michigan
 
 `Jul 2020 - Dec 2021` 
-__Postdoctoral Research Associate__  
+__Research Associate__  
 <a href="https://www.mpa-garching.mpg.de/cosmology">Physical Cosmology Group</a>, Max Planck Institute for Astrophysics
 
 `Oct 2016 - Jun 2020`
