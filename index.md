@@ -67,13 +67,13 @@ __Physics and Theoretical Physics (with Honors and Scholarships)__
 Ho Chi Minh University of Science
 
 ## Collaboration
-<a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>, <a href="https://lsstdesc.org/">Rubin Observatory Legacy Survey of Space and Time - Dark Energy Science Collaboration (LSST-DESC)</a>, <a href="https://pfs.ipmu.jp/">Prime Focus Spectrograph (PFS)</a>, <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/cosmology-x-data-science/simulation-based-inference-of-galaxies-simbig/">SimBIG</a>, <a href="https://aquila-consortium.org/">Aquila Consortium</a>
+<a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>, <a href="https://pfs.ipmu.jp/">Prime Focus Spectrograph (PFS)</a>, <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/cosmology-x-data-science/simulation-based-inference-of-galaxies-simbig/">SimBIG</a>
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 11 publications, excluding big-collaboration papers (citations: 291; h-index: 10) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>;  
-14 publications, including big-collaboration papers (citations: 883; h-index: 13) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a> <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a>.
+I have authored 11 publications, excluding big-collaboration papers (citations: 292; h-index: 10) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA/ADS]</a>;  
+14 publications, including big-collaboration papers (citations: 887; h-index: 13) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA/ADS]</a> <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a>.
 
 ### First, co-first$^1$, or significant contributions
 
