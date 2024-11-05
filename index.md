@@ -139,7 +139,7 @@ English (Fluent), Vietnamese (Native)
 
 ## Upcoming and Recent Talks
 
-- <a href="https://sites.google.com/kyoto-u.ac.jp/yitp-t-24-05/home">**YITP International molecule-type Workshop, "Theory and Data Analysis Challenges for Cosmological Large-Scale Structure Observations"**</a>, YITP, Kyoto, Japan, November 2024.
+- <a href="https://sites.google.com/kyoto-u.ac.jp/yitp-t-24-05/home">**"Theory and Data Analysis Challenges for Cosmological Large-Scale Structure Observations"**</a>, YITP, Kyoto, Japan, November 2024.
 - <a href="https://sites.google.com/view/cosmo2024/home">COSMO'24</a>, Kyoto, Japan, October 2024.
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/program.php#Thursday">**PASCOS 2024, Plenary Session**</a>, ICISE Quy Nhon, Vietnam (<a href="http://vietnam.in2p3.fr/2024/PASCOS/transparencies/4_thursday/1_morning/01_MinhNguyen.pdf">slides</a>), July 2024.
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/prg2024_schedule_Parallel_2.php#W1P5">PASCOS 2024, Parallel Session</a> (<a href="http://vietnam.in2p3.fr/2024/PASCOS/transparencies/3_wednesday/W1P5/01_Nguyen.pdf">slides</a>), originally invited for a Plenary, rescheduled to dedicate the Plenary for DESI-Y1 results.
