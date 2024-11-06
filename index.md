@@ -143,7 +143,7 @@ English (Fluent), Vietnamese (Native)
 - <a href="https://sites.google.com/view/cosmo2024/home">COSMO'24</a>, Kyoto, Japan (<a href="https://drive.google.com/file/d/17QUHC3cLeqHTzpn-1e_7Vjzu_KPanQZD/view?usp=sharing">slides</a>), October 2024.
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/program.php#Thursday">**PASCOS 2024, Plenary Session**</a>, ICISE Quy Nhon, Vietnam (<a href="http://vietnam.in2p3.fr/2024/PASCOS/transparencies/4_thursday/1_morning/01_MinhNguyen.pdf">slides</a>), July 2024.
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/prg2024_schedule_Parallel_2.php#W1P5">PASCOS 2024, Parallel Session</a> (<a href="http://vietnam.in2p3.fr/2024/PASCOS/transparencies/3_wednesday/W1P5/01_Nguyen.pdf">slides</a>).
-- Cosmology from Home, online conference, Youtube, June 2024.
+- Cosmology from Home, online conference, <a href="https://youtu.be/HujQAwjZ2Xc">Youtube</a>, June 2024.
 - <a href="https://desi.lbl.gov/DocDB/cgi-bin/private/RetrieveFile?docid=8326">DESI Research Forum</a> (remote, <a href="https://desi.lbl.gov/DocDB/cgi-bin/private/RetrieveFile?docid=8326;filename=video1630249220.mp4">recording</a>, <a href="https://github.com/MinhMPA/academic-cv/blob/master/slides/MinhNguyen_DESI_research_forum_June11.pdf">slides</a>), June 2024.
 - **Aspen workshop, <a href="https://aspenphys.org/summer-workshops/#event2401">"Fundamental Physics in the Era of Big Data and Machine Learning"</a>**, May-June 2024. (Blackboard talk).
 - KIPAC Cosmology Seminar, Stanford (<a href="https://kipac.stanford.edu/events/how-much-information-can-be-extracted-galaxy-clustering-field-level">remote</a>, <a href="https://github.com/MinhMPA/academic-cv/blob/master/slides/KIPAC_CosmoSeminar_May20.pdf">slides</a>), May 2024.
