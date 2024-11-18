@@ -260,13 +260,13 @@ Active referee for **Physical Review D** (4), **Journal of Cosmology and Astropa
 **Prof. Dragan Huterer, University of Michigan** (postdoc advisor)
 <a href="mailto:huterer@umich.edu">Email</a>
 
-**Prof. Elisabeth Krause, University of Arizona** (external collaborator)
+**Prof. Elisabeth Krause, University of Arizona** (external collaborator, mentor)
 <a href="krausee@arizona.edu">Email</a>
 
 <!--**Prof. Jens Jasche, University of Stockholm** (external collaborator)-->
 <!--<a href="jens.jasche@fysik.su.se">Email</a>-->
 
-**Prof. Elisa G. M. Ferreira, Kavli IPMU, University of Tokyo** (previous colleague)
+**Prof. Elisa G. M. Ferreira, Kavli IPMU, University of Tokyo** (colleague, mentor)
 <a href="elisa.ferreira@ipmu.jp">Email</a>
 
 **Prof. Eiichiro Komatsu, Max Planck Institute for Astrophysics** (MPA director, formal PhD advisor)
