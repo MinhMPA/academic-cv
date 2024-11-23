@@ -226,10 +226,10 @@ English (Fluent), Vietnamese (Native)
 ### Community-wide Service 
 
 `2024`
-- <a href="https://indico.kmi.nagoya-u.ac.jp/event/9/page/12-workshop-goals">**Future of Artificial Intelligence for Science in Japan (FAIRS Japan 2024)**</a>, Cosmology/Astrophysics Open Discussion Facilitator, Nagoya, Japan, Dec 2024.
+- <a href="https://indico.kmi.nagoya-u.ac.jp/event/9/page/12-workshop-goals">**Future of Artificial Intelligence for Science in Japan (FAIRS Japan 2024)**</a>, Cosmology/Astrophysics Open Discussion Facilitator.
 
 `2024`
-- <a href="https://sites.google.com/view/cosmo2024/home">**COSMO'24**</a>, Large-scale Structure Session Convener, Kyoto, Japan, October 2024.
+- <a href="https://sites.google.com/view/cosmo2024/home">**COSMO'24**</a>, Large-scale Structure Session Convener.
 
 `2023`
 <a href="https://johannesulf.github.io/cosmology-school-2023/">**Michigan Cosmology Summer School 2023**</a>, Local Organizing Committee member.
