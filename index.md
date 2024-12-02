@@ -72,7 +72,7 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 17 publications (citations: 1035; h-index: 13) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a> <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a>;
+I have authored 17 publications (citations: 1047; h-index: 13) <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a> <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a>;
 11 publications, excl. (big-)collaboration papers (citations: 312; h-index: 10) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
 
 ### First, co-first$^1$, or significant contributions
@@ -83,7 +83,7 @@ I have authored 17 publications (citations: 1035; h-index: 13) <a href="https://
 **A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. Accepted for publication in The Astrophysical Journal Supplement Series. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240502252B/abstract">[NASA/ADS]</a>
 
 `2024`
-**How much information can be extracted from galaxy clustering at the field level?**. **Nguyen**, Schmidt, Tucci, Reinecke, Kosti&#263;. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.221006">Phys. Rev. Lett.</a> <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a>
+**How much information can be extracted from galaxy clustering at the field level?**. **Nguyen**, Schmidt, Tucci, Reinecke, Kosti&#263;. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.221006">Phys. Rev. Lett.</a> <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a> <a href="https://www.mpa-garching.mpg.de/1106522/hl202412">[MPA Research Highlights</a>
 
 `2023`
 **Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, **Nguyen$^1$**, Huterer. <a href="https://doi.org/10.1088/1475-7516/2023/09/028">JCAP09(2023)028</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...09..028W/abstract">[NASA/ADS]</a>
@@ -97,15 +97,15 @@ https://doi.org/10.1088/1475-7516/2023/07/063">JCAP07(2023)063</a>. <a href="htt
 
 `2021`
 **Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey**. Tsaprazi$^1$, **Nguyen$^1$**, et al. <a href="
-https://doi.org/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>. <a href="https://ui.adsabs.harvard.edu/abs/2022JCAP...08..003T/abstract">[NASA/ADS]</a> <a href="https://www.mpa-garching.mpg.de/1052846/hl202204?c=1096613">[MPA Research Highlights]</a>
+https://doi.org/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>. <a href="https://ui.adsabs.harvard.edu/abs/2022JCAP...08..003T/abstract">[NASA/ADS]</a> <a href="https://www.mpa-garching.mpg.de/1052846/hl202204">[MPA Research Highlights]</a>
 
 `2021`
 **Impacts of the physical data model on the forward inference of initial conditions from biased tracers**. **Nguyen** et al. <a href="
-https://doi.org/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>. <a href="https://ui.adsabs.harvard.edu/abs/2021JCAP...03..058N/abstract">[NASA/ADS]</a> <a href="https://www.mpa-garching.mpg.de/926077/hl202103?c=1056316">[MPA Research Highlights]</a>
+https://doi.org/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>. <a href="https://ui.adsabs.harvard.edu/abs/2021JCAP...03..058N/abstract">[NASA/ADS]</a> <a href="https://www.mpa-garching.mpg.de/926077/hl202103">[MPA Research Highlights]</a>
 
 `2020`
 **Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling**. **Nguyen** et al. <a href="
-https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="https://ui.adsabs.harvard.edu/abs/2020JCAP...12..011N/abstract">[NASA/ADS]</a> <a href="https://www.mpa-garching.mpg.de/926077/hl202103?c=1056316">[MPA Research Highlights]</a>
+https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="https://ui.adsabs.harvard.edu/abs/2020JCAP...12..011N/abstract">[NASA/ADS]</a> <a href="https://www.mpa-garching.mpg.de/926077/hl202103">[MPA Research Highlights]</a>
 
 `2020`
 
