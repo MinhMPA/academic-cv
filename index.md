@@ -226,7 +226,7 @@ English (Fluent), Vietnamese (Native)
 ### Community-wide Service 
 
 `2024`
-- <a href="https://indico.kmi.nagoya-u.ac.jp/event/9/page/12-workshop-goals">**Future of Artificial Intelligence for Science in Japan (FAIRS Japan 2024)**</a>, Cosmology/Astrophysics Open Discussion Facilitator.
+- <a href="https://indico.kmi.nagoya-u.ac.jp/event/9/page/12-workshop-goals">**Future of Artificial Intelligence for Science in Japan (FAIRS Japan 2024)**</a>, Cosmology/Astrophysics Unconference Facilitator.
 
 `2024`
 - <a href="https://sites.google.com/view/cosmo2024/home">**COSMO'24**</a>, Large-scale Structure Session Convener.
