@@ -66,8 +66,9 @@ University of Innsbruck
 __Physics and Theoretical Physics (with Honors and Scholarships)__  
 Ho Chi Minh University of Science
 
-## Collaboration
-<a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>, <a href="https://pfs.ipmu.jp/">Prime Focus Spectrograph (PFS)</a>, <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/cosmology-x-data-science/simulation-based-inference-of-galaxies-simbig/">SimBIG</a>
+## Awards
+`2024`
+**<a href="http://www.buchaltercosmologyprize.org/">Buchalter Cosmology Prize (Third Prize)</a>**
 
 ## Publications
 
@@ -144,9 +145,10 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 `2018`
 **A rigorous EFT-based forward model for large-scale structure**. Schmidt et al. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2019/01/042">JCAP01(2019)042</a>. <a href="https://ui.adsabs.harvard.edu/abs/2019JCAP...01..042S/abstract">[NASA/ADS]</a>
 
-## Languages
+## Collaboration
 
-English (Fluent), Vietnamese (Native)
+<a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>, <a href="https://pfs.ipmu.jp/">Prime Focus Spectrograph (PFS)</a>, <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/cosmology-x-data-science/simulation-based-inference-of-galaxies-simbig/">SimBIG</a>
+
 
 ## Upcoming and Recent Talks
 
