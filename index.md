@@ -227,6 +227,9 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 
 ### Community-wide Service 
 
+`2025`
+- **Beyond-2-Point Statistics meet Survey Systematics**, Organizing Committee Chair.
+
 `2024`
 - <a href="https://indico.kmi.nagoya-u.ac.jp/event/9/page/12-workshop-goals">**Future of Artificial Intelligence for Science in Japan (FAIRS Japan 2024)**</a>, Cosmology/Astrophysics Unconference Facilitator.
 
