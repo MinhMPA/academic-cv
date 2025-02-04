@@ -73,7 +73,7 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 17 publications (citations: 1355; h-index: 15) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
+I have authored 17 publications (citations: 1369; h-index: 15) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
 or 11 publications, excl. big-collaboration papers (citations: 335; h-index: 10) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
 
 ### First, co-first$^1$, or significant contributions
@@ -84,13 +84,13 @@ or 11 publications, excl. big-collaboration papers (citations: 335; h-index: 10)
 **A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. Accepted for publication in The Astrophysical Journal Supplement Series. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240502252B/abstract">[NASA/ADS]</a>
 
 `2024`
-**How much information can be extracted from galaxy clustering at the field level?**. **Nguyen**, Schmidt, Tucci, Reinecke, Kosti&#263;. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.221006">Phys. Rev. Lett.</a> <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a> <a href="https://www.mpa-garching.mpg.de/1106522/hl202412">[MPA Research Highlights]</a>
+**How much information can be extracted from galaxy clustering at the field level?**. **Nguyen**, Schmidt, Tucci, Reinecke, Kosti&#263;. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.221006">Phys. Rev. Lett. 133, 221006</a> <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a> <a href="https://aas.org/press/aas-names-recipients-2025-awards-prizes">[AAS 2025 Awards and Prizes Press Release]</a> <a href="https://www.space.com/the-universe/galaxies/scientists-find-hints-of-the-dark-universe-in-3d-maps-of-the-cosmos">[Space.com]</a> <a href="https://lsa.umich.edu/physics/news-events/all-news/search-news/getting-the-most-out-of-cosmic-maps---u-m-research-findings-feat.html">[UM News]</a> <a href="https://www.mpa-garching.mpg.de/1106522/hl202412">[MPA Research Highlights]</a>
 
 `2023`
 **Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories**. Wen$^1$, **Nguyen$^1$**, Huterer. <a href="https://doi.org/10.1088/1475-7516/2023/09/028">JCAP09(2023)028</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...09..028W/abstract">[NASA/ADS]</a>
 
 `2023`
-**Evidence for suppression of structure growth in the concordance cosmological model**. **Nguyen**, Huterer, Wen. <a href="https://arxiv.org/abs/2302.0133">arXiv preprint</a>. <a href="https://doi.org/10.1103/PhysRevLett.131.111001">Phys. Rev. Lett. 131, 111001</a>. <a href="https://drive.google.com/file/d/1IRPuo9XLeOXeCcimqh63ZLEVlmJye4iP/view?usp=sharing">**Editor's Suggestion**</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023PhRvL.131k1001N/abstract">[NASA/ADS]</a> <a href="https://www.scientificamerican.com/article/a-possible-crisis-in-the-cosmos-could-lead-to-a-new-understanding-of-the-universe/">[SciAm]</a> <a href="https://www.newscientist.com/article/2391414-the-universes-evolution-seems-to-be-slowing-and-we-dont-know-why/">[NewScientist]</a> <a href="https://www.vice.com/en/article/4a3q5j/something-mysterious-appears-to-be-suppressing-the-universes-growth-scientists-say">[VICE]</a> <a href="https://news.umich.edu/the-universe-caught-suppressing-cosmic-structure-growth/">[UM press]</a>
+**Evidence for suppression of structure growth in the concordance cosmological model**. **Nguyen**, Huterer, Wen. <a href="https://arxiv.org/abs/2302.0133">arXiv preprint</a>. <a href="https://doi.org/10.1103/PhysRevLett.131.111001">Phys. Rev. Lett. 131, 111001</a>. <a href="https://drive.google.com/file/d/1IRPuo9XLeOXeCcimqh63ZLEVlmJye4iP/view?usp=sharing">**Editor's Suggestion**</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023PhRvL.131k1001N/abstract">[NASA/ADS]</a> <a href="https://www.scientificamerican.com/article/a-possible-crisis-in-the-cosmos-could-lead-to-a-new-understanding-of-the-universe/">[SciAm]</a> <a href="https://www.newscientist.com/article/2391414-the-universes-evolution-seems-to-be-slowing-and-we-dont-know-why/">[NewScientist]</a> <a href="https://www.vice.com/en/article/4a3q5j/something-mysterious-appears-to-be-suppressing-the-universes-growth-scientists-say">[VICE]</a> <a href="https://news.umich.edu/the-universe-caught-suppressing-cosmic-structure-growth/">[UM News]</a>
 
 `2022`
 **Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;, **Nguyen**, Schmidt, Reinecke. <a href="
@@ -126,7 +126,7 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12021">arXiv preprint</a
 
 `2024`
 **DESI 2024 IV: Baryon Acoustic Oscillations from the Lyman Alpha Forest**.
-DESI Collaboration. <a href="https://arxiv.org/abs/2404.03001">arXiv preprint</a>. Accepted for publication in JCAP. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D/abstract">[NASA/ADS]</a>
+DESI Collaboration. <a href="https://arxiv.org/abs/2404.03001">arXiv preprint</a>. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/01/124">JCAP01(2025)124</a>. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240403001D/abstract">[NASA/ADS]</a>
 
 `2024`
 **DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars**.
