@@ -74,7 +74,7 @@ Ho Chi Minh University of Science
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 I have authored 17 publications (citations: 1393; h-index: 15) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
-or 11 publications, excl. big-collaboration papers (citations: 335; h-index: 10) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
+or 11 publications, excl. big-collaboration papers (citations: 338; h-index: 10) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
 
 ### First, co-first$^1$, or significant contributions
 
@@ -152,6 +152,7 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 
 ## Upcoming and Recent Talks
 
+- <a href="https://www.asiaa.sinica.edu.tw/activity/colloquium.php">ASIAA Colloquium</a>, ASIAA/NTU, Taipei, Taiwan, February 2025.
 - <a href="https://sites.google.com/kyoto-u.ac.jp/yitp-t-24-05/home">**"Theory and Data Analysis Challenges for Cosmological Large-Scale Structure Observations"**</a>, YITP, Kyoto, Japan (<a href="https://drive.google.com/file/d/1jv74155GLxoVUjkwyAIAaAZPKakZBIzs/view?usp=sharing">slides</a>), November 2024.
 - <a href="https://sites.google.com/view/cosmo2024/home">COSMO'24</a>, Kyoto, Japan (<a href="https://drive.google.com/file/d/17QUHC3cLeqHTzpn-1e_7Vjzu_KPanQZD/view?usp=sharing">slides</a>), October 2024.
 - <a href="http://vietnam.in2p3.fr/2024/PASCOS/program.php#Thursday">**PASCOS 2024, Plenary Session**</a>, ICISE Quy Nhon, Vietnam (<a href="http://vietnam.in2p3.fr/2024/PASCOS/transparencies/4_thursday/1_morning/01_MinhNguyen.pdf">slides</a>), July 2024.
