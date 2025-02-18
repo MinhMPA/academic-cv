@@ -118,7 +118,7 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12022">arXiv preprint</a
 
 `2024`
 **DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations**.
-DESI Collaboration. <a href="https://arxiv.org/abs/2404.03002">arXiv preprint</a>. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/02/021">JCAP02(2025)021</a>. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D/abstract">[NASA/ADS]</a>
+DESI Collaboration. <a href="https://arxiv.org/abs/2404.03002">arXiv preprint</a>. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/02/021">JCAP02(2025)021</a>. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D/abstract">[NASA/ADS]</a> <a href="https://www.scientificamerican.com/article/dark-energy-measurements-suggest-the-universe-might-be-way-weirder-than-we/">[SciAm]</a> <a href="https://www.quantamagazine.org/dark-energy-may-be-weakening-major-astrophysics-study-finds-20240404/">[QuantaMagazine]</a>
 
 `2024`
 **DESI 2024 V: Full-Shape Galaxy Clustering from Galaxies and Quasars**.
