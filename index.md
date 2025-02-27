@@ -29,8 +29,6 @@ Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clu
 
 ### Experience
 
-**Python [Numpy, Scipy, TensorFlow, JAX, PyTorch, Dask, sbi, optuna, wandb], C++, ROOT [pyROOT], OpenMP Parallel, MPI Distributed & Differentiable Programming (in Python, C++)**
-
 ## Affiliation
 
 `Oct 2024 - now`
@@ -73,8 +71,8 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 17 publications (citations: 1467; h-index: 15) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
-or 11 publications, excl. big-collaboration papers (citations: 348; h-index: 10) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
+I have authored 17 publications (citations: 1487; h-index: 15) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
+or 11 publications, excl. big-collaboration papers (citations: 351; h-index: 10) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
 
 ### First, co-first$^1$, or significant contributions
 
@@ -229,7 +227,7 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 ### Community-wide Service 
 
 `2025`
-- **Beyond-2-Point Statistics meet Survey Systematics**, Organizing Committee Chair.
+- <a href="https://indico.ipmu.jp/event/460/">**Beyond-2-Point Statistics Meet Survey Systematics**</a>, Organizing Committee Chair.
 
 `2024`
 - <a href="https://indico.kmi.nagoya-u.ac.jp/event/9/page/12-workshop-goals">**Future of Artificial Intelligence for Science in Japan (FAIRS Japan 2024)**</a>, Cosmology/Astrophysics Unconference Facilitator.
