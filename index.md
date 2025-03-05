@@ -71,12 +71,10 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 17 publications (citations: 1498; h-index: 15) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
-or 11 publications, excl. big-collaboration papers (citations: 352; h-index: 10) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
+I have authored 18 publications (citations: 1518; h-index: 15) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
+or 12 publications, excl. big-collaboration papers (citations: 354; h-index: 10) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
 
 ### First, co-first$^1$, or significant contributions
-
-<!--`2024`-->
 
 `2024`
 **A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. Accepted for publication in The Astrophysical Journal Supplement Series. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240502252B/abstract">[NASA/ADS]</a>
@@ -105,10 +103,13 @@ https://doi.org/10.1088/1475-7516/2021/03/058">JCAP03(2021)058</a>. <a href="htt
 `2020`
 **Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling**. **Nguyen** et al. <a href="
 https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="https://ui.adsabs.harvard.edu/abs/2020JCAP...12..011N/abstract">[NASA/ADS]</a> <a href="https://www.mpa-garching.mpg.de/926077/hl202103">[MPA Research Highlights]</a>
-
 `2020`
 
 ### Co-author
+
+`2025`
+**Late-time growth weakly affects the significance of high-redshift massive galaxies**.
+Xia, Huterer, **Nguyen**. <a href="https://arxiv.org/abs/2503.00155">arXiv preprint</a>. <a href="">[NASA/ADS]</a>
 
 `2024`
 **DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements**.
