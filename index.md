@@ -71,8 +71,8 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 18 publications (citations: 1525; h-index: 15) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
-or 12 publications, excl. big-collaboration papers (citations: 354; h-index: 10) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
+I have authored 18 publications (citations 1570; h-index 15; g-index 17) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
+or 12 publications, excl. big-collaboration papers (citations 354; h-index 10; g-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
 
 ### First, co-first$^1$, or significant contributions
 
@@ -109,7 +109,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="htt
 
 `2025`
 **Late-time growth weakly affects the significance of high-redshift massive galaxies**.
-Xia, Huterer, **Nguyen**. <a href="https://arxiv.org/abs/2503.00155">arXiv preprint</a>. <a href="">[NASA/ADS]</a>
+Xia, Huterer, **Nguyen**. <a href="https://arxiv.org/abs/2503.00155">arXiv preprint</a>. <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250300155X/abstract">[NASA/ADS]</a>
 
 `2024`
 **DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements**.
