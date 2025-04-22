@@ -109,7 +109,7 @@ https://doi.org/10.1088/1475-7516/2020/12/011">JCAP12(2020)011</a>. <a href="htt
 
 `2025`
 **Late-time growth weakly affects the significance of high-redshift massive galaxies**.
-Xia, Huterer, **Nguyen**. <a href="https://arxiv.org/abs/2503.00155">arXiv preprint</a>. <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250300155X/abstract">[NASA/ADS]</a>
+Xia, Huterer, **Nguyen**. <a href="https://arxiv.org/abs/2503.00155">arXiv preprint</a>. Submitted to The Open Journal of Astrophysics. <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250300155X/abstract">[NASA/ADS]</a>
 
 `2024`
 **DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements**.
