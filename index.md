@@ -15,7 +15,7 @@ Cosmologist, Kavli IPMU Fellow
 
 ## Research Interest
 
-Growth of Large-scale Structure in the Universe.
+Growth of Large-scale Structure in the Universe, New Physics from Growth of Structure, New Methods to Maximize Information from Galaxy Surveys 
 
 ## Scientific Expertise
 
@@ -55,7 +55,7 @@ __<a href="https://www.imprs-astro.mpg.de/">International Max Planck Research Sc
 <a href="https://www.physik.lmu.de/en/research/astronomy-and-astrophysics-cosmology/index.html">Ludwig Maximilians University of Munich</a>  
 
 `2014 - 2016, MSc`
-__<a href="https://www.uibk.ac.at/astromundus/">Erasmus Joint Master Degree in Astronomy & Astrophysics (with full-ride Scholarships)</a>__  
+__<a href="https://www.uibk.ac.at/astromundus/">Erasmus Joint Master Degree in Astronomy & Astrophysics (with full-tution+stipend Scholarships)</a>__  
 University of G&ouml;ttingen  
 University of Rome, Tor Vergata  
 University of Innsbruck
@@ -66,7 +66,7 @@ Ho Chi Minh University of Science
 
 ## Awards
 `2024`
-**<a href="http://www.buchaltercosmologyprize.org/">Buchalter Cosmology Prize (Third Prize)</a>**
+**<a href="http://www.buchaltercosmologyprize.org/">Buchalter Cosmology Prize</a>**, presented by <a href="https://aas.org/press/aas-names-recipients-2025-awards-prizes">American Astronomical Society</a>.
 
 ## Publications
 
