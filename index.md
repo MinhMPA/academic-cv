@@ -228,7 +228,8 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 ### Community-wide Service 
 
 `2025`
-- <a href="http://vietnam.in2p3.fr/2025/Cosmology/overview.php">**Cosmology**</a>, Scientific Organizing Committee member.
+- <a href="http://vietnam.in2p3.fr/2025/Cosmology/overview.php">**Cosmology**</a>, Scientific Program Committee member.
+
 `2025`
 - <a href="https://indico.ipmu.jp/event/460/">**Beyond-2-Point Statistics Meet Survey Systematics**</a>, Organizing Committee Chair.
 
