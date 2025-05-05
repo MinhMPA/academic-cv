@@ -71,7 +71,7 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 18 publications (citations 1970; h-index 16) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
+I have authored 18 publications (citations 1980; h-index 16) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
 or 12 publications, excl. big-collaboration papers (citations 386; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
 
 ### First, co-first$^1$, or significant contributions
@@ -146,7 +146,7 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 
 ## Collaboration
 
-<a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>, <a href="https://pfs.ipmu.jp/">Prime Focus Spectrograph (PFS)</a>, <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/cosmology-x-data-science/simulation-based-inference-of-galaxies-simbig/">SimBIG</a>
+<a href="https://pfs.ipmu.jp/">Prime Focus Spectrograph (PFS)</a>, <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/cosmology-x-data-science/simulation-based-inference-of-galaxies-simbig/">SimBIG</a>
 
 
 ## Upcoming and Recent Talks
