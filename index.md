@@ -64,7 +64,9 @@ University of Innsbruck
 __Physics and Theoretical Physics (with Honors and Scholarships)__  
 Ho Chi Minh University of Science
 
-## Awards
+## Grants, Awards
+`2025`
+Japan Foundation for Promotion of Astronomy, Research Support Grant (~¥320,000)
 `2024`
 **<a href="http://www.buchaltercosmologyprize.org/">Buchalter Cosmology Prize</a>**, presented by <a href="https://aas.org/press/aas-names-recipients-2025-awards-prizes">American Astronomical Society</a>.
 
