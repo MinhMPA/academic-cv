@@ -66,7 +66,10 @@ Ho Chi Minh University of Science
 
 ## Grants, Awards
 `2025`
-<a href="http://www.fpastron.jp/">Japan Foundation for Promotion of Astronomy</a>, <a href="http://www.fpastron.jp/josei-r.html">Research Support Grant</a> (~¥320,000)
+**<a href="https://www.jsps.go.jp/english/e-grants/grants01.html">Japan Society for the Promotion of Science (JSPS) Grants-in-Aid for Scientific Research - Kakenhi</a>, Grant-in-Aid for Research Activity Start-up, ¥2,000,000, PI
+
+`2025`
+<a href="http://www.fpastron.jp/">Japan Foundation for Promotion of Astronomy</a>, <a href="http://www.fpastron.jp/josei-r.html">Research Support Grant</a>, ~¥320,000, PI
 
 `2024`
 **<a href="http://www.buchaltercosmologyprize.org/">Buchalter Cosmology Prize</a>**, presented by <a href="https://aas.org/press/aas-names-recipients-2025-awards-prizes">American Astronomical Society</a>.
@@ -74,7 +77,7 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 18 publications (citations 2374; h-index 16) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
+I have authored 18 publications (citations 2441; h-index 16) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
 or 12 publications, excl. big-collaboration papers (citations 425; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
 
 ### First, co-first$^1$, or significant contributions
