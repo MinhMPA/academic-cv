@@ -66,7 +66,7 @@ Ho Chi Minh University of Science
 
 ## Grants, Awards
 `2025`
-**<a href="https://www.jsps.go.jp/english/e-grants/grants01.html">Japan Society for the Promotion of Science (JSPS) Grants-in-Aid for Scientific Research - Kakenhi</a>, Grant-in-Aid for Research Activity Start-up, ¥2,000,000, PI
+**<a href="https://www.jsps.go.jp/english/e-grants/grants01.html">Japan Society for the Promotion of Science (JSPS) Grants-in-Aid for Scientific Research - Kakenhi</a>, Grant-in-Aid for Research Activity Start-up**, ¥2,000,000, PI
 
 `2025`
 <a href="http://www.fpastron.jp/">Japan Foundation for Promotion of Astronomy</a>, <a href="http://www.fpastron.jp/josei-r.html">Research Support Grant</a>, ~¥320,000, PI
