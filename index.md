@@ -23,11 +23,7 @@ Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clu
 
 ## Domain Knowledge
 
-### Skills
-
 **Bayesian inference with explicit likelihood (hierachical models, advanced sampling methods); AI-ML methods for inference, e.g. simulation-based inference using Deep Neural Networks; Large-scale, high-parallel, high-performance computing; Big-data analysis**
-
-### Experience
 
 ## Affiliation
 
