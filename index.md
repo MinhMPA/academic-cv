@@ -115,7 +115,7 @@ Xia, Huterer, **Nguyen**. <a href="https://doi.org/10.33232/001c.137793">The Ope
 
 `2024`
 **DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements**.
-DESI Collaboration. <a href="https://arxiv.org/abs/2411.12022">arXiv preprint</a>. Submitted to JCAP. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241112022D/abstract">[NASA/ADS]</a>
+DESI Collaboration. <a href="https://arxiv.org/abs/2411.12022">arXiv preprint</a>. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/07/028">JCAP07(2025)028</a>. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241112022D/abstract">[NASA/ADS]</a>
 
 `2024`
 **DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations**.
@@ -123,7 +123,7 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2404.03002">arXiv preprint</a
 
 `2024`
 **DESI 2024 V: Full-Shape Galaxy Clustering from Galaxies and Quasars**.
-DESI Collaboration. <a href="https://arxiv.org/abs/2411.12021">arXiv preprint</a>. Submitted to JCAP. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241112021D/abstract">[NASA/ADS]</a>
+DESI Collaboration. <a href="https://arxiv.org/abs/2411.12021">arXiv preprint</a>. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/09/008">JCAP09(2025)008</a>. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241112021D/abstract">[NASA/ADS]</a>
 
 `2024`
 **DESI 2024 IV: Baryon Acoustic Oscillations from the Lyman Alpha Forest**.
@@ -131,11 +131,11 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2404.03001">arXiv preprint</a
 
 `2024`
 **DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars**.
-DESI Collaboration. <a href="https://arxiv.org/abs/2404.03000">arXiv preprint</a>. Submitted to JCAP. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D/abstract">[NASA/ADS]</a>
+DESI Collaboration. <a href="https://arxiv.org/abs/2404.03000">arXiv preprint</a>. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/04/012">JCAP04(2025)012</a>. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D/abstract">[NASA/ADS]</a>
 
 `2024`
 **DESI 2024 II: Sample Definitions, Characteristics, and Two-point Clustering Statistics**.
-DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a>. Submitted to JCAP. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241112020D/abstract">[NASA/ADS]</a>
+DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a>. <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/07/017">JCAP07(2025)017</a>. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241112020D/abstract">[NASA/ADS]</a>
 
 `2023`
 **Exploring the Growth Index γL: Insights from Different CMB Dataset Combinations and Approaches**. Specogna et al. <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.043528">Phys. Rev. D 109, 043528</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230516865S/abstract">[NASA/ADS]</a>
