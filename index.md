@@ -79,7 +79,7 @@ or 12 publications, excl. big-collaboration papers (citations 437; h-index 11) <
 ### First, co-first$^1$, or significant contributions
 
 `2024`
-**A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. Accepted for publication in The Astrophysical Journal Supplement Series. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240502252B/abstract">[NASA/ADS]</a>
+**A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad781d">ApJ 990 99</a>. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240502252B/abstract">[NASA/ADS]</a>
 
 `2024`
 **How much information can be extracted from galaxy clustering at the field level?**. **Nguyen**, Schmidt, Tucci, Reinecke, Kosti&#263;. <a href="https://arxiv.org/abs/2403.03220">arXiv preprint</a>. <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.221006">Phys. Rev. Lett. 133, 221006</a> <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240303220N/abstract">[NASA/ADS]</a> <a href="https://aas.org/press/aas-names-recipients-2025-awards-prizes">[AAS 2025 Awards and Prizes Press Release]</a> <a href="https://www.space.com/the-universe/galaxies/scientists-find-hints-of-the-dark-universe-in-3d-maps-of-the-cosmos">[Space.com]</a> <a href="https://lsa.umich.edu/physics/news-events/all-news/search-news/getting-the-most-out-of-cosmic-maps---u-m-research-findings-feat.html">[UM News]</a> <a href="https://www.mpa-garching.mpg.de/1106522/hl202412">[MPA Research Highlights]</a>
