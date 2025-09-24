@@ -73,12 +73,15 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 18 publications (citations 2703; h-index 16) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Qi">[NASA ADS]</a>;
-or 12 publications, excl. big-collaboration papers (citations 445; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
+I have authored 19 publications (citations 2710; h-index 16) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Qi">[NASA ADS]</a>;
+or 13 publications, excl. big-collaboration papers (citations 445; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
 
 ### First, co-first$^1$, or significant contributions
 
-`2024`
+`2025`
+**Reconstructing the local density field with combined convolutional and point cloud architecture**. Barthe-Gold, **Nguyen**, Thiele. Accepted for <a href="https://ml4physicalsciences.github.io/2025/">NeurIPS 2025 workshop ML4PS</a>.
+
+`2025`
 **A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad781d">ApJ 990 99</a>. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240502252B/abstract">[NASA/ADS]</a>
 
 `2024`
