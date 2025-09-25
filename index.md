@@ -257,8 +257,11 @@ Active referee for **Physical Review D** (4), **Journal of Cosmology and Astropa
 
 ### Institute and Group Service
 
+`2024-now`
+**Kavli IPMU Astro Journal Club**, main organizer.
+
 `2021-2022`
- <a href="https://vllt-joint-Seminar-series.github.io/2022/">**VLLT Joint Astronomy & Physics Seminar Series**</a> (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam), founder and co-organizer.
+ <a href="https://vllt-joint-Seminar-series.github.io/2022/">**VLLT Joint Astronomy & Physics Seminar Series**</a> (for junior graduate and senior undergraduate students in Physics & Astronomy in Vietnam), founder and main organizer.
 
 `2022-now`
 **Cosmology Journal Club** and <a href="https://lsa.umich.edu/lctp/news-events/all-events/Seminars/cosmology---astrophysics-Seminars.html#q=&filter=&start=&end=12/10/2023&tags=">**Cosmology & Astrophysics Seminar** </a>(University of Michigan), founder & main organizer.
