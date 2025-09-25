@@ -206,9 +206,12 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 - <a href="https://www.linkedin.com/in/baptiste-barthe-gold/">**Baptiste Barthe-Gold**</a>, Master Student, Ecole Polytechnique, co-supervised with Leander Thiele. Paper accepted for NeurIPS 2025 workshop ML4PS (see Publications).
 
 - <a href="https://tsaprazi.eu/">**Eleni Tsaprazi**</a> Postdoc, Imperial College London. Paper published in JCAP (see Publications).
+
 - <a href="https://www.linkedin.com/in/andrew-hope-6a752527b/">**Andrew Hope**</a> ,UROP <a href="https://courses.lsa.umich.edu/urop-symposium/symposium-presentati/astrophysics-and-cosmology-from-the-cross-correlation-between-cosmic-infrared-background-and-cosmic-microwave-background-2/">project</a>, University of Michigan). <a href="https://lsa.umich.edu/physics/undergraduate-students/scholarships-and-awards.html">Otho Lyle Tiffany & Mary Lois Tiffany</a> Fellow 2024.
+
 - **Kyle Lee**, UROP <a href="https://courses.lsa.umich.edu/urop-symposium/symposium-presentati/reconstruction-of-the-dark-universe-from-galaxy-surveys-2/">project</a>, University of Michigan.
 - <a href="https://www.linkedin.com/in/disha-saxena-a95a09264/">**Disha Saxena**</a>, UROP and MRADS <a href="https://lsa.umich.edu/content/dam/mrads-assets/mrads-docs/QR%20Code%20-%20Symposium%20Program.pdf">project</a>, University of Michigan.
+
 - **Kasey Thai**, UROP <a href="https://courses.lsa.umich.edu/urop-symposium/symposium-presentati/dark-matter-or-dust-assessing-potential-dust-contamination-in-reconstructed-map-of-dark-matter-2/">project</a>, University of Michigan.
 
 ### Teaching
