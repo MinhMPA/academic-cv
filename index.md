@@ -73,8 +73,8 @@ Ho Chi Minh University of Science
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-I have authored 19 publications (citations 2710; h-index 16) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Qi">[NASA ADS]</a>;
-or 13 publications, excl. big-collaboration papers (citations 445; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
+I have authored 19 publications (citations 2711; h-index 16) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Qi">[NASA ADS]</a>;
+or 13 publications, excl. big-collaboration papers (citations 448; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
 
 ### First, co-first$^1$, or significant contributions
 
@@ -203,7 +203,9 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 
 ### Advising on a research project
 
-- <a href="https://tsaprazi.eu/">**Eleni Tsaprazi**</a> Postdoc, Imperial College London.
+- <a href="https://www.linkedin.com/in/baptiste-barthe-gold/">**Baptiste Barthe-Gold**</a>, Master Student, Ecole Polytechnique, co-supervised with Leander Thiele. Paper accepted for NeurIPS 2025 workshop ML4PS (see Publications).
+
+- <a href="https://tsaprazi.eu/">**Eleni Tsaprazi**</a> Postdoc, Imperial College London. Paper published in JCAP (see Publications).
 - <a href="https://www.linkedin.com/in/andrew-hope-6a752527b/">**Andrew Hope**</a> ,UROP <a href="https://courses.lsa.umich.edu/urop-symposium/symposium-presentati/astrophysics-and-cosmology-from-the-cross-correlation-between-cosmic-infrared-background-and-cosmic-microwave-background-2/">project</a>, University of Michigan). <a href="https://lsa.umich.edu/physics/undergraduate-students/scholarships-and-awards.html">Otho Lyle Tiffany & Mary Lois Tiffany</a> Fellow 2024.
 - **Kyle Lee**, UROP <a href="https://courses.lsa.umich.edu/urop-symposium/symposium-presentati/reconstruction-of-the-dark-universe-from-galaxy-surveys-2/">project</a>, University of Michigan.
 - <a href="https://www.linkedin.com/in/disha-saxena-a95a09264/">**Disha Saxena**</a>, UROP and MRADS <a href="https://lsa.umich.edu/content/dam/mrads-assets/mrads-docs/QR%20Code%20-%20Symposium%20Program.pdf">project</a>, University of Michigan.
