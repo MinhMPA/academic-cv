@@ -203,7 +203,7 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 
 ### Advising on a research project
 
-- <a href="https://www.linkedin.com/in/baptiste-barthe-gold/">**Baptiste Barthe-Gold**</a>, Master Student, Ecole Polytechnique. Paper accepted for NeurIPS 2025 workshop ML4PS (see Publications).
+- <a href="https://www.linkedin.com/in/baptiste-barthe-gold/">**Baptiste Barthe-Gold**</a>, Master Student, E&eacute;cole Polytechnique. Paper accepted for NeurIPS 2025 workshop ML4PS (see Publications).
 
 - <a href="https://tsaprazi.eu/">**Eleni Tsaprazi**</a>, Postdoc, Imperial College London. Paper published in JCAP (see Publications).
 
