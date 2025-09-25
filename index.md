@@ -203,9 +203,9 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 
 ### Advising on a research project
 
-- <a href="https://www.linkedin.com/in/baptiste-barthe-gold/">**Baptiste Barthe-Gold**</a>, Master Student, E&eacute;cole Polytechnique. Paper accepted for NeurIPS 2025 workshop ML4PS (see Publications).
+- <a href="https://www.linkedin.com/in/baptiste-barthe-gold/">**Baptiste Barthe-Gold**</a>, Master Student, E&eacute;cole Polytechnique. Paper accepted for <a href="https://ml4physicalsciences.github.io/2025/">NeurIPS 2025 workshop ML4PS</a>.
 
-- <a href="https://tsaprazi.eu/">**Eleni Tsaprazi**</a>, Postdoc, Imperial College London. Paper published in JCAP (see Publications).
+- <a href="https://tsaprazi.eu/">**Eleni Tsaprazi**</a>, Postdoc, Imperial College London. Paper published in JCAP.
 
 - <a href="https://www.linkedin.com/in/andrew-hope-6a752527b/">**Andrew Hope**</a> ,UROP <a href="https://courses.lsa.umich.edu/urop-symposium/symposium-presentati/astrophysics-and-cosmology-from-the-cross-correlation-between-cosmic-infrared-background-and-cosmic-microwave-background-2/">project</a>, University of Michigan). <a href="https://lsa.umich.edu/physics/undergraduate-students/scholarships-and-awards.html">Otho Lyle Tiffany & Mary Lois Tiffany</a> Fellow 2024.
 
