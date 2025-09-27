@@ -160,13 +160,12 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 `2023`
 <a href="https://tiasang.com.vn/khoa-hoc-cong-nghe/tim-nhung-tin-hieu-moi-tu-vu-tru/">**Đi tìm những tín hiệu mới từ vũ trụ**</a>, Tia Sang Magazine.
 
+## Mentoring, Advising and Teaching
+
 ### Mentoring
 
-- <a href="https://www.linkedin.com/in/carter-matties-a96143217/">**Carter Matties**</a>, Graduate Student, Syracuse, co-mentored with Dragan Huterer.
-<!--- <a href="https://www.linkedin.com/in/madeline-fredericks-48968928a/">**Madeline Fredericks**</a> (Undergraduate student, University of Michigan).-->
-- <a href="https://www.linkedin.com/in/c0smicstring/">**Andrja Kosti&#263;**</a>, Research Scientist, DeepL, co-mentored with Fabian Schmidt.
-
-## Mentoring, Advising and Teaching
+- <a href="https://www.linkedin.com/in/carter-matties-a96143217/">**Carter Matties**</a>, co-mentored with Dragan Huterer at University of Michigan, now Physics Graduate Student at Syracuse.
+- <a href="https://www.linkedin.com/in/c0smicstring/">**Andrja Kosti&#263;**</a>, co-mentored with Fabian Schmidt at Max Planck Institute for Astrophysics, now Research Scientist at DeepL.
 
 ### Advising on a research project
 
