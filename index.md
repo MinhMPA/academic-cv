@@ -15,7 +15,7 @@ Cosmologist, Kavli IPMU Fellow
 
 ## Research Interest
 
-Growth of Large-scale Structure in the Universe, New Physics from Growth of Structure, New Methods to Maximize Information from Galaxy Surveys 
+Growth of Large-scale Structure in the Universe, New Physics from Growth of Structure, Novel Statistical and Machine-learning Methods to Maximize Information from Galaxy Surveys 
 
 ## Domain Expertise
 
