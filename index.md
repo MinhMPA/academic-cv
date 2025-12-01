@@ -72,7 +72,7 @@ Ho Chi Minh University of Science
 
 ## Publications
 
-I have authored 19 publications (citations 2938; h-index 16) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Qi">[NASA ADS]</a>;
+I have authored 19 publications (citations 3063; h-index 16) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Qi">[NASA ADS]</a>;
 or 13 publications, excl. big-collaboration papers (citations 480; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
 
 ### First, co-first$^1$, or significant contributions
@@ -238,7 +238,7 @@ Active referee for **Physical Review D** (4), **Journal of Cosmology and Astropa
 ## Selected Talks
 
 - <a href="https://aprim2026.org">2026 Asia-Pacific Regional IAU Meeting (APRIM 2026), Hong Kong Convention Centre, Hongkong, May 2026.</a>
-- <a href="https://hoivl-nlc-vn.github.io/pgu2025.html">Particles, Gravitation and the Universe: from Quantum Mechanics to Quantum Gravity</a>, IOP, VAST, Ha Noi, Viet Nam, November 2025.
+- <a href="https://hoivl-nlc-vn.github.io/pgu2025.html">Particles, Gravitation and the Universe: from Quantum Mechanics to Quantum Gravity</a>, IOP, VAST, Ha Noi, Viet Nam (<a href="https://ifirse.icise.vn/nugroup/meeting/uploads/2025/11/pgu3_69290367d95639.56643167_PGU2025_IOP.pdf">slides</a>), November 2025.
 - <a href="https://www.asiaa.sinica.edu.tw/activity/colloquium.php">**ASIAA Colloquium**</a>, ASIAA/NTU (<a href="https://youtu.be/0fDK0Zgzot0?si=-bJSrUl8tGN-OJAn">recording</a>), Taipei, Taiwan, February 2025.
 - <a href="https://sites.google.com/kyoto-u.ac.jp/yitp-t-24-05/home">**"Theory and Data Analysis Challenges for Cosmological Large-Scale Structure Observations"**</a>, YITP, Kyoto, Japan (<a href="https://drive.google.com/file/d/1jv74155GLxoVUjkwyAIAaAZPKakZBIzs/view?usp=sharing">slides</a>), November 2024.
 - <a href="https://sites.google.com/view/cosmo2024/home">COSMO'24</a>, Kyoto, Japan (<a href="https://drive.google.com/file/d/17QUHC3cLeqHTzpn-1e_7Vjzu_KPanQZD/view?usp=sharing">slides</a>), October 2024.
