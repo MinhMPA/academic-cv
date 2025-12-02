@@ -74,12 +74,12 @@ Ho Chi Minh University of Science
 
 I have authored 19 publications (citations 3063; h-index 16) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Qi">[NASA ADS]</a>;
 or 13 publications, excl. big-collaboration papers (citations 480; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
-Students I advised or co-advised are indicated by $^{\ast}$ next to their names.
+Students I advised or co-advised are indicated by $^1$ next to their names.
 
 ### First, co-first, or significant contributions
 
 `2025`
-**Reconstructing the local density field with combined convolutional and point cloud architecture**. Barthe-Gold^{\ast}, **Nguyen**, Thiele. <a href="https://arxiv.org/abs/2510.08573">arXiv preprint</a>. Accepted for <a href="https://ml4physicalsciences.github.io/2025/">NeurIPS 2025 workshop ML4PS</a>.
+**Reconstructing the local density field with combined convolutional and point cloud architecture**. Barthe-Gold^1, **Nguyen**, Thiele. <a href="https://arxiv.org/abs/2510.08573">arXiv preprint</a>. Accepted for <a href="https://ml4physicalsciences.github.io/2025/">NeurIPS 2025 workshop ML4PS</a>.
 
 `2025`
 **A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad781d">ApJ 990 99</a>. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240502252B/abstract">[NASA/ADS]</a>
@@ -94,11 +94,11 @@ Students I advised or co-advised are indicated by $^{\ast}$ next to their names.
 **Evidence for suppression of structure growth in the concordance cosmological model**. **Nguyen**, Huterer, Wen. <a href="https://arxiv.org/abs/2302.0133">arXiv preprint</a>. <a href="https://doi.org/10.1103/PhysRevLett.131.111001">Phys. Rev. Lett. 131, 111001</a>. <a href="https://drive.google.com/file/d/1IRPuo9XLeOXeCcimqh63ZLEVlmJye4iP/view?usp=sharing">**Editor's Suggestion**</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023PhRvL.131k1001N/abstract">[NASA/ADS]</a> <a href="https://www.scientificamerican.com/article/a-possible-crisis-in-the-cosmos-could-lead-to-a-new-understanding-of-the-universe/">[SciAm]</a> <a href="https://www.newscientist.com/article/2391414-the-universes-evolution-seems-to-be-slowing-and-we-dont-know-why/">[NewScientist]</a> <a href="https://www.vice.com/en/article/4a3q5j/something-mysterious-appears-to-be-suppressing-the-universes-growth-scientists-say">[VICE]</a> <a href="https://news.umich.edu/the-universe-caught-suppressing-cosmic-structure-growth/">[UM News]</a>
 
 `2022`
-**Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;$^{\ast}$, **Nguyen**, Schmidt, Reinecke. <a href="
+**Consistency tests of field level inference with the EFT likelihood**. Kosti&#263;$^1$, **Nguyen**, Schmidt, Reinecke. <a href="
 https://doi.org/10.1088/1475-7516/2023/07/063">JCAP07(2023)063</a>. <a href="https://ui.adsabs.harvard.edu/abs/2023JCAP...07..063K/abstract">[NASA/ADS]</a> <a href="https://www.mpa-garching.mpg.de/1095991/hl202405">[MPA Research Highlights]</a>
 
 `2021`
-**Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey**. Tsaprazi$^{\ast}$, **Nguyen**, et al. <a href="
+**Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey**. Tsaprazi$^1$, **Nguyen**, et al. <a href="
 https://doi.org/10.1088/1475-7516/2022/08/003">JCAP08(2022)003</a>. <a href="https://ui.adsabs.harvard.edu/abs/2022JCAP...08..003T/abstract">[NASA/ADS]</a> <a href="https://www.mpa-garching.mpg.de/1052846/hl202204">[MPA Research Highlights]</a>
 
 `2021`
