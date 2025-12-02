@@ -17,9 +17,9 @@ Cosmologist, Kavli IPMU Fellow
 
 Growth of Large-scale Structure in the Universe, New Physics from Growth of Structure, Novel Statistical and Machine-learning Methods to Maximize Information from Galaxy Surveys 
 
-## Domain Expertise
+<!--## Domain Expertise-->
 
-Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clustering, galaxy intrinsic alignment); Cosmic microwave background radiation (gravitational lensing, Sunyaev-Zel'dovich effects)
+<!--Field-level, forward-modeling of large-scale galaxy redshift surveys (galaxy clustering, galaxy intrinsic alignment); Cosmic microwave background radiation (gravitational lensing, Sunyaev-Zel'dovich effects)-->
 
 ## Affiliation
 
