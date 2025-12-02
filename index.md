@@ -76,7 +76,7 @@ I have authored 19 publications (citations 3063; h-index 16) <a href="https://in
 or 13 publications, excl. big-collaboration papers (citations 480; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
 Students I advised or co-advised are indicated by $^1$ next to their names.
 
-### First, co-first, or significant contributions
+### First-author or significant contribution
 
 `2025`
 **Reconstructing the local density field with combined convolutional and point cloud architecture**. Barthe-Gold$^1$, **Nguyen**, Thiele. <a href="https://arxiv.org/abs/2510.08573">arXiv preprint</a>. Accepted for <a href="https://ml4physicalsciences.github.io/2025/">NeurIPS 2025 workshop ML4PS</a>.
