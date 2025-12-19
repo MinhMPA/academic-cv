@@ -72,9 +72,8 @@ Ho Chi Minh University of Science
 
 ## Publications
 
-I have authored 19 publications (citations 3063; h-index 16) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Qi">[NASA ADS]</a>;
+I have authored 19 publications (citations 3150; h-index 16) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
 or 13 publications, excl. big-collaboration papers (citations 480; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
-Students I advised or co-advised are indicated by $^1$ next to their names.
 
 ### First-author or significant contribution
 
@@ -202,7 +201,7 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 <a href="https://johannesulf.github.io/cosmology-school-2023/">**Michigan Cosmology Summer School 2023**</a>, Local Organizing Committee member.
 
 `2021-now`
-Active referee for **Physical Review D** (4), **Journal of Cosmology and Astroparticle Physics** (3), and **Astronomy & Astrophysics** (1),
+Active referee for **Physical Review D** (5), **Journal of Cosmology and Astroparticle Physics** (3), and **Astronomy & Astrophysics** (1),
 
 `2024-now`
 **Kavli IPMU Astro Journal Club**, main organizer.
