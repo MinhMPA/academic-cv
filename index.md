@@ -201,7 +201,7 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 <a href="https://johannesulf.github.io/cosmology-school-2023/">**Michigan Cosmology Summer School 2023**</a>, Local Organizing Committee member.
 
 `2021-now`
-Active referee for **Physical Review D** (5), **Journal of Cosmology and Astroparticle Physics** (3), and **Astronomy & Astrophysics** (1),
+Active referee for **Physical Review Letters** (1), **Astrophysical Journal Letters** (1), **Physical Review D** (5), **Journal of Cosmology and Astroparticle Physics** (5), and **Astronomy & Astrophysics** (1),
 
 `2024-now`
 **Kavli IPMU Astro Journal Club**, main organizer.
