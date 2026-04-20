@@ -72,8 +72,8 @@ Ho Chi Minh University of Science
 
 ## Publications
 
-I have authored 19 publications (citations 3197; h-index 16) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
-or 13 publications, excl. big-collaboration papers (citations 483; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
+I have authored 20 publications (citations 3779; h-index 17) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
+or 14 publications, excl. big-collaboration papers (citations 527; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
 
 ### First-author or significant contribution
 
@@ -237,7 +237,8 @@ Active referee for **Physical Review Letters** (1), **Astrophysical Journal Lett
 
 ## Selected Talks
 
-- <a href="https://aprim2026.org">2026 Asia-Pacific Regional IAU Meeting (APRIM 2026), Hong Kong Convention Centre, Hongkong, May 2026.</a>
+<!--- <a href="https://aprim2026.org">2026 Asia-Pacific Regional IAU Meeting (APRIM 2026), Hong Kong Convention Centre, Hongkong, May 2026.</a>-->
+- <a href="https://www.lecospa.ntu.edu.tw/talks">LeCosPA seminar</a>, LeCosPA, NTU, Taipei, Taiwan, May 2026.
 - <a href="https://hoivl-nlc-vn.github.io/pgu2025.html">Particles, Gravitation and the Universe: from Quantum Mechanics to Quantum Gravity</a>, IOP, VAST, Ha Noi, Viet Nam (<a href="https://ifirse.icise.vn/nugroup/meeting/uploads/2025/11/pgu3_69290367d95639.56643167_PGU2025_IOP.pdf">slides</a>), November 2025.
 - <a href="https://www.asiaa.sinica.edu.tw/activity/colloquium.php">**ASIAA Colloquium**</a>, ASIAA/NTU (<a href="https://youtu.be/0fDK0Zgzot0?si=-bJSrUl8tGN-OJAn">recording</a>), Taipei, Taiwan, February 2025.
 - <a href="https://sites.google.com/kyoto-u.ac.jp/yitp-t-24-05/home">**"Theory and Data Analysis Challenges for Cosmological Large-Scale Structure Observations"**</a>, YITP, Kyoto, Japan (<a href="https://drive.google.com/file/d/1jv74155GLxoVUjkwyAIAaAZPKakZBIzs/view?usp=sharing">slides</a>), November 2024.
