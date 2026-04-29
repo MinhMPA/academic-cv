@@ -72,10 +72,16 @@ Ho Chi Minh University of Science
 
 ## Publications
 
-I have authored 20 publications (citations 3779; h-index 17) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
-or 14 publications, excl. big-collaboration papers (citations 527; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
+I have authored 21 publications (citations 3817; h-index 17) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
+or 15 publications, excl. big-collaboration papers (citations 529; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;  
 
 ### First-author or significant contribution
+
+`2026`
+**Multi-tracers, multi-surveys: data-driven EFT prior calibration from the PFS--DESI overlap**. **Nguyen**. <a href="https://arxiv.org/abs/2604.25171">arXiv preprint</a>. Submitted to JCAP.
+
+`2026`
+**Galaxy sizes as complementary (zero-)bias tracers of local primordial non-Gaussianity**. **Nguyen**, Akitsu, Taruya. <a href="https://arxiv.org/abs/2603.20196">arXiv preprint</a>. Submitted to PRD.
 
 `2025`
 **Reconstructing the local density field with combined convolutional and point cloud architecture**. Barthe-Gold$^1$, **Nguyen**, Thiele. <a href="https://arxiv.org/abs/2510.08573">arXiv preprint</a>. Accepted for <a href="https://ml4physicalsciences.github.io/2025/">NeurIPS 2025 workshop ML4PS</a>.
