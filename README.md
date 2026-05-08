@@ -2,6 +2,29 @@
 
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
+## Public CV Pages
+
+The main internet-facing CV is `index.md`. It is a clean Academic CV / Research CV derived from the senior research CV, without role-specific labels.
+
+The older long-form CV is preserved at `full-cv.md`.
+
+Public PDFs use neutral filenames:
+
+- `cv/Nhat-Minh-Nguyen-academic-cv.pdf`
+- `cv/Nhat-Minh-Nguyen-technical-research-cv.pdf`
+
+Build locally with:
+
+```sh
+bundle exec jekyll build --destination /tmp/academic-cv-site
+```
+
+Serve locally with:
+
+```sh
+bundle exec jekyll serve
+```
+
 For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
 
 ***

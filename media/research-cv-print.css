@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  color: #111;
+  background: #fff;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 10.5pt;
+  line-height: 1.28;
+}
+
+#cv {
+  width: auto;
+  margin: 0.35in 0.45in;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+  font-size: 21pt;
+  line-height: 1.1;
+}
+
+h1 + p,
+.cv-affiliation,
+.cv-links,
+.cv-downloads {
+  text-align: center;
+}
+
+h1 + p,
+.cv-affiliation {
+  margin: 0.08in 0 0;
+}
+
+.cv-links {
+  margin: 0.08in 0 0.2in;
+}
+
+.cv-downloads {
+  display: none;
+}
+
+a {
+  color: #111;
+  text-decoration: none;
+}
+
+h2 {
+  margin: 0.17in 0 0.06in;
+  padding-bottom: 0.02in;
+  border-bottom: 0.5pt solid #111;
+  font-size: 13pt;
+  line-height: 1.1;
+  text-transform: uppercase;
+  letter-spacing: 0;
+}
+
+h3 {
+  margin: 0.1in 0 0.03in;
+  font-size: 10.5pt;
+}
+
+p {
+  margin: 0 0 0.05in;
+}
+
+ul,
+ol {
+  margin: 0.03in 0 0.08in 0.18in;
+  padding: 0;
+}
+
+li {
+  margin: 0.01in 0;
+}
+
+.entry {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 1.25in;
+  column-gap: 0.12in;
+  margin: 0 0 0.05in;
+}
+
+.entry-title {
+  font-weight: 700;
+}
+
+.entry-date {
+  text-align: right;
+  font-style: italic;
+  white-space: nowrap;
+}
+
+.entry-detail {
+  grid-column: 1 / -1;
+}
+
+.label-row {
+  display: grid;
+  grid-template-columns: 1.35in minmax(0, 1fr);
+  column-gap: 0.15in;
+  margin: 0 0 0.04in;
+}
+
+.label {
+  font-weight: 700;
+}
+
+.note {
+  font-style: italic;
+}

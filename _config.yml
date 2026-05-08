@@ -1,2 +1,9 @@
 markdown:   kramdown
 style:  davewhipp
+exclude:
+  - .agents
+  - docs
+  - jpl-cv
+  - tmp
+  - skills-lock.json
+  - "\\"
