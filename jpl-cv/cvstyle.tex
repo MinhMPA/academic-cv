@@ -1,0 +1,115 @@
+% Shared style for JPL-targeted academic CVs.
+% Inspired by the Northeastern University COS Faculty CV Template
+% by Zoe Kearney, LPPL 1.3c, and adapted for a compact research CV.
+
+\documentclass[letterpaper,10pt]{extarticle}
+
+\usepackage[letterpaper,margin=0.72in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\definecolor{cvlink}{HTML}{C0005A}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=cvlink,
+  urlcolor=cvlink,
+  citecolor=cvlink,
+  pdfborder={0 0 0}
+}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\tabcolsep}{0pt}
+\urlstyle{same}
+
+\titleformat{\section}
+  {\large\bfseries}
+  {}
+  {0pt}
+  {\MakeUppercase}
+  [\vspace{0.12em}\titlerule]
+\titlespacing*{\section}{0pt}{1.0em}{0.5em}
+
+\titleformat{\subsection}
+  {\normalsize\bfseries}
+  {}
+  {0pt}
+  {}
+\titlespacing*{\subsection}{0pt}{0.65em}{0.2em}
+
+\newenvironment{tightitemize}
+  {\begin{itemize}[leftmargin=1.2em,itemsep=0.16em,topsep=0.12em,parsep=0pt]}
+  {\end{itemize}}
+
+\newcommand{\cvheader}[5]{%
+  \begin{center}
+    {\LARGE \bfseries #1}\\[3pt]
+    {#2}\\[2pt]
+    {#3}\\[2pt]
+    \href{#4}{LinkedIn} \quad|\quad
+    \href{#5}{GitHub} \quad|\quad
+    \href{https://orcid.org/0000-0002-2542-7233}{ORCID}
+  \end{center}
+  \vspace{0.25em}
+}
+
+\newcommand{\datedentry}[4]{%
+  \noindent
+  \begin{tabularx}{\textwidth}{@{}>{\bfseries}X r@{}}
+    #1 & \textit{#2}
+  \end{tabularx}\\[-0.1em]
+  #3%
+  \if\relax\detokenize{#4}\relax
+  \else
+    \\[-0.05em]#4
+  \fi
+  \par\vspace{0.45em}
+}
+
+\newcommand{\roleentry}[4]{%
+  \noindent
+  \begin{tabularx}{\textwidth}{@{}>{\bfseries}X r@{}}
+    #1 & \textit{#2}
+  \end{tabularx}\\[-0.05em]
+  \textit{#3}\\[-0.15em]
+  #4
+  \par\vspace{0.45em}
+}
+
+\newcommand{\twocolentry}[2]{%
+  \noindent
+  \begin{tabularx}{\textwidth}{@{}>{\bfseries}p{0.22\textwidth} X@{}}
+    #1 & #2
+  \end{tabularx}
+  \par\vspace{0.22em}
+}
+
+\newcommand{\honorentry}[2]{%
+  \noindent
+  \begin{tabularx}{\textwidth}{@{}>{\bfseries\raggedright\arraybackslash}X >{\raggedleft\arraybackslash}p{0.13\textwidth}@{}}
+    #1 & \textit{#2}
+  \end{tabularx}
+  \par\vspace{0.22em}
+}
+
+\newcounter{pubnum}
+\newcommand{\resetpubs}{\setcounter{pubnum}{0}}
+\newcommand{\pubitem}[1]{%
+  \refstepcounter{pubnum}
+  \noindent\hangindent=1.8em\hangafter=1
+  \makebox[1.45em][r]{\thepubnum.}\hspace{0.35em}#1
+  \par\vspace{0.22em}
+}
+
+\newcommand{\selectednote}[1]{%
+  {\small\textit{#1}}\par\vspace{0.35em}
+}

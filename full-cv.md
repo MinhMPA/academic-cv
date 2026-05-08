@@ -78,7 +78,7 @@ or 15 publications, excl. big-collaboration papers (citations 529; h-index 11) <
 ### First-author or significant contribution
 
 `2026`
-**Multi-tracers, multi-surveys: data-driven EFT prior calibration from the PFS--DESI overlap**. **Nguyen**. <a href="https://arxiv.org/abs/2604.25171">arXiv preprint</a>. Submitted to JCAP.
+**Multi-tracers, multi-surveys: a joint Fisher analysis of DESI+PFS**. **Nguyen**. <a href="https://arxiv.org/abs/2604.25171">arXiv preprint</a>. Submitted to JCAP.
 
 `2026`
 **Galaxy sizes as complementary (zero-)bias tracers of local primordial non-Gaussianity**. **Nguyen**, Akitsu, Taruya. <a href="https://arxiv.org/abs/2603.20196">arXiv preprint</a>. Submitted to PRD.

@@ -13,12 +13,6 @@ Cosmologist, Kavli IPMU Fellow
 <a href="https://orcid.org/0000-0002-2542-7233">ORCID</a>
 </p>
 
-<p class="cv-downloads">
-<a href="cv/Nhat-Minh-Nguyen-academic-cv.pdf">Academic CV PDF</a>
-<a href="cv/Nhat-Minh-Nguyen-technical-research-cv.pdf">Technical Research CV PDF</a>
-<a href="full-cv.html">Full CV Archive</a>
-</p>
-
 ## Research Profile
 
 Cosmologist working on growth of large-scale structure, new physics from galaxy surveys, and statistical methods for extracting information from cosmological data. Current research connects field-level inference, effective-field-theory likelihoods, multi-tracer analyses, and machine-learning methods for spectroscopic surveys. Publication record: 21 papers, including 15 outside large-collaboration author lists; h-index 17 on the current CV.
@@ -132,7 +126,7 @@ Cosmologist working on growth of large-scale structure, new physics from galaxy 
 
 ## Selected Publications
 
-1. **Nguyen**. "Multi-tracers, multi-surveys: data-driven EFT prior calibration from the PFS-DESI overlap." <a href="https://arxiv.org/abs/2604.25171">arXiv preprint</a>. Submitted to JCAP, 2026.
+1. **Nguyen**. "Multi-tracers, multi-surveys: a joint Fisher analysis of DESI+PFS." <a href="https://arxiv.org/abs/2604.25171">arXiv preprint</a>. Submitted to JCAP, 2026.
 2. **Nguyen**, Akitsu, Taruya. "Galaxy sizes as complementary (zero-)bias tracers of local primordial non-Gaussianity." <a href="https://arxiv.org/abs/2603.20196">arXiv preprint</a>. Submitted to PRD, 2026.
 3. Barthe-Gold, **Nguyen**, Thiele. "Reconstructing the local density field with combined convolutional and point cloud architecture." <a href="https://arxiv.org/abs/2510.08573">arXiv preprint</a>. Accepted for NeurIPS 2025 Workshop ML4PS.
 4. Beyond-2point Collaboration. "A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics." ApJ 990, 99, 2025.
