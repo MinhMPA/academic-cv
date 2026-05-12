@@ -226,7 +226,7 @@ Cosmologist working on growth of large-scale structure, new physics from galaxy 
 
 ## Professional Service
 
-<div class="label-row"><div class="label">Referee</div><div>Physical Review Letters, Astrophysical Journal Letters, Physical Review D, Journal of Cosmology and Astroparticle Physics, Astronomy &amp; Astrophysics.</div></div>
+<div class="label-row"><div class="label">Referee</div><div>Physical Review Letters, Astrophysical Journal Letters, Physical Review D, Astrophysical Journal, Astronomy &amp; Astrophysics, Journal of Cosmology and Astroparticle Physics.</div></div>
 <div class="label-row"><div class="label">Community</div><div>Founder or main organizer of VLLT Joint Astronomy &amp; Physics Seminar Series, Cosmology Journal Club, Cosmology &amp; Astrophysics Seminar at the University of Michigan, Kavli IPMU Astro Journal Club, and institute social coffee activities.</div></div>
 <div class="label-row"><div class="label">Outreach</div><div>Panelist for r/askscience and YouTube AMA, Cosmology from Home 2023; scientist participant in Skype a Scientist, APS Physicists To-Go, and University of Michigan Science Communication Fellows.</div></div>
 
