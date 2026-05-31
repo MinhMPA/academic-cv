@@ -72,10 +72,13 @@ Ho Chi Minh University of Science
 
 ## Publications
 
-I have authored 21 publications (citations 3817; h-index 17) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
-or 15 publications, excl. big-collaboration papers (citations 529; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;
+I have authored 22 publications (citations 3817; h-index 17) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
+or 16 publications, excl. big-collaboration papers (citations 529; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;
 
 ### First-author or significant contribution
+
+`2026`
+**Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**. **Nguyen**. <a href="https://arxiv.org/abs/2605.30353v1">arXiv preprint</a>. Accepted for ICML 2026 AI for Science Workshop.
 
 `2026`
 **Multi-tracers, multi-surveys: a joint Fisher analysis of DESI+PFS**. **Nguyen**. <a href="https://arxiv.org/abs/2604.25171">arXiv preprint</a>. Submitted to JCAP.
@@ -84,7 +87,7 @@ or 15 publications, excl. big-collaboration papers (citations 529; h-index 11) <
 **Galaxy sizes as complementary (zero-)bias tracers of local primordial non-Gaussianity**. **Nguyen**, Akitsu, Taruya. <a href="https://arxiv.org/abs/2603.20196">arXiv preprint</a>. Submitted to PRD.
 
 `2025`
-**Reconstructing the local density field with combined convolutional and point cloud architecture**. Barthe-Gold$^1$, **Nguyen**, Thiele. <a href="https://arxiv.org/abs/2510.08573">arXiv preprint</a>. Accepted for <a href="https://ml4physicalsciences.github.io/2025/">NeurIPS 2025 workshop ML4PS</a>.
+**Reconstructing the local density field with combined convolutional and point cloud architecture**. Barthe-Gold$^1$, **Nguyen**, Thiele. <a href="https://arxiv.org/abs/2510.08573">arXiv preprint</a>. Accepted for <a href="https://ml4physicalsciences.github.io/2025/">NeurIPS 2025 Machine Learning for Physical Science Workshop</a>.
 
 `2025`
 **A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics**. Beyond-2point Collaboration. <a href="https://arxiv.org/abs/2405.02252">arXiv preprint</a>. <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad781d">ApJ 990 99</a>. <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240502252B/abstract">[NASA/ADS]</a>
@@ -170,7 +173,7 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 
 ### Advising on a research project
 
-- <a href="https://www.linkedin.com/in/baptiste-barthe-gold/">**Baptiste Barthe-Gold**</a>, Master Student, E&eacute;cole Polytechnique. Paper accepted for <a href="https://ml4physicalsciences.github.io/2025/">NeurIPS 2025 workshop ML4PS</a>.
+- <a href="https://www.linkedin.com/in/baptiste-barthe-gold/">**Baptiste Barthe-Gold**</a>, Master Student, E&eacute;cole Polytechnique. Paper accepted for <a href="https://ml4physicalsciences.github.io/2025/">NeurIPS 2025 Machine Learning for Physical Science Workshop</a>.
 - <a href="https://tsaprazi.eu/">**Eleni Tsaprazi**</a>, Postdoc, Imperial College London. Paper published in JCAP.
 - <a href="https://www.linkedin.com/in/andrew-hope-6a752527b/">**Andrew Hope**</a> ,UROP <a href="https://courses.lsa.umich.edu/urop-symposium/symposium-presentati/astrophysics-and-cosmology-from-the-cross-correlation-between-cosmic-infrared-background-and-cosmic-microwave-background-2/">project</a>, University of Michigan). <a href="https://lsa.umich.edu/physics/undergraduate-students/scholarships-and-awards.html">Otho Lyle Tiffany & Mary Lois Tiffany</a> Fellow 2024.
 - <a href="https://www.linkedin.com/in/leekylejung/">**Kyle Lee**</a>, UROP <a href="https://courses.lsa.umich.edu/urop-symposium/symposium-presentati/reconstruction-of-the-dark-universe-from-galaxy-surveys-2/">project</a>, University of Michigan.
