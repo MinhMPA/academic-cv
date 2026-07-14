@@ -72,10 +72,13 @@ Ho Chi Minh University of Science
 
 ## Publications
 
-I have authored 22 publications (citations 3817; h-index 17) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
-or 16 publications, excl. big-collaboration papers (citations 529; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;
+I have authored 23 publications (citations 3817; h-index 17) <a href="https://inspirehep.net/authors/1986925">[INSPIRE HEP]</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/nPbakMDVTWazN8MCEJy62Q">[NASA ADS]</a>;
+or 17 publications, excl. big-collaboration papers (citations 529; h-index 11) <a href="https://ui.adsabs.harvard.edu/public-libraries/-aZnle7CQ0itp22F4-lR3g">[NASA ADS]</a>;
 
 ### First-author or significant contribution
+
+`2026`
+**How I stop worrying about non-universality and b_phi: Constraining local f_NL with b_phi priors from HOD posteriors**. Yu, **Nguyen**. <a href="https://arxiv.org/abs/2607.01314">arXiv preprint</a>.
 
 `2026`
 **Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**. **Nguyen**. <a href="https://arxiv.org/abs/2605.30353v1">arXiv preprint</a>. Accepted for ICML 2026 AI for Science Workshop.
@@ -182,6 +185,9 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 
 ### Teaching
 
+`Summer 2026`
+<a href="https://www.icisequynhon.com/conferences/2026/VSOA10/index.html">**VSOA10: Cosmology**</a>, lecturer, 10th Vietnam School of Astrophysics, ICISE Quy Nhon.
+
 `Summer 2024`
 <a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, course instructor, <a href="https://sites.lsa.umich.edu/mmss/2024-course-offerings/">"Climbing the Distance Ladder to the Big Bang: How astronomers survey the Universe."</a>
 
@@ -189,6 +195,9 @@ DESI Collaboration. <a href="https://arxiv.org/abs/2411.12020">arXiv preprint</a
 <a href="https://sites.lsa.umich.edu/mmss/">**Michigan Math and Science Scholars**</a>, guest lecturer.
 
 ## Professional Services
+
+`2026`
+- <a href="https://www.icisequynhon.com/conferences/2026/VSOA10/index.html">**VSOA10: Cosmology**</a>, Organizing Committee Chair.
 
 `2025`
 - <a href="http://vietnam.in2p3.fr/2025/Cosmology/overview.php">**Cosmology**</a>, Scientific Program Committee member.

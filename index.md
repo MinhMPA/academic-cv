@@ -15,7 +15,7 @@ Cosmologist, Kavli IPMU Fellow
 
 ## Research Profile
 
-Cosmologist working on growth of large-scale structure, new physics from galaxy surveys, and statistical methods for extracting information from cosmological data. Current research connects field-level inference, effective-field-theory likelihoods, multi-tracer analyses, and machine-learning methods for spectroscopic surveys. Publication record: 22 papers, including 16 outside large-collaboration author lists; h-index 17 on the current CV.
+Cosmologist working on growth of large-scale structure, new physics from galaxy surveys, and statistical methods for extracting information from cosmological data. Current research connects field-level inference, effective-field-theory likelihoods, multi-tracer analyses, and machine-learning methods for spectroscopic surveys. Publication record: 23 papers, including 17 outside large-collaboration author lists; h-index 17 on the current CV.
 
 ## Selected Honors
 
@@ -37,6 +37,11 @@ Cosmologist working on growth of large-scale structure, new physics from galaxy 
 </div>
 
 ## Scientific Leadership
+
+<div class="entry">
+<div><span class="entry-title"><a href="https://www.icisequynhon.com/conferences/2026/VSOA10/index.html">VSOA10: Cosmology</a></span><br>Organizing Committee Chair and lecturer</div>
+<div class="entry-date">2026</div>
+</div>
 
 <div class="entry">
 <div><span class="entry-title"><a href="https://indico.ipmu.jp/event/460/">Beyond-2-Point Statistics Meet Survey Systematics</a></span><br>Organizing Committee Chair</div>
@@ -68,6 +73,7 @@ Cosmologist working on growth of large-scale structure, new physics from galaxy 
 - Co-mentored Carter Matties at the University of Michigan; now Physics Graduate Student at Syracuse.
 - Co-mentored Andrja Kosti&#263; at the Max Planck Institute for Astrophysics; now Research Scientist at DeepL.
 - Advised research projects for Baptiste Barthe-Gold, Eleni Tsaprazi, Andrew Hope, Kyle Lee, Disha Saxena, and Kasey Thai.
+- Lecturer, VSOA10: Cosmology, 10th Vietnam School of Astrophysics, ICISE Quy Nhon, Summer 2026.
 - Course instructor, Michigan Math and Science Scholars, "Climbing the Distance Ladder to the Big Bang: How astronomers survey the Universe," Summer 2024.
 - Guest lecturer, Michigan Math and Science Scholars, Summer 2023.
 
@@ -126,21 +132,22 @@ Cosmologist working on growth of large-scale structure, new physics from galaxy 
 
 ## Selected Publications
 
-1. **Nguyen**. "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software." <a href="https://arxiv.org/abs/2605.30353v1">arXiv preprint</a>. Accepted for ICML 2026 AI for Science Workshop.
-2. **Nguyen**. "Multi-tracers, multi-surveys: a joint Fisher analysis of DESI+PFS." <a href="https://arxiv.org/abs/2604.25171">arXiv preprint</a>. Submitted to JCAP, 2026.
-3. **Nguyen**, Akitsu, Taruya. "Galaxy sizes as complementary (zero-)bias tracers of local primordial non-Gaussianity." <a href="https://arxiv.org/abs/2603.20196">arXiv preprint</a>. Submitted to PRD, 2026.
-4. Barthe-Gold, **Nguyen**, Thiele. "Reconstructing the local density field with combined convolutional and point cloud architecture." <a href="https://arxiv.org/abs/2510.08573">arXiv preprint</a>. Accepted for NeurIPS 2025 Machine Learning for Physical Science Workshop.
-5. Beyond-2point Collaboration. "A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics." ApJ 990, 99, 2025.
-6. **Nguyen**, Schmidt, Tucci, Reinecke, Kosti&#263;. "How much information can be extracted from galaxy clustering at the field level?" Phys. Rev. Lett. 133, 221006, 2024.
-7. Wen, **Nguyen**, Huterer. "Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories." JCAP 09, 028, 2023.
-8. **Nguyen**, Huterer, Wen. "Evidence for suppression of structure growth in the concordance cosmological model." Phys. Rev. Lett. 131, 111001, 2023. Editor's Suggestion.
-9. Kosti&#263;, **Nguyen**, Schmidt, Reinecke. "Consistency tests of field level inference with the EFT likelihood." JCAP 07, 063, 2023.
-10. Tsaprazi, **Nguyen**, et al. "Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey." JCAP 08, 003, 2022.
-11. **Nguyen** et al. "Impacts of the physical data model on the forward inference of initial conditions from biased tracers." JCAP 03, 058, 2021.
-12. **Nguyen** et al. "Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling." JCAP 12, 011, 2020.
-13. DESI Collaboration. "DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements." JCAP 07, 028, 2025.
-14. DESI Collaboration. "DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations." JCAP 02, 021, 2025.
-15. Schmidt et al. "A rigorous EFT-based forward model for large-scale structure." JCAP 01, 042, 2019.
+1. Yu, **Nguyen**. "How I stop worrying about non-universality and b_phi: Constraining local f_NL with b_phi priors from HOD posteriors." <a href="https://arxiv.org/abs/2607.01314">arXiv preprint</a>, 2026.
+2. **Nguyen**. "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software." <a href="https://arxiv.org/abs/2605.30353v1">arXiv preprint</a>. Accepted for ICML 2026 AI for Science Workshop.
+3. **Nguyen**. "Multi-tracers, multi-surveys: a joint Fisher analysis of DESI+PFS." <a href="https://arxiv.org/abs/2604.25171">arXiv preprint</a>. Submitted to JCAP, 2026.
+4. **Nguyen**, Akitsu, Taruya. "Galaxy sizes as complementary (zero-)bias tracers of local primordial non-Gaussianity." <a href="https://arxiv.org/abs/2603.20196">arXiv preprint</a>. Submitted to PRD, 2026.
+5. Barthe-Gold, **Nguyen**, Thiele. "Reconstructing the local density field with combined convolutional and point cloud architecture." <a href="https://arxiv.org/abs/2510.08573">arXiv preprint</a>. Accepted for NeurIPS 2025 Machine Learning for Physical Science Workshop.
+6. Beyond-2point Collaboration. "A parameter-masked mock data challenge for beyond-2pt galaxy clustering statistics." <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad781d">ApJ 990, 99, 2025</a>.
+7. **Nguyen**, Schmidt, Tucci, Reinecke, Kosti&#263;. "How much information can be extracted from galaxy clustering at the field level?" <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.221006">Phys. Rev. Lett. 133, 221006, 2024</a>.
+8. Wen, **Nguyen**, Huterer. "Sweeping through Horndeski Canvas: a New Growth-Rate Parameterization for Modified-Gravity Theories." <a href="https://doi.org/10.1088/1475-7516/2023/09/028">JCAP 09, 028, 2023</a>.
+9. **Nguyen**, Huterer, Wen. "Evidence for suppression of structure growth in the concordance cosmological model." <a href="https://doi.org/10.1103/PhysRevLett.131.111001">Phys. Rev. Lett. 131, 111001, 2023</a>. Editor's Suggestion.
+10. Kosti&#263;, **Nguyen**, Schmidt, Reinecke. "Consistency tests of field level inference with the EFT likelihood." <a href="https://doi.org/10.1088/1475-7516/2023/07/063">JCAP 07, 063, 2023</a>.
+11. Tsaprazi, **Nguyen**, et al. "Field-level inference of galaxy intrinsic alignment from the SDSS-III BOSS survey." <a href="https://doi.org/10.1088/1475-7516/2022/08/003">JCAP 08, 003, 2022</a>.
+12. **Nguyen** et al. "Impacts of the physical data model on the forward inference of initial conditions from biased tracers." <a href="https://doi.org/10.1088/1475-7516/2021/03/058">JCAP 03, 058, 2021</a>.
+13. **Nguyen** et al. "Taking measurements of the kinematic Sunyaev-Zel'dovich effect forward: including uncertainties from velocity reconstruction with forward modeling." <a href="https://doi.org/10.1088/1475-7516/2020/12/011">JCAP 12, 011, 2020</a>.
+14. DESI Collaboration. "DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements." <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/07/028">JCAP 07, 028, 2025</a>.
+15. DESI Collaboration. "DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations." <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/02/021">JCAP 02, 021, 2025</a>.
+16. Schmidt et al. "A rigorous EFT-based forward model for large-scale structure." <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2019/01/042">JCAP 01, 042, 2019</a>.
 
 ## Selected Talks
 
