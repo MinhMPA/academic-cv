@@ -252,6 +252,7 @@ Active referee for **Physical Review Letters** (1), **Astrophysical Journal Lett
 ## Selected Talks
 
 <!--- <a href="https://aprim2026.org">2026 Asia-Pacific Regional IAU Meeting (APRIM 2026), Hong Kong Convention Centre, Hongkong, May 2026.</a>-->
+- <a href="https://sites.google.com/view/tcnl2026/home">**"Pushing the boundaries of searches for primordial non-Gaussianity"**</a>, Theoretical challenges towards non-linearities from the early universe, YITP, Kyoto, Japan, July 2026.
 - <a href="https://www.lecospa.ntu.edu.tw/talks">LeCosPA seminar</a>, LeCosPA, NTU, Taipei, Taiwan, May 2026.
 - <a href="https://hoivl-nlc-vn.github.io/pgu2025.html">Particles, Gravitation and the Universe: from Quantum Mechanics to Quantum Gravity</a>, IOP, VAST, Ha Noi, Viet Nam (<a href="https://ifirse.icise.vn/nugroup/meeting/uploads/2025/11/pgu3_69290367d95639.56643167_PGU2025_IOP.pdf">slides</a>), November 2025.
 - <a href="https://www.asiaa.sinica.edu.tw/activity/colloquium.php">**ASIAA Colloquium**</a>, ASIAA/NTU (<a href="https://youtu.be/0fDK0Zgzot0?si=-bJSrUl8tGN-OJAn">recording</a>), Taipei, Taiwan, February 2025.

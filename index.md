@@ -154,6 +154,11 @@ Cosmologist working on growth of large-scale structure, new physics from galaxy 
 <p class="note">Conference and workshop talks only; ordinary seminar talks are intentionally omitted.</p>
 
 <div class="entry">
+<div><a href="https://sites.google.com/view/tcnl2026/home">"Pushing the boundaries of searches for primordial non-Gaussianity,"</a> Theoretical challenges towards non-linearities from the early universe, YITP, Kyoto, Japan.</div>
+<div class="entry-date">2026</div>
+</div>
+
+<div class="entry">
 <div>Particles, Gravitation and the Universe: from Quantum Mechanics to Quantum Gravity, IOP, VAST, Ha Noi, Viet Nam.</div>
 <div class="entry-date">2025</div>
 </div>
