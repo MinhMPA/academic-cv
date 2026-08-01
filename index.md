@@ -159,22 +159,22 @@ Cosmologist working on growth of large-scale structure, new physics from galaxy 
 </div>
 
 <div class="entry">
-<div>Particles, Gravitation and the Universe: from Quantum Mechanics to Quantum Gravity, IOP, VAST, Ha Noi, Viet Nam.</div>
+<div><a href="https://hoivl-nlc-vn.github.io/pgu2025.html">Particles, Gravitation and the Universe: from Quantum Mechanics to Quantum Gravity</a>, IOP, VAST, Ha Noi, Viet Nam.</div>
 <div class="entry-date">2025</div>
 </div>
 
 <div class="entry">
-<div>"Theory and Data Analysis Challenges for Cosmological Large-Scale Structure Observations," YITP, Kyoto, Japan.</div>
+<div><a href="https://sites.google.com/kyoto-u.ac.jp/yitp-t-24-05/home">"Theory and Data Analysis Challenges for Cosmological Large-Scale Structure Observations,"</a> YITP, Kyoto, Japan.</div>
 <div class="entry-date">2024</div>
 </div>
 
 <div class="entry">
-<div>COSMO'24, Kyoto, Japan.</div>
+<div><a href="https://sites.google.com/view/cosmo2024/home">COSMO'24</a>, Kyoto, Japan.</div>
 <div class="entry-date">2024</div>
 </div>
 
 <div class="entry">
-<div>PASCOS 2024, Plenary Session, ICISE Quy Nhon, Viet Nam.</div>
+<div><a href="https://www.icisequynhon.com/k-event/29th-international-symposium-on-particles-string-and-cosmology/">PASCOS 2024, Plenary Session</a>, ICISE Quy Nhon, Viet Nam.</div>
 <div class="entry-date">2024</div>
 </div>
 
