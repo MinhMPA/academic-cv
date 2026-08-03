@@ -259,3 +259,8 @@ Cosmologist working on growth of large-scale structure, new physics from galaxy 
 <div><span class="entry-title">Prof. Elisabeth Krause</span><br>External collaborator and mentor<br>University of Arizona<br><a href="mailto:krausee@arizona.edu">krausee@arizona.edu</a></div>
 <div class="entry-date"></div>
 </div>
+
+<div class="entry">
+<div><span class="entry-title">Prof. Masahiro Takada</span><br>Colleague<br>Kavli IPMU<br><a href="mailto:masahiro.takada@ipmu.jp">masahiro.takada@ipmu.jp</a></div>
+<div class="entry-date"></div>
+</div>
