@@ -20,6 +20,11 @@ Cosmologist working on growth of large-scale structure, new physics from galaxy 
 ## Selected Honors
 
 <div class="entry">
+<div><span class="entry-title"><a href="https://aas.org/grants-and-prizes/lancelot-m-berkeley-new-york-community-trust-prize-meritorious-work-astronomy">AAS Lancelot M. Berkeley Prize (DESI Collaboration)</a></span>, recognizing BAO results from DESI's first three years, including <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/02/021">DESI 2024 VI</a>.</div>
+<div class="entry-date">2026</div>
+</div>
+
+<div class="entry">
 <div><span class="entry-title"><a href="http://www.buchaltercosmologyprize.org/">Buchalter Cosmology Prize</a></span>, with American Astronomical Society award announcement</div>
 <div class="entry-date">2024</div>
 </div>
